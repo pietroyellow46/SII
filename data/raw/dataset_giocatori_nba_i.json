@@ -1,0 +1,812 @@
+[
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/iavarma01.html",
+        "Nome":"Marc Iavaroni",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"September 15 , 1956",
+        "College":[
+            "Virginia"
+        ],
+        "High School":"Kennedy",
+        "Draft Team":"New York Knicks",
+        "Draft Year":"1978",
+        "Debut":"1982",
+        "Experience":"7",
+        "Altezza":"208cm",
+        "Peso":"102kg",
+        "G":"531",
+        "PTS":"4.4",
+        "TRB":"3.2",
+        "AST":"1.0",
+        "FG%":"45.9",
+        "FG3%":"0.0",
+        "FT%":"71.0",
+        "eFG%":"45.9",
+        "PER":"7.9",
+        "WS":"8.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/ibakase01.html",
+        "Nome":"Serge Ibaka",
+        "Position":[
+            "Power Forward",
+            "Center"
+        ],
+        "Born":"September 18 , 1989",
+        "College":null,
+        "High School":null,
+        "Draft Team":"Seattle SuperSonics",
+        "Draft Year":"2008",
+        "Debut":"2009",
+        "Experience":"14",
+        "Altezza":"211cm",
+        "Peso":"106kg",
+        "G":"919",
+        "PTS":"12.0",
+        "TRB":"7.1",
+        "AST":"0.8",
+        "FG%":"51.3",
+        "FG3%":"35.9",
+        "FT%":"75.7",
+        "eFG%":"54.8",
+        "PER":"17.1",
+        "WS":"73.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/ighodos01.html",
+        "Nome":"Oso Ighodaro",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"July 14 , 2002",
+        "College":[
+            "Marquette"
+        ],
+        "High School":"Desert Vista",
+        "Draft Team":"Portland Trail Blazers",
+        "Draft Year":"2024",
+        "Debut":"2024",
+        "Experience":"1",
+        "Altezza":"211cm",
+        "Peso":"106kg",
+        "G":"143",
+        "PTS":"5.5",
+        "TRB":"4.5",
+        "AST":"1.8",
+        "FG%":"63.7",
+        "FG3%":"0.0",
+        "FT%":"49.1",
+        "eFG%":"63.7",
+        "PER":"12.8",
+        "WS":"6.3"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/iguodan01.html",
+        "Nome":"Andre Iguodala",
+        "Position":[
+            "Small Forward",
+            "Shooting Guard",
+            "Power Forward"
+        ],
+        "Born":"January 28 , 1984",
+        "College":[
+            "Arizona"
+        ],
+        "High School":"Lanphier",
+        "Draft Team":"Philadelphia 76ers",
+        "Draft Year":"2004",
+        "Debut":"2004",
+        "Experience":"19",
+        "Altezza":"198cm",
+        "Peso":"97kg",
+        "G":"1231",
+        "PTS":"11.3",
+        "TRB":"4.9",
+        "AST":"4.2",
+        "FG%":"46.3",
+        "FG3%":"33.0",
+        "FT%":"70.9",
+        "eFG%":"51.2",
+        "PER":"15.4",
+        "WS":"100.4"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/ilgauzy01.html",
+        "Nome":"Zydrunas Ilgauskas",
+        "Position":[
+            "Center"
+        ],
+        "Born":"June 5 , 1975",
+        "College":null,
+        "High School":null,
+        "Draft Team":"Cleveland Cavaliers",
+        "Draft Year":"1996",
+        "Debut":"1997",
+        "Experience":"13",
+        "Altezza":"221cm",
+        "Peso":"107kg",
+        "G":"843",
+        "PTS":"13.0",
+        "TRB":"7.3",
+        "AST":"1.1",
+        "FG%":"47.6",
+        "FG3%":"31.0",
+        "FT%":"78.0",
+        "eFG%":"47.8",
+        "PER":"18.5",
+        "WS":"66.3"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/ilicmi01.html",
+        "Nome":"Mile Ilić",
+        "Position":[
+            "Center"
+        ],
+        "Born":"June 2 , 1984",
+        "College":null,
+        "High School":null,
+        "Draft Team":"New Jersey Nets",
+        "Draft Year":"2005",
+        "Debut":"2006",
+        "Experience":"1",
+        "Altezza":"216cm",
+        "Peso":"104kg",
+        "G":"5",
+        "PTS":"0.0",
+        "TRB":"0.2",
+        "AST":"0.0",
+        "FG%":"0.0",
+        "FG3%":"-",
+        "FT%":"-",
+        "eFG%":"0.0",
+        "PER":"-48.6",
+        "WS":"-0.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/m\/mbengdj01.html",
+        "Nome":"D.J. Mbenga",
+        "Position":[
+            "Center"
+        ],
+        "Born":"December 30 , 1980",
+        "College":null,
+        "High School":null,
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2004",
+        "Experience":"7",
+        "Altezza":"213cm",
+        "Peso":"111kg",
+        "G":"234",
+        "PTS":"1.8",
+        "TRB":"1.5",
+        "AST":"0.2",
+        "FG%":"47.0",
+        "FG3%":"0.0",
+        "FT%":"60.7",
+        "eFG%":"47.0",
+        "PER":"10.8",
+        "WS":"2.4"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/ilyaser01.html",
+        "Nome":"Ersan İlyasova",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"May 15 , 1987",
+        "College":null,
+        "High School":null,
+        "Draft Team":"Milwaukee Bucks",
+        "Draft Year":"2005",
+        "Debut":"2006",
+        "Experience":"13",
+        "Altezza":"206cm",
+        "Peso":"106kg",
+        "G":"825",
+        "PTS":"10.1",
+        "TRB":"5.6",
+        "AST":"1.1",
+        "FG%":"44.3",
+        "FG3%":"36.7",
+        "FT%":"77.7",
+        "eFG%":"50.6",
+        "PER":"15.4",
+        "WS":"48.8"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/imhofda01.html",
+        "Nome":"Darrall Imhoff",
+        "Position":[
+            "Center"
+        ],
+        "Born":"October 11 , 1938",
+        "College":[
+            "California"
+        ],
+        "High School":"Alhambra",
+        "Draft Team":"New York Knicks",
+        "Draft Year":"1960",
+        "Debut":"1960",
+        "Experience":"12",
+        "Altezza":"208cm",
+        "Peso":"99kg",
+        "G":"801",
+        "PTS":"7.2",
+        "TRB":"7.6",
+        "AST":"1.8",
+        "FG%":"45.8",
+        "FG3%":null,
+        "FT%":"59.4",
+        "eFG%":null,
+        "PER":"12.3",
+        "WS":"30.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/ingelto01.html",
+        "Nome":"Tom Ingelsby",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"February 12 , 1951",
+        "College":[
+            "Villanova"
+        ],
+        "High School":"Cardinal O'Hara",
+        "Draft Team":"Atlanta Hawks",
+        "Draft Year":"1973",
+        "Debut":"1973",
+        "Experience":"3",
+        "Altezza":"190cm",
+        "Peso":"81kg",
+        "G":"75",
+        "PTS":"3.2",
+        "TRB":"1.3",
+        "AST":"1.0",
+        "FG%":"42.4",
+        "FG3%":"20.0",
+        "FT%":"77.3",
+        "eFG%":"42.6",
+        "PER":"11.0",
+        "WS":"0.8"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/inglejo01.html",
+        "Nome":"Joe Ingles",
+        "Position":[
+            "Small Forward",
+            "Power Forward"
+        ],
+        "Born":"October 2 , 1987",
+        "College":null,
+        "High School":"Lake Ginninderra",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2014",
+        "Experience":"11",
+        "Altezza":"203cm",
+        "Peso":"99kg",
+        "G":"750",
+        "PTS":"7.7",
+        "TRB":"3.0",
+        "AST":"3.5",
+        "FG%":"44.8",
+        "FG3%":"40.9",
+        "FT%":"77.5",
+        "eFG%":"58.4",
+        "PER":"12.4",
+        "WS":"42.4"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/inglida01.html",
+        "Nome":"Damien Inglis",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"May 20 , 1995",
+        "College":null,
+        "High School":null,
+        "Draft Team":"Milwaukee Bucks",
+        "Draft Year":"2014",
+        "Debut":"2015",
+        "Experience":"1",
+        "Altezza":"203cm",
+        "Peso":"111kg",
+        "G":"20",
+        "PTS":"1.8",
+        "TRB":"1.6",
+        "AST":"0.5",
+        "FG%":"35.1",
+        "FG3%":"23.1",
+        "FT%":"87.5",
+        "eFG%":"39.2",
+        "PER":"6.7",
+        "WS":"-0.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/ingraan01.html",
+        "Nome":"Andre Ingram",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"November 19 , 1985",
+        "College":[
+            "American University"
+        ],
+        "High School":"Highland Springs",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2018",
+        "Experience":"2",
+        "Altezza":"190cm",
+        "Peso":"83kg",
+        "G":"6",
+        "PTS":"4.0",
+        "TRB":"1.3",
+        "AST":"1.2",
+        "FG%":"34.8",
+        "FG3%":"41.7",
+        "FT%":"100.0",
+        "eFG%":"45.7",
+        "PER":"10.9",
+        "WS":"0.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/ingrabr01.html",
+        "Nome":"Brandon Ingram",
+        "Position":[
+            "Small Forward",
+            "Power Forward"
+        ],
+        "Born":"September 2 , 1997",
+        "College":[
+            "Duke"
+        ],
+        "High School":"Kinston",
+        "Draft Team":"Los Angeles Lakers",
+        "Draft Year":"2016",
+        "Debut":"2016",
+        "Experience":"9",
+        "Altezza":"203cm",
+        "Peso":"86kg",
+        "G":"572",
+        "PTS":"19.8",
+        "TRB":"5.2",
+        "AST":"4.2",
+        "FG%":"46.9",
+        "FG3%":"36.6",
+        "FT%":"79.2",
+        "eFG%":"51.6",
+        "PER":"16.1",
+        "WS":"31.8"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/ingraha01.html",
+        "Nome":"Harrison Ingram",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"November 27 , 2002",
+        "College":[
+            "Stanford",
+            "UNC"
+        ],
+        "High School":"St. Mark's",
+        "Draft Team":"San Antonio Spurs",
+        "Draft Year":"2024",
+        "Debut":"2024",
+        "Experience":"1",
+        "Altezza":"196cm",
+        "Peso":"104kg",
+        "G":"12",
+        "PTS":"1.3",
+        "TRB":"1.0",
+        "AST":"0.3",
+        "FG%":"70.0",
+        "FG3%":"50.0",
+        "FT%":"-",
+        "eFG%":"75.0",
+        "PER":"13.0",
+        "WS":"0.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/ingramc01.html",
+        "Nome":"McCoy Ingram",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"August 31 , 1931",
+        "College":[
+            "Jackson State University"
+        ],
+        "High School":null,
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1958",
+        "Experience":"1",
+        "Altezza":"203cm",
+        "Peso":"95kg",
+        "G":"24",
+        "PTS":"2.8",
+        "TRB":"4.8",
+        "AST":"0.8",
+        "FG%":"26.2",
+        "FG3%":null,
+        "FT%":"46.4",
+        "eFG%":null,
+        "PER":"7.6",
+        "WS":"-0.7"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/inniger01.html",
+        "Nome":"Ervin Inniger",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"January 16 , 1945",
+        "College":[
+            "Indiana"
+        ],
+        "High School":"Berne",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":null,
+        "Experience":"2",
+        "Altezza":"193cm",
+        "Peso":"86kg",
+        "G":"109",
+        "PTS":"8.8",
+        "TRB":"3.5",
+        "AST":"1.4",
+        "FG%":"43.0",
+        "FG3%":"16.7",
+        "FT%":"74.1",
+        "eFG%":"43.4",
+        "PER":"12.2",
+        "WS":"5.5"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/irvinby01.html",
+        "Nome":"Byron Irvin",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"December 2 , 1966",
+        "College":[
+            "Arkansas",
+            "Missouri"
+        ],
+        "High School":"Julian",
+        "Draft Team":"Portland Trail Blazers",
+        "Draft Year":"1989",
+        "Debut":"1989",
+        "Experience":"3",
+        "Altezza":"196cm",
+        "Peso":"86kg",
+        "G":"87",
+        "PTS":"5.2",
+        "TRB":"1.4",
+        "AST":"0.8",
+        "FG%":"47.1",
+        "FG3%":"35.0",
+        "FT%":"72.2",
+        "eFG%":"48.1",
+        "PER":"16.0",
+        "WS":"2.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/irvinge01.html",
+        "Nome":"George Irvine",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"February 1 , 1948",
+        "College":[
+            "Washington"
+        ],
+        "High School":"Ballard",
+        "Draft Team":"Seattle SuperSonics",
+        "Draft Year":"1970",
+        "Debut":null,
+        "Experience":"6",
+        "Altezza":"198cm",
+        "Peso":"90kg",
+        "G":"325",
+        "PTS":"9.5",
+        "TRB":"3.0",
+        "AST":"1.3",
+        "FG%":"51.7",
+        "FG3%":"27.4",
+        "FT%":"82.6",
+        "eFG%":"52.5",
+        "PER":"13.8",
+        "WS":"16.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/irvinky01.html",
+        "Nome":"Kyrie Irving",
+        "Position":[
+            "Point Guard",
+            "Shooting Guard"
+        ],
+        "Born":"March 23 , 1992",
+        "College":[
+            "Duke"
+        ],
+        "High School":"Saint Patrick",
+        "Draft Team":"Cleveland Cavaliers",
+        "Draft Year":"2011",
+        "Debut":"2011",
+        "Experience":"14",
+        "Altezza":"188cm",
+        "Peso":"88kg",
+        "G":"779",
+        "PTS":"23.7",
+        "TRB":"4.1",
+        "AST":"5.6",
+        "FG%":"47.4",
+        "FG3%":"39.4",
+        "FT%":"88.8",
+        "eFG%":"54.0",
+        "PER":"22.2",
+        "WS":"91.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/isaacjo01.html",
+        "Nome":"Jonathan Isaac",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"October 3 , 1997",
+        "College":[
+            "Florida State"
+        ],
+        "High School":"IMG Academy",
+        "Draft Team":"Orlando Magic",
+        "Draft Year":"2017",
+        "Debut":"2017",
+        "Experience":"6",
+        "Altezza":"208cm",
+        "Peso":"104kg",
+        "G":"328",
+        "PTS":"6.8",
+        "TRB":"4.5",
+        "AST":"0.7",
+        "FG%":"44.1",
+        "FG3%":"31.6",
+        "FT%":"73.2",
+        "eFG%":"50.3",
+        "PER":"15.0",
+        "WS":"14.9"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/isselda01.html",
+        "Nome":"Dan Issel",
+        "Position":[
+            "Center",
+            "Power Forward"
+        ],
+        "Born":"October 25 , 1948",
+        "College":[
+            "Kentucky"
+        ],
+        "High School":"Batavia",
+        "Draft Team":"Detroit Pistons",
+        "Draft Year":"1970",
+        "Debut":"1976",
+        "Experience":"15",
+        "Altezza":"206cm",
+        "Peso":"106kg",
+        "G":"1218",
+        "PTS":"22.6",
+        "TRB":"9.1",
+        "AST":"2.4",
+        "FG%":"49.9",
+        "FG3%":"22.0",
+        "FT%":"79.3",
+        "eFG%":"50.0",
+        "PER":"21.5",
+        "WS":"157.8"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/iuzzomi01.html",
+        "Nome":"Mike Iuzzolino",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"January 22 , 1968",
+        "College":[
+            "Penn State",
+            "Saint Francis University"
+        ],
+        "High School":"Altoona Area",
+        "Draft Team":"Dallas Mavericks",
+        "Draft Year":"1991",
+        "Debut":"1991",
+        "Experience":"2",
+        "Altezza":"178cm",
+        "Peso":"79kg",
+        "G":"122",
+        "PTS":"9.0",
+        "TRB":"2.0",
+        "AST":"4.3",
+        "FG%":"45.7",
+        "FG3%":"40.4",
+        "FT%":"79.8",
+        "eFG%":"52.5",
+        "PER":"12.9",
+        "WS":"3.7"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/iversal01.html",
+        "Nome":"Allen Iverson",
+        "Position":[
+            "Shooting Guard",
+            "Point Guard"
+        ],
+        "Born":"June 7 , 1975",
+        "College":[
+            "Georgetown"
+        ],
+        "High School":"Bethel",
+        "Draft Team":"Philadelphia 76ers",
+        "Draft Year":"1996",
+        "Debut":"1996",
+        "Experience":"14",
+        "Altezza":"183cm",
+        "Peso":"74kg",
+        "G":"914",
+        "PTS":"26.7",
+        "TRB":"3.7",
+        "AST":"6.2",
+        "FG%":"42.5",
+        "FG3%":"31.3",
+        "FT%":"78.0",
+        "eFG%":"45.2",
+        "PER":"20.9",
+        "WS":"99.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/iverswi01.html",
+        "Nome":"Willie Iverson",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"October 8 , 1945",
+        "College":[
+            "Central Michigan University"
+        ],
+        "High School":"Pershing",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":"183cm",
+        "Peso":"81kg",
+        "G":"28",
+        "PTS":"4.9",
+        "TRB":"1.6",
+        "AST":"2.9",
+        "FG%":"34.2",
+        "FG3%":"0.0",
+        "FT%":"60.0",
+        "eFG%":"34.2",
+        "PER":"4.7",
+        "WS":"-0.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/iveyja01.html",
+        "Nome":"Jaden Ivey",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"February 13 , 2002",
+        "College":[
+            "Purdue"
+        ],
+        "High School":null,
+        "Draft Team":"Detroit Pistons",
+        "Draft Year":"2022",
+        "Debut":"2022",
+        "Experience":"3",
+        "Altezza":"190cm",
+        "Peso":"88kg",
+        "G":"218",
+        "PTS":"14.8",
+        "TRB":"3.5",
+        "AST":"4.0",
+        "FG%":"43.0",
+        "FG3%":"35.5",
+        "FT%":"74.9",
+        "eFG%":"49.8",
+        "PER":"12.7",
+        "WS":"2.9"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/iveyro01.html",
+        "Nome":"Royal Ivey",
+        "Position":[
+            "Shooting Guard",
+            "Point Guard"
+        ],
+        "Born":"December 20 , 1981",
+        "College":[
+            "Texas"
+        ],
+        "High School":"Blair Academy",
+        "Draft Team":"Atlanta Hawks",
+        "Draft Year":"2004",
+        "Debut":"2004",
+        "Experience":"10",
+        "Altezza":"190cm",
+        "Peso":"90kg",
+        "G":"492",
+        "PTS":"3.3",
+        "TRB":"1.1",
+        "AST":"1.0",
+        "FG%":"40.6",
+        "FG3%":"36.1",
+        "FT%":"70.6",
+        "eFG%":"45.9",
+        "PER":"8.4",
+        "WS":"4.5"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/ivoryel01.html",
+        "Nome":"Elvin Ivory",
+        "Position":[
+            "Forward"
+        ],
+        "Born":"July 2 , 1948",
+        "College":[
+            "Louisiana"
+        ],
+        "High School":"Hayes",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":"203cm",
+        "Peso":"95kg",
+        "G":"20",
+        "PTS":"4.4",
+        "TRB":"3.3",
+        "AST":"0.5",
+        "FG%":"43.7",
+        "FG3%":"25.0",
+        "FT%":"64.7",
+        "eFG%":"44.3",
+        "PER":"14.9",
+        "WS":"0.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/i\/iwundwe01.html",
+        "Nome":"Wes Iwundu",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"December 20 , 1994",
+        "College":[
+            "Kansas State"
+        ],
+        "High School":"Spring Westfield",
+        "Draft Team":"Orlando Magic",
+        "Draft Year":"2017",
+        "Debut":"2017",
+        "Experience":"5",
+        "Altezza":"198cm",
+        "Peso":"88kg",
+        "G":"226",
+        "PTS":"4.4",
+        "TRB":"2.5",
+        "AST":"0.9",
+        "FG%":"40.8",
+        "FG3%":"29.2",
+        "FT%":"79.8",
+        "eFG%":"45.2",
+        "PER":"8.2",
+        "WS":"4.2"
+    }
+]

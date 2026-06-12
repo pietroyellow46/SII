@@ -1,0 +1,6077 @@
+[
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tabakza01.html",
+        "Nome":"Žan Tabak",
+        "Position":[
+            "Center"
+        ],
+        "Born":"June 15 , 1970",
+        "Draft Team":"Houston Rockets",
+        "Draft Year":"1991",
+        "Debut":"1994",
+        "Experience":"6",
+        "Altezza":"213cm",
+        "Peso":"111kg",
+        "G":"247",
+        "PTS":"5.0",
+        "TRB":"3.6",
+        "AST":"0.7",
+        "FG%":"50.6",
+        "FG3%":"0.0",
+        "FT%":"52.5",
+        "eFG%":"50.6",
+        "PER":"11.3",
+        "WS":"2.4",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tabusyu01.html",
+        "Nome":"Yuta Tabuse",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"October 5 , 1980",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2004",
+        "Experience":"1",
+        "Altezza":"175cm",
+        "Peso":"74kg",
+        "G":"4",
+        "PTS":"1.8",
+        "TRB":"1.0",
+        "AST":"0.8",
+        "FG%":"16.7",
+        "FG3%":"100.0",
+        "FT%":"100.0",
+        "eFG%":"25.0",
+        "PER":"15.6",
+        "WS":"0.0",
+        "College":[
+            "Brigham Young University Hawaii"
+        ],
+        "High School":"Noshiro Kogyo"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/taftch01.html",
+        "Nome":"Chris Taft",
+        "Position":[
+            "Center"
+        ],
+        "Born":"March 10 , 1985",
+        "Draft Team":"Golden State Warriors",
+        "Draft Year":"2005",
+        "Debut":"2005",
+        "Experience":"1",
+        "Altezza":"208cm",
+        "Peso":"117kg",
+        "G":"17",
+        "PTS":"2.8",
+        "TRB":"2.1",
+        "AST":"0.1",
+        "FG%":"60.5",
+        "FG3%":"-",
+        "FT%":"16.7",
+        "eFG%":"60.5",
+        "PER":"15.6",
+        "WS":"0.5",
+        "College":[
+            "Pitt"
+        ],
+        "High School":"Xaverian"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tanensi01.html",
+        "Nome":"Sid Tanenbaum",
+        "Position":[
+            "Guard"
+        ],
+        "Born":"October 8 , 1925",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1948",
+        "Experience":"2",
+        "Altezza":"183cm",
+        "Peso":"72kg",
+        "G":"70",
+        "PTS":"9.0",
+        "TRB":"-",
+        "AST":"2.3",
+        "FG%":"27.4",
+        "FG3%":null,
+        "FT%":"83.0",
+        "eFG%":null,
+        "PER":"-",
+        "WS":"2.2",
+        "College":[
+            "NYU"
+        ],
+        "High School":"Thomas Jefferson"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tarladr01.html",
+        "Nome":"Dragan Tarlać",
+        "Position":[
+            "Center"
+        ],
+        "Born":"May 9 , 1973",
+        "Draft Team":"Chicago Bulls",
+        "Draft Year":"1995",
+        "Debut":"2000",
+        "Experience":"1",
+        "Altezza":"208cm",
+        "Peso":"117kg",
+        "G":"43",
+        "PTS":"2.4",
+        "TRB":"2.8",
+        "AST":"0.7",
+        "FG%":"39.4",
+        "FG3%":"-",
+        "FT%":"75.8",
+        "eFG%":"39.4",
+        "PER":"5.6",
+        "WS":"-0.2",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tarplro01.html",
+        "Nome":"Roy Tarpley",
+        "Position":[
+            "Power Forward",
+            "Center"
+        ],
+        "Born":"November 28 , 1964",
+        "Draft Team":"Dallas Mavericks",
+        "Draft Year":"1986",
+        "Debut":"1986",
+        "Experience":"6",
+        "Altezza":"213cm",
+        "Peso":"111kg",
+        "G":"280",
+        "PTS":"12.6",
+        "TRB":"10.0",
+        "AST":"1.0",
+        "FG%":"48.3",
+        "FG3%":"17.6",
+        "FT%":"74.4",
+        "eFG%":"48.4",
+        "PER":"18.4",
+        "WS":"19.8",
+        "College":[
+            "Michigan"
+        ],
+        "High School":"Cooley"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tartle01.html",
+        "Nome":"Levern Tart",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"June 1 , 1942",
+        "Draft Team":"Boston Celtics",
+        "Draft Year":"1964",
+        "Debut":null,
+        "Experience":"4",
+        "Altezza":"188cm",
+        "Peso":"88kg",
+        "G":"274",
+        "PTS":"19.4",
+        "TRB":"5.0",
+        "AST":"3.0",
+        "FG%":"44.5",
+        "FG3%":"25.3",
+        "FT%":"78.4",
+        "eFG%":"44.7",
+        "PER":"17.0",
+        "WS":"19.9",
+        "College":[
+            "Bradley"
+        ],
+        "High School":"Roosevelt"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tateja01.html",
+        "Nome":"Jae'Sean Tate",
+        "Position":[
+            "Small Forward",
+            "Power Forward"
+        ],
+        "Born":"October 28 , 1995",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2020",
+        "Experience":"5",
+        "Altezza":"193cm",
+        "Peso":"104kg",
+        "G":"342",
+        "PTS":"7.5",
+        "TRB":"3.8",
+        "AST":"1.8",
+        "FG%":"49.4",
+        "FG3%":"30.9",
+        "FT%":"69.8",
+        "eFG%":"53.9",
+        "PER":"12.8",
+        "WS":"11.7",
+        "College":[
+            "Ohio State"
+        ],
+        "High School":"Central"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tatumea01.html",
+        "Nome":"Earl Tatum",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"July 26 , 1953",
+        "Draft Team":"Los Angeles Lakers",
+        "Draft Year":"1976",
+        "Debut":"1976",
+        "Experience":"4",
+        "Altezza":"196cm",
+        "Peso":"83kg",
+        "G":"262",
+        "PTS":"9.6",
+        "TRB":"2.6",
+        "AST":"1.9",
+        "FG%":"45.9",
+        "FG3%":"33.3",
+        "FT%":"74.6",
+        "eFG%":"46.0",
+        "PER":"14.2",
+        "WS":"7.8",
+        "College":[
+            "Marquette"
+        ],
+        "High School":"Mount Vernon"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tatumja01.html",
+        "Nome":"Jayson Tatum",
+        "Position":[
+            "Small Forward",
+            "Power Forward"
+        ],
+        "Born":"March 3 , 1998",
+        "Draft Team":"Boston Celtics",
+        "Draft Year":"2017",
+        "Debut":"2017",
+        "Experience":"8",
+        "Altezza":"203cm",
+        "Peso":"95kg",
+        "G":"601",
+        "PTS":"23.5",
+        "TRB":"7.4",
+        "AST":"3.9",
+        "FG%":"45.8",
+        "FG3%":"36.8",
+        "FT%":"83.9",
+        "eFG%":"53.2",
+        "PER":"20.3",
+        "WS":"67.2",
+        "College":[
+            "Duke"
+        ],
+        "High School":"Chaminade College Prep"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tavarwa01.html",
+        "Nome":"Edy Tavares",
+        "Position":[
+            "Center"
+        ],
+        "Born":"March 22 , 1992",
+        "Draft Team":"Atlanta Hawks",
+        "Draft Year":"2014",
+        "Debut":"2015",
+        "Experience":"2",
+        "Altezza":"221cm",
+        "Peso":"117kg",
+        "G":"13",
+        "PTS":"2.5",
+        "TRB":"2.5",
+        "AST":"0.3",
+        "FG%":"62.5",
+        "FG3%":"-",
+        "FT%":"27.3",
+        "eFG%":"62.5",
+        "PER":"16.3",
+        "WS":"0.2",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tayloan01.html",
+        "Nome":"Anthony Taylor",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"November 30 , 1965",
+        "Draft Team":"Atlanta Hawks",
+        "Draft Year":"1988",
+        "Debut":"1988",
+        "Experience":"1",
+        "Altezza":"193cm",
+        "Peso":"79kg",
+        "G":"21",
+        "PTS":"6.9",
+        "TRB":"1.6",
+        "AST":"2.0",
+        "FG%":"39.7",
+        "FG3%":"0.0",
+        "FT%":"75.0",
+        "eFG%":"39.7",
+        "PER":"11.1",
+        "WS":"0.2",
+        "College":[
+            "Oregon"
+        ],
+        "High School":"Beaverton"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/taylobr01.html",
+        "Nome":"Brian Taylor",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"June 9 , 1951",
+        "Draft Team":"Seattle SuperSonics",
+        "Draft Year":"1972",
+        "Debut":"1976",
+        "Experience":"10",
+        "Altezza":"188cm",
+        "Peso":"83kg",
+        "G":"601",
+        "PTS":"13.1",
+        "TRB":"2.7",
+        "AST":"4.1",
+        "FG%":"49.3",
+        "FG3%":"35.6",
+        "FT%":"78.0",
+        "eFG%":"51.0",
+        "PER":"14.8",
+        "WS":"46.8",
+        "College":[
+            "Princeton"
+        ],
+        "High School":"Perth Amboy"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/taylodo01.html",
+        "Nome":"Donell Taylor",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"July 26 , 1982",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2005",
+        "Experience":"2",
+        "Altezza":"198cm",
+        "Peso":"81kg",
+        "G":"98",
+        "PTS":"2.7",
+        "TRB":"1.1",
+        "AST":"0.9",
+        "FG%":"39.5",
+        "FG3%":"20.6",
+        "FT%":"64.1",
+        "eFG%":"40.8",
+        "PER":"10.2",
+        "WS":"0.0",
+        "College":[
+            "Okaloosa-Walton Community College",
+            "UAB"
+        ],
+        "High School":"Sidney Lanier"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/taylofa01.html",
+        "Nome":"Fatty Taylor",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"March 13 , 1946",
+        "Draft Team":"Philadelphia 76ers",
+        "Draft Year":"1969",
+        "Debut":"1976",
+        "Experience":"8",
+        "Altezza":"183cm",
+        "Peso":"79kg",
+        "G":"640",
+        "PTS":"8.0",
+        "TRB":"3.9",
+        "AST":"4.0",
+        "FG%":"43.8",
+        "FG3%":"20.6",
+        "FT%":"67.6",
+        "eFG%":"44.1",
+        "PER":"10.5",
+        "WS":"17.0",
+        "College":[
+            "Dodge City Community College",
+            "La Salle"
+        ],
+        "High School":"Spingarn"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/taylofr01.html",
+        "Nome":"Fred Taylor",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"February 5 , 1948",
+        "Draft Team":"Phoenix Suns",
+        "Draft Year":"1970",
+        "Debut":"1970",
+        "Experience":"2",
+        "Altezza":"196cm",
+        "Peso":"81kg",
+        "G":"88",
+        "PTS":"4.4",
+        "TRB":"1.6",
+        "AST":"0.8",
+        "FG%":"36.4",
+        "FG3%":null,
+        "FT%":"59.2",
+        "eFG%":null,
+        "PER":"8.7",
+        "WS":"-0.6",
+        "College":[
+            "University of Texas Rio Grande Valley"
+        ],
+        "High School":"Wheatley"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/taylois01.html",
+        "Nome":"Isaiah Taylor",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"July 11 , 1994",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2017",
+        "Experience":"2",
+        "Altezza":"190cm",
+        "Peso":"77kg",
+        "G":"71",
+        "PTS":"6.3",
+        "TRB":"1.4",
+        "AST":"2.9",
+        "FG%":"41.3",
+        "FG3%":"24.4",
+        "FT%":"69.9",
+        "eFG%":"43.8",
+        "PER":"10.4",
+        "WS":"0.6",
+        "College":[
+            "Texas"
+        ],
+        "High School":"The Village School"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tayloja01.html",
+        "Nome":"Jay Taylor",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"October 3 , 1967",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1989",
+        "Experience":"1",
+        "Altezza":"190cm",
+        "Peso":"86kg",
+        "G":"17",
+        "PTS":"3.0",
+        "TRB":"0.6",
+        "AST":"0.3",
+        "FG%":"40.4",
+        "FG3%":"23.1",
+        "FT%":"66.7",
+        "eFG%":"43.3",
+        "PER":"9.5",
+        "WS":"-0.1",
+        "College":[
+            "Eastern Illinois University"
+        ],
+        "High School":"East Aurora"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tayloje01.html",
+        "Nome":"Jeff Taylor",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"January 1 , 1960",
+        "Draft Team":"Houston Rockets",
+        "Draft Year":"1982",
+        "Debut":"1982",
+        "Experience":"2",
+        "Altezza":"193cm",
+        "Peso":"79kg",
+        "G":"56",
+        "PTS":"3.2",
+        "TRB":"1.5",
+        "AST":"2.0",
+        "FG%":"41.2",
+        "FG3%":"0.0",
+        "FT%":"69.6",
+        "eFG%":"41.2",
+        "PER":"8.1",
+        "WS":"-0.1",
+        "College":[
+            "Texas Tech"
+        ],
+        "High School":"Hobbs"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tayloje03.html",
+        "Nome":"Jeff Taylor",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"May 23 , 1989",
+        "Draft Team":"Charlotte Bobcats",
+        "Draft Year":"2012",
+        "Debut":"2012",
+        "Experience":"3",
+        "Altezza":"201cm",
+        "Peso":"102kg",
+        "G":"132",
+        "PTS":"6.1",
+        "TRB":"2.0",
+        "AST":"0.8",
+        "FG%":"40.9",
+        "FG3%":"31.9",
+        "FT%":"66.5",
+        "eFG%":"46.5",
+        "PER":"8.9",
+        "WS":"1.3",
+        "College":[
+            "Vanderbilt"
+        ],
+        "High School":"Hobbs"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tayloje02.html",
+        "Nome":"Jermaine Taylor",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"December 8 , 1986",
+        "Draft Team":"Washington Wizards",
+        "Draft Year":"2009",
+        "Debut":"2009",
+        "Experience":"2",
+        "Altezza":"193cm",
+        "Peso":"95kg",
+        "G":"65",
+        "PTS":"5.4",
+        "TRB":"1.7",
+        "AST":"0.7",
+        "FG%":"44.1",
+        "FG3%":"28.4",
+        "FT%":"73.0",
+        "eFG%":"47.1",
+        "PER":"11.9",
+        "WS":"0.2",
+        "College":[
+            "Central Florida"
+        ],
+        "High School":"Tavares"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/taylojo01.html",
+        "Nome":"Johnny Taylor",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"June 4 , 1974",
+        "Draft Team":"Orlando Magic",
+        "Draft Year":"1997",
+        "Debut":"1997",
+        "Experience":"3",
+        "Altezza":"206cm",
+        "Peso":"99kg",
+        "G":"54",
+        "PTS":"4.7",
+        "TRB":"2.2",
+        "AST":"0.5",
+        "FG%":"40.2",
+        "FG3%":"39.4",
+        "FT%":"71.8",
+        "eFG%":"45.8",
+        "PER":"8.7",
+        "WS":"0.1",
+        "College":[
+            "Indian Hills Community College",
+            "Chattanooga"
+        ],
+        "High School":"Howard"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/taylole01.html",
+        "Nome":"Leonard Taylor",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"May 2 , 1966",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1989",
+        "Experience":"1",
+        "Altezza":"203cm",
+        "Peso":"99kg",
+        "G":"10",
+        "PTS":"1.1",
+        "TRB":"1.2",
+        "AST":"0.1",
+        "FG%":"0.0",
+        "FG3%":"0.0",
+        "FT%":"68.8",
+        "eFG%":"0.0",
+        "PER":"3.8",
+        "WS":"-0.1",
+        "College":[
+            "California"
+        ],
+        "High School":"Saint Bernard"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tayloma01.html",
+        "Nome":"Maurice Taylor",
+        "Position":[
+            "Power Forward",
+            "Center",
+            "Small Forward"
+        ],
+        "Born":"October 30 , 1976",
+        "Draft Team":"Los Angeles Clippers",
+        "Draft Year":"1997",
+        "Debut":"1997",
+        "Experience":"9",
+        "Altezza":"206cm",
+        "Peso":"117kg",
+        "G":"534",
+        "PTS":"11.0",
+        "TRB":"4.6",
+        "AST":"1.2",
+        "FG%":"46.6",
+        "FG3%":"15.2",
+        "FT%":"71.1",
+        "eFG%":"46.7",
+        "PER":"13.1",
+        "WS":"9.9",
+        "College":[
+            "Michigan"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/taylomi01.html",
+        "Nome":"Mike Taylor",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"January 21 , 1986",
+        "Draft Team":"Portland Trail Blazers",
+        "Draft Year":"2008",
+        "Debut":"2008",
+        "Experience":"1",
+        "Altezza":"188cm",
+        "Peso":"74kg",
+        "G":"51",
+        "PTS":"5.7",
+        "TRB":"1.7",
+        "AST":"2.1",
+        "FG%":"41.2",
+        "FG3%":"32.5",
+        "FT%":"69.1",
+        "eFG%":"43.6",
+        "PER":"10.1",
+        "WS":"-0.4",
+        "College":[
+            "Chipola College",
+            "Iowa State"
+        ],
+        "High School":"Marshall"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/taylool01.html",
+        "Nome":"Ollie Taylor",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"March 7 , 1947",
+        "Draft Team":"Cleveland Cavaliers",
+        "Draft Year":"1970",
+        "Debut":null,
+        "Experience":"4",
+        "Altezza":"188cm",
+        "Peso":"87kg",
+        "G":"262",
+        "PTS":"9.7",
+        "TRB":"4.2",
+        "AST":"2.4",
+        "FG%":"45.6",
+        "FG3%":"23.4",
+        "FT%":"68.3",
+        "eFG%":"46.0",
+        "PER":"11.9",
+        "WS":"10.9",
+        "College":[
+            "San Jacinto College",
+            "Houston"
+        ],
+        "High School":"DeWitt Clinton"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tayloro01.html",
+        "Nome":"Ron Taylor",
+        "Position":[
+            "Center"
+        ],
+        "Born":"November 21 , 1947",
+        "Draft Team":"Seattle SuperSonics",
+        "Draft Year":"1969",
+        "Debut":null,
+        "Experience":"3",
+        "Altezza":"216cm",
+        "Peso":"120kg",
+        "G":"77",
+        "PTS":"4.8",
+        "TRB":"3.9",
+        "AST":"0.8",
+        "FG%":"47.2",
+        "FG3%":"-",
+        "FT%":"55.9",
+        "eFG%":"47.2",
+        "PER":"9.6",
+        "WS":"1.6",
+        "College":[
+            "USC"
+        ],
+        "High School":"North Torrance"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/taylote01.html",
+        "Nome":"Terry Taylor",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"September 23 , 1999",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2022",
+        "Experience":"4",
+        "Altezza":"196cm",
+        "Peso":"104kg",
+        "G":"98",
+        "PTS":"4.6",
+        "TRB":"2.6",
+        "AST":"0.6",
+        "FG%":"57.9",
+        "FG3%":"28.8",
+        "FT%":"68.7",
+        "eFG%":"60.7",
+        "PER":"15.7",
+        "WS":"3.0",
+        "College":[
+            "Austin Peay State University"
+        ],
+        "High School":"Bowling Green"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tayloty01.html",
+        "Nome":"Tyshawn Taylor",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"April 12 , 1990",
+        "Draft Team":"Portland Trail Blazers",
+        "Draft Year":"2012",
+        "Debut":"2012",
+        "Experience":"2",
+        "Altezza":"190cm",
+        "Peso":"83kg",
+        "G":"61",
+        "PTS":"2.9",
+        "TRB":"0.5",
+        "AST":"0.9",
+        "FG%":"35.4",
+        "FG3%":"36.0",
+        "FT%":"68.4",
+        "eFG%":"37.9",
+        "PER":"5.8",
+        "WS":"-0.9",
+        "College":[
+            "Kansas"
+        ],
+        "High School":"St. Anthony"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/taylovi01.html",
+        "Nome":"Vince Taylor",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"September 11 , 1960",
+        "Draft Team":"New York Knicks",
+        "Draft Year":"1982",
+        "Debut":"1982",
+        "Experience":"1",
+        "Altezza":"196cm",
+        "Peso":"81kg",
+        "G":"31",
+        "PTS":"3.1",
+        "TRB":"1.2",
+        "AST":"1.3",
+        "FG%":"36.3",
+        "FG3%":"-",
+        "FT%":"65.6",
+        "eFG%":"36.3",
+        "PER":"7.6",
+        "WS":"0.1",
+        "College":[
+            "Duke"
+        ],
+        "High School":"Tates Creek"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/teaglte01.html",
+        "Nome":"Terry Teagle",
+        "Position":[
+            "Shooting Guard",
+            "Small Forward"
+        ],
+        "Born":"April 10 , 1960",
+        "Draft Team":"Houston Rockets",
+        "Draft Year":"1982",
+        "Debut":"1982",
+        "Experience":"11",
+        "Altezza":"196cm",
+        "Peso":"88kg",
+        "G":"687",
+        "PTS":"11.6",
+        "TRB":"2.6",
+        "AST":"1.4",
+        "FG%":"46.5",
+        "FG3%":"21.0",
+        "FT%":"79.2",
+        "eFG%":"46.7",
+        "PER":"13.7",
+        "WS":"13.4",
+        "College":[
+            "Baylor"
+        ],
+        "High School":"Broaddus"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/teaguje01.html",
+        "Nome":"Jeff Teague",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"June 10 , 1988",
+        "Draft Team":"Atlanta Hawks",
+        "Draft Year":"2009",
+        "Debut":"2009",
+        "Experience":"12",
+        "Altezza":"190cm",
+        "Peso":"88kg",
+        "G":"826",
+        "PTS":"12.2",
+        "TRB":"2.4",
+        "AST":"5.6",
+        "FG%":"44.4",
+        "FG3%":"36.0",
+        "FT%":"84.4",
+        "eFG%":"48.9",
+        "PER":"16.8",
+        "WS":"52.4",
+        "College":[
+            "Wake Forest"
+        ],
+        "High School":"Pike"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/teaguma01.html",
+        "Nome":"Marquis Teague",
+        "Position":[
+            "Shooting Guard",
+            "Point Guard"
+        ],
+        "Born":"February 28 , 1993",
+        "Draft Team":"Chicago Bulls",
+        "Draft Year":"2012",
+        "Debut":"2012",
+        "Experience":"3",
+        "Altezza":"188cm",
+        "Peso":"85kg",
+        "G":"91",
+        "PTS":"2.4",
+        "TRB":"1.0",
+        "AST":"1.5",
+        "FG%":"34.3",
+        "FG3%":"22.2",
+        "FT%":"66.1",
+        "eFG%":"36.3",
+        "PER":"4.9",
+        "WS":"-0.9",
+        "College":[
+            "Kentucky"
+        ],
+        "High School":"Pike"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/teletmi01.html",
+        "Nome":"Mirza Teletović",
+        "Position":[
+            "Power Forward",
+            "Small Forward"
+        ],
+        "Born":"September 18 , 1985",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2012",
+        "Experience":"6",
+        "Altezza":"206cm",
+        "Peso":"109kg",
+        "G":"324",
+        "PTS":"8.1",
+        "TRB":"3.2",
+        "AST":"0.8",
+        "FG%":"40.6",
+        "FG3%":"37.1",
+        "FT%":"75.5",
+        "eFG%":"52.4",
+        "PER":"13.0",
+        "WS":"8.8",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/telfase01.html",
+        "Nome":"Sebastian Telfair",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"June 9 , 1985",
+        "Draft Team":"Portland Trail Blazers",
+        "Draft Year":"2004",
+        "Debut":"2004",
+        "Experience":"10",
+        "Altezza":"183cm",
+        "Peso":"74kg",
+        "G":"564",
+        "PTS":"7.4",
+        "TRB":"1.6",
+        "AST":"3.5",
+        "FG%":"39.0",
+        "FG3%":"31.9",
+        "FT%":"77.7",
+        "eFG%":"43.6",
+        "PER":"10.8",
+        "WS":"5.0",
+        "College":null,
+        "High School":"Abraham Lincoln"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/telfoja01.html",
+        "Nome":"Jahmyl Telfort",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"April 30 , 2001",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2025",
+        "Experience":"0",
+        "Altezza":"201cm",
+        "Peso":"102kg",
+        "G":"8",
+        "PTS":"0.1",
+        "TRB":"0.4",
+        "AST":"0.1",
+        "FG%":"0.0",
+        "FG3%":"0.0",
+        "FT%":"25.0",
+        "eFG%":"0.0",
+        "PER":"-5.3",
+        "WS":"-0.1",
+        "College":[
+            "Northeastern University",
+            "Butler"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/templco01.html",
+        "Nome":"Collis Temple",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"November 8 , 1952",
+        "Draft Team":"Phoenix Suns",
+        "Draft Year":"1974",
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":"203cm",
+        "Peso":"99kg",
+        "G":"24",
+        "PTS":"1.8",
+        "TRB":"1.3",
+        "AST":"0.6",
+        "FG%":"41.5",
+        "FG3%":"0.0",
+        "FT%":"80.0",
+        "eFG%":"41.5",
+        "PER":"12.9",
+        "WS":"0.1",
+        "College":[
+            "LSU"
+        ],
+        "High School":"Kentwood"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/templga01.html",
+        "Nome":"Garrett Temple",
+        "Position":[
+            "Shooting Guard",
+            "Small Forward",
+            "Point Guard"
+        ],
+        "Born":"May 8 , 1986",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2010",
+        "Experience":"15",
+        "Altezza":"196cm",
+        "Peso":"88kg",
+        "G":"793",
+        "PTS":"5.8",
+        "TRB":"2.2",
+        "AST":"1.6",
+        "FG%":"39.9",
+        "FG3%":"34.2",
+        "FT%":"74.4",
+        "eFG%":"48.7",
+        "PER":"9.4",
+        "WS":"16.8",
+        "College":[
+            "LSU"
+        ],
+        "High School":"Louisiana State University Laboratory School"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/teodomi01.html",
+        "Nome":"Miloš Teodosić",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"March 19 , 1987",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2017",
+        "Experience":"2",
+        "Altezza":"196cm",
+        "Peso":"88kg",
+        "G":"60",
+        "PTS":"8.0",
+        "TRB":"2.4",
+        "AST":"4.0",
+        "FG%":"42.0",
+        "FG3%":"37.8",
+        "FT%":"81.1",
+        "eFG%":"54.3",
+        "PER":"11.0",
+        "WS":"1.3",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/terreir01.html",
+        "Nome":"Ira Terrell",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"June 19 , 1954",
+        "Draft Team":"Phoenix Suns",
+        "Draft Year":"1976",
+        "Debut":"1976",
+        "Experience":"2",
+        "Altezza":"203cm",
+        "Peso":"90kg",
+        "G":"127",
+        "PTS":"7.0",
+        "TRB":"4.2",
+        "AST":"1.1",
+        "FG%":"49.8",
+        "FG3%":null,
+        "FT%":"63.8",
+        "eFG%":null,
+        "PER":"11.8",
+        "WS":"4.1",
+        "College":[
+            "SMU"
+        ],
+        "High School":"Roosevelt"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/terreja01.html",
+        "Nome":"Jared Terrell",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"February 10 , 1995",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2018",
+        "Experience":"1",
+        "Altezza":"190cm",
+        "Peso":"102kg",
+        "G":"14",
+        "PTS":"2.2",
+        "TRB":"0.4",
+        "AST":"0.9",
+        "FG%":"30.8",
+        "FG3%":"23.5",
+        "FT%":"50.0",
+        "eFG%":"35.9",
+        "PER":"0.7",
+        "WS":"-0.3",
+        "College":[
+            "Rhode Island"
+        ],
+        "High School":"Brewster Academy"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/terryca01.html",
+        "Nome":"Carlos Terry",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"June 22 , 1956",
+        "Draft Team":"Los Angeles Lakers",
+        "Draft Year":"1978",
+        "Debut":"1980",
+        "Experience":"3",
+        "Altezza":"196cm",
+        "Peso":"95kg",
+        "G":"94",
+        "PTS":"3.0",
+        "TRB":"2.4",
+        "AST":"1.3",
+        "FG%":"43.4",
+        "FG3%":"0.0",
+        "FT%":"67.2",
+        "eFG%":"43.4",
+        "PER":"10.4",
+        "WS":"1.5",
+        "College":[
+            "Winston-Salem State"
+        ],
+        "High School":"Lexington"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/terrych01.html",
+        "Nome":"Chuck Terry",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"September 27 , 1950",
+        "Draft Team":"Milwaukee Bucks",
+        "Draft Year":"1972",
+        "Debut":"1972",
+        "Experience":"5",
+        "Altezza":"198cm",
+        "Peso":"97kg",
+        "G":"341",
+        "PTS":"3.8",
+        "TRB":"2.4",
+        "AST":"0.8",
+        "FG%":"41.9",
+        "FG3%":"32.3",
+        "FT%":"77.5",
+        "eFG%":"42.2",
+        "PER":"8.5",
+        "WS":"6.4",
+        "College":[
+            "Cal State Long Beach"
+        ],
+        "High School":"Jordan"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/terrycl01.html",
+        "Nome":"Claude Terry",
+        "Position":[
+            "Shooting Guard",
+            "Small Forward"
+        ],
+        "Born":"January 12 , 1950",
+        "Draft Team":"Phoenix Suns",
+        "Draft Year":"1972",
+        "Debut":"1976",
+        "Experience":"6",
+        "Altezza":"193cm",
+        "Peso":"88kg",
+        "G":"349",
+        "PTS":"5.5",
+        "TRB":"1.4",
+        "AST":"1.3",
+        "FG%":"46.8",
+        "FG3%":"33.8",
+        "FT%":"78.5",
+        "eFG%":"48.3",
+        "PER":"12.2",
+        "WS":"6.9",
+        "College":[
+            "Stanford"
+        ],
+        "High School":"Modesto"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/terryda01.html",
+        "Nome":"Dalen Terry",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"July 12 , 2002",
+        "Draft Team":"Chicago Bulls",
+        "Draft Year":"2022",
+        "Debut":"2022",
+        "Experience":"3",
+        "Altezza":"198cm",
+        "Peso":"88kg",
+        "G":"218",
+        "PTS":"3.5",
+        "TRB":"1.7",
+        "AST":"1.2",
+        "FG%":"44.3",
+        "FG3%":"31.4",
+        "FT%":"63.8",
+        "eFG%":"50.8",
+        "PER":"10.6",
+        "WS":"3.1",
+        "College":[
+            "Arizona"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/terryem01.html",
+        "Nome":"Emanuel Terry",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"August 21 , 1996",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2019",
+        "Experience":"2",
+        "Altezza":"206cm",
+        "Peso":"99kg",
+        "G":"6",
+        "PTS":"1.7",
+        "TRB":"3.7",
+        "AST":"0.7",
+        "FG%":"33.3",
+        "FG3%":"-",
+        "FT%":"50.0",
+        "eFG%":"33.3",
+        "PER":"11.0",
+        "WS":"0.0",
+        "College":[
+            "Lincoln Memorial"
+        ],
+        "High School":"Cleveland"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/terryja01.html",
+        "Nome":"Jason Terry",
+        "Position":[
+            "Shooting Guard",
+            "Point Guard"
+        ],
+        "Born":"September 15 , 1977",
+        "Draft Team":"Atlanta Hawks",
+        "Draft Year":"1999",
+        "Debut":"1999",
+        "Experience":"19",
+        "Altezza":"188cm",
+        "Peso":"83kg",
+        "G":"1410",
+        "PTS":"13.4",
+        "TRB":"2.3",
+        "AST":"3.8",
+        "FG%":"44.4",
+        "FG3%":"38.0",
+        "FT%":"84.5",
+        "eFG%":"51.7",
+        "PER":"16.2",
+        "WS":"102.0",
+        "College":[
+            "Arizona"
+        ],
+        "High School":"Franklin"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/terryty01.html",
+        "Nome":"Tyrell Terry",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"September 28 , 2000",
+        "Draft Team":"Dallas Mavericks",
+        "Draft Year":"2020",
+        "Debut":"2020",
+        "Experience":"2",
+        "Altezza":"188cm",
+        "Peso":"72kg",
+        "G":"13",
+        "PTS":"1.0",
+        "TRB":"0.5",
+        "AST":"0.5",
+        "FG%":"35.3",
+        "FG3%":"0.0",
+        "FT%":"33.3",
+        "eFG%":"35.3",
+        "PER":"6.7",
+        "WS":"0.0",
+        "College":[
+            "Stanford"
+        ],
+        "High School":"DeLaSalle"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/teskejo01.html",
+        "Nome":"Jon Teske",
+        "Position":[
+            "Center"
+        ],
+        "Born":"May 4 , 1997",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2022",
+        "Experience":"1",
+        "Altezza":"216cm",
+        "Peso":"120kg",
+        "G":"3",
+        "PTS":"0.0",
+        "TRB":"0.7",
+        "AST":"0.3",
+        "FG%":"0.0",
+        "FG3%":"-",
+        "FT%":"0.0",
+        "eFG%":"0.0",
+        "PER":"1.5",
+        "WS":"0.0",
+        "College":[
+            "Michigan"
+        ],
+        "High School":"Medina"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thabeha01.html",
+        "Nome":"Hasheem Thabeet",
+        "Position":[
+            "Center"
+        ],
+        "Born":"February 16 , 1987",
+        "Draft Team":"Memphis Grizzlies",
+        "Draft Year":"2009",
+        "Debut":"2009",
+        "Experience":"5",
+        "Altezza":"221cm",
+        "Peso":"119kg",
+        "G":"224",
+        "PTS":"2.2",
+        "TRB":"2.7",
+        "AST":"0.1",
+        "FG%":"56.7",
+        "FG3%":"-",
+        "FT%":"57.8",
+        "eFG%":"56.7",
+        "PER":"10.3",
+        "WS":"4.8",
+        "College":[
+            "UConn"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thackto01.html",
+        "Nome":"Tom Thacker",
+        "Position":[
+            "Point Guard",
+            "Shooting Guard"
+        ],
+        "Born":"November 2 , 1939",
+        "Draft Team":"Cincinnati Royals",
+        "Draft Year":"1963",
+        "Debut":"1963",
+        "Experience":"7",
+        "Altezza":"188cm",
+        "Peso":"77kg",
+        "G":"314",
+        "PTS":"3.2",
+        "TRB":"2.6",
+        "AST":"1.5",
+        "FG%":"36.0",
+        "FG3%":"22.7",
+        "FT%":"50.8",
+        "eFG%":"36.5",
+        "PER":"7.4",
+        "WS":"-0.3",
+        "College":[
+            "Cincinnati"
+        ],
+        "High School":"William Grant"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thearfl01.html",
+        "Nome":"Floyd Theard",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"September 5 , 1944",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":"185cm",
+        "Peso":"77kg",
+        "G":"25",
+        "PTS":"3.8",
+        "TRB":"2.0",
+        "AST":"1.8",
+        "FG%":"34.5",
+        "FG3%":"0.0",
+        "FT%":"64.3",
+        "eFG%":"34.5",
+        "PER":"2.3",
+        "WS":"0.0",
+        "College":[
+            "Kentucky State University"
+        ],
+        "High School":"St. Elizabeth"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/theisda01.html",
+        "Nome":"Daniel Theis",
+        "Position":[
+            "Center"
+        ],
+        "Born":"April 4 , 1992",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2017",
+        "Experience":"8",
+        "Altezza":"203cm",
+        "Peso":"111kg",
+        "G":"411",
+        "PTS":"7.1",
+        "TRB":"4.7",
+        "AST":"1.3",
+        "FG%":"53.7",
+        "FG3%":"32.6",
+        "FT%":"72.6",
+        "eFG%":"58.3",
+        "PER":"15.4",
+        "WS":"23.3",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/theusre01.html",
+        "Nome":"Reggie Theus",
+        "Position":[
+            "Shooting Guard",
+            "Point Guard"
+        ],
+        "Born":"October 13 , 1957",
+        "Draft Team":"Chicago Bulls",
+        "Draft Year":"1978",
+        "Debut":"1978",
+        "Experience":"13",
+        "Altezza":"198cm",
+        "Peso":"86kg",
+        "G":"1026",
+        "PTS":"18.5",
+        "TRB":"3.3",
+        "AST":"6.3",
+        "FG%":"47.1",
+        "FG3%":"25.2",
+        "FT%":"82.6",
+        "eFG%":"47.9",
+        "PER":"16.6",
+        "WS":"66.9",
+        "College":[
+            "UNLV"
+        ],
+        "High School":"Inglewood"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thibepe01.html",
+        "Nome":"Peter Thibeaux",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"October 3 , 1961",
+        "Draft Team":"Golden State Warriors",
+        "Draft Year":"1983",
+        "Debut":"1984",
+        "Experience":"2",
+        "Altezza":"201cm",
+        "Peso":"95kg",
+        "G":"93",
+        "PTS":"5.0",
+        "TRB":"1.5",
+        "AST":"0.5",
+        "FG%":"45.3",
+        "FG3%":"28.6",
+        "FT%":"62.6",
+        "eFG%":"45.6",
+        "PER":"10.5",
+        "WS":"0.1",
+        "College":[
+            "Saint Mary's"
+        ],
+        "High School":"Skyline"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thiebbi01.html",
+        "Nome":"Bill Thieben",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"March 28 , 1935",
+        "Draft Team":"Fort Wayne Pistons",
+        "Draft Year":"1956",
+        "Debut":"1956",
+        "Experience":"2",
+        "Altezza":"201cm",
+        "Peso":"97kg",
+        "G":"85",
+        "PTS":"4.0",
+        "TRB":"3.2",
+        "AST":"0.3",
+        "FG%":"33.1",
+        "FG3%":null,
+        "FT%":"64.0",
+        "eFG%":null,
+        "PER":"10.2",
+        "WS":"-0.5",
+        "College":[
+            "Hofstra"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thierad01.html",
+        "Nome":"Adou Thiero",
+        "Position":[
+            "Small Forward",
+            "Power Forward"
+        ],
+        "Born":"May 8 , 2004",
+        "Draft Team":"Brooklyn Nets",
+        "Draft Year":"2025",
+        "Debut":"2025",
+        "Experience":"0",
+        "Altezza":"201cm",
+        "Peso":"99kg",
+        "G":"25",
+        "PTS":"1.9",
+        "TRB":"1.1",
+        "AST":"0.4",
+        "FG%":"51.6",
+        "FG3%":"33.3",
+        "FT%":"63.6",
+        "eFG%":"53.2",
+        "PER":"10.7",
+        "WS":"0.2",
+        "College":[
+            "Kentucky",
+            "Arkansas"
+        ],
+        "High School":"Quaker Valley"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thigpju01.html",
+        "Nome":"Justus Thigpen",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"August 13 , 1947",
+        "Draft Team":"San Diego Rockets",
+        "Draft Year":"1969",
+        "Debut":"1973",
+        "Experience":"3",
+        "Altezza":"185cm",
+        "Peso":"72kg",
+        "G":"22",
+        "PTS":"2.7",
+        "TRB":"0.8",
+        "AST":"0.5",
+        "FG%":"36.7",
+        "FG3%":"-",
+        "FT%":"33.3",
+        "eFG%":"36.7",
+        "PER":"5.1",
+        "WS":"-0.3",
+        "College":[
+            "Mott Community College",
+            "Weber State"
+        ],
+        "High School":"Northern"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thirdda01.html",
+        "Nome":"David Thirdkill",
+        "Position":[
+            "Small Forward",
+            "Power Forward"
+        ],
+        "Born":"April 12 , 1960",
+        "Draft Team":"Phoenix Suns",
+        "Draft Year":"1982",
+        "Debut":"1982",
+        "Experience":"5",
+        "Altezza":"201cm",
+        "Peso":"88kg",
+        "G":"179",
+        "PTS":"2.8",
+        "TRB":"1.2",
+        "AST":"0.5",
+        "FG%":"45.7",
+        "FG3%":"9.1",
+        "FT%":"56.5",
+        "eFG%":"45.8",
+        "PER":"8.0",
+        "WS":"1.3",
+        "College":[
+            "Bradley"
+        ],
+        "High School":"Soldan"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomaad01.html",
+        "Nome":"Adonis Thomas",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"March 25 , 1993",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2014",
+        "Experience":"1",
+        "Altezza":"201cm",
+        "Peso":"90kg",
+        "G":"6",
+        "PTS":"2.3",
+        "TRB":"0.5",
+        "AST":"0.5",
+        "FG%":"42.9",
+        "FG3%":"20.0",
+        "FT%":"100.0",
+        "eFG%":"46.4",
+        "PER":"7.3",
+        "WS":"0.0",
+        "College":[
+            "Memphis"
+        ],
+        "High School":"Melrose"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomabi01.html",
+        "Nome":"Billy Thomas",
+        "Position":[
+            "Small Forward",
+            "Shooting Guard"
+        ],
+        "Born":"December 23 , 1975",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2005",
+        "Experience":"3",
+        "Altezza":"193cm",
+        "Peso":"94kg",
+        "G":"53",
+        "PTS":"2.7",
+        "TRB":"1.0",
+        "AST":"0.5",
+        "FG%":"33.8",
+        "FG3%":"30.4",
+        "FT%":"84.6",
+        "eFG%":"44.0",
+        "PER":"7.8",
+        "WS":"0.4",
+        "College":[
+            "Kansas"
+        ],
+        "High School":"Loyola College Preparatory School"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomabr01.html",
+        "Nome":"Brodric Thomas",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"January 28 , 1997",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2020",
+        "Experience":"2",
+        "Altezza":"196cm",
+        "Peso":"83kg",
+        "G":"44",
+        "PTS":"3.3",
+        "TRB":"1.4",
+        "AST":"0.9",
+        "FG%":"37.3",
+        "FG3%":"26.5",
+        "FT%":"66.7",
+        "eFG%":"44.4",
+        "PER":"8.2",
+        "WS":"0.1",
+        "College":[
+            "Truman State University"
+        ],
+        "High School":"Bolingbrook"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomaca02.html",
+        "Nome":"Cam Thomas",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"October 13 , 2001",
+        "Draft Team":"Brooklyn Nets",
+        "Draft Year":"2021",
+        "Debut":"2021",
+        "Experience":"4",
+        "Altezza":"190cm",
+        "Peso":"95kg",
+        "G":"257",
+        "PTS":"14.9",
+        "TRB":"2.4",
+        "AST":"2.1",
+        "FG%":"43.5",
+        "FG3%":"34.0",
+        "FT%":"85.1",
+        "eFG%":"49.4",
+        "PER":"14.7",
+        "WS":"5.0",
+        "College":[
+            "LSU"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomaca01.html",
+        "Nome":"Carl Thomas",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"October 3 , 1969",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1991",
+        "Experience":"3",
+        "Altezza":"193cm",
+        "Peso":"79kg",
+        "G":"63",
+        "PTS":"2.9",
+        "TRB":"1.0",
+        "AST":"0.4",
+        "FG%":"39.8",
+        "FG3%":"31.5",
+        "FT%":"64.3",
+        "eFG%":"46.3",
+        "PER":"10.3",
+        "WS":"0.6",
+        "College":[
+            "Eastern Michigan"
+        ],
+        "High School":"Everett"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomach01.html",
+        "Nome":"Charles Thomas",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"October 3 , 1969",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1991",
+        "Experience":"1",
+        "Altezza":"190cm",
+        "Peso":"79kg",
+        "G":"36",
+        "PTS":"1.3",
+        "TRB":"0.6",
+        "AST":"0.6",
+        "FG%":"35.3",
+        "FG3%":"11.8",
+        "FT%":"66.7",
+        "eFG%":"37.3",
+        "PER":"6.1",
+        "WS":"-0.1",
+        "College":[
+            "Eastern Michigan"
+        ],
+        "High School":"Everett"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomaet01.html",
+        "Nome":"Etan Thomas",
+        "Position":[
+            "Center",
+            "Power Forward"
+        ],
+        "Born":"April 1 , 1978",
+        "Draft Team":"Dallas Mavericks",
+        "Draft Year":"2000",
+        "Debut":"2001",
+        "Experience":"9",
+        "Altezza":"206cm",
+        "Peso":"116kg",
+        "G":"409",
+        "PTS":"5.7",
+        "TRB":"4.7",
+        "AST":"0.4",
+        "FG%":"51.3",
+        "FG3%":"-",
+        "FT%":"60.3",
+        "eFG%":"51.3",
+        "PER":"14.5",
+        "WS":"14.9",
+        "College":[
+            "Syracuse"
+        ],
+        "High School":"Booker T. Washington"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomair01.html",
+        "Nome":"Irving Thomas",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"January 2 , 1966",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1990",
+        "Experience":"1",
+        "Altezza":"203cm",
+        "Peso":"102kg",
+        "G":"26",
+        "PTS":"1.8",
+        "TRB":"1.2",
+        "AST":"0.4",
+        "FG%":"34.0",
+        "FG3%":"-",
+        "FT%":"57.1",
+        "eFG%":"34.0",
+        "PER":"7.3",
+        "WS":"-0.1",
+        "College":[
+            "Kentucky",
+            "Florida State"
+        ],
+        "High School":"Miami Carol City"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomais02.html",
+        "Nome":"Isaiah Thomas",
+        "Position":[
+            "Point Guard",
+            "Shooting Guard"
+        ],
+        "Born":"February 7 , 1989",
+        "Draft Team":"Sacramento Kings",
+        "Draft Year":"2011",
+        "Debut":"2011",
+        "Experience":"12",
+        "Altezza":"175cm",
+        "Peso":"83kg",
+        "G":"556",
+        "PTS":"17.5",
+        "TRB":"2.4",
+        "AST":"4.8",
+        "FG%":"43.4",
+        "FG3%":"36.3",
+        "FT%":"87.2",
+        "eFG%":"50.6",
+        "PER":"19.6",
+        "WS":"45.3",
+        "College":[
+            "Washington"
+        ],
+        "High School":"South Kent School"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomais01.html",
+        "Nome":"Isiah Thomas",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"April 30 , 1961",
+        "Draft Team":"Detroit Pistons",
+        "Draft Year":"1981",
+        "Debut":"1981",
+        "Experience":"13",
+        "Altezza":"185cm",
+        "Peso":"81kg",
+        "G":"979",
+        "PTS":"19.2",
+        "TRB":"3.6",
+        "AST":"9.3",
+        "FG%":"45.2",
+        "FG3%":"29.0",
+        "FT%":"75.9",
+        "eFG%":"46.5",
+        "PER":"18.1",
+        "WS":"80.7",
+        "College":[
+            "Indiana"
+        ],
+        "High School":"St. Joseph"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomaja01.html",
+        "Nome":"Jamel Thomas",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"March 25 , 1973",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1999",
+        "Experience":"2",
+        "Altezza":"198cm",
+        "Peso":"97kg",
+        "G":"12",
+        "PTS":"2.5",
+        "TRB":"1.2",
+        "AST":"0.5",
+        "FG%":"37.8",
+        "FG3%":"16.7",
+        "FT%":"100.0",
+        "eFG%":"39.2",
+        "PER":"4.6",
+        "WS":"-0.3",
+        "College":[
+            "Providence"
+        ],
+        "High School":"Abraham Lincoln"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomaja02.html",
+        "Nome":"James Thomas",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"November 22 , 1980",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2005",
+        "Experience":"2",
+        "Altezza":"203cm",
+        "Peso":"106kg",
+        "G":"33",
+        "PTS":"1.6",
+        "TRB":"2.3",
+        "AST":"0.2",
+        "FG%":"56.4",
+        "FG3%":"-",
+        "FT%":"50.0",
+        "eFG%":"56.4",
+        "PER":"9.1",
+        "WS":"0.4",
+        "College":[
+            "Texas"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomaji01.html",
+        "Nome":"Jim Thomas",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"October 19 , 1960",
+        "Draft Team":"Indiana Pacers",
+        "Draft Year":"1983",
+        "Debut":"1983",
+        "Experience":"4",
+        "Altezza":"190cm",
+        "Peso":"86kg",
+        "G":"161",
+        "PTS":"8.4",
+        "TRB":"2.6",
+        "AST":"2.3",
+        "FG%":"47.1",
+        "FG3%":"17.0",
+        "FT%":"76.3",
+        "eFG%":"47.5",
+        "PER":"12.5",
+        "WS":"4.9",
+        "College":[
+            "Indiana"
+        ],
+        "High School":"Nova"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomajo01.html",
+        "Nome":"Joe Thomas",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"March 9 , 1948",
+        "Draft Team":"Phoenix Suns",
+        "Draft Year":"1970",
+        "Debut":"1970",
+        "Experience":"1",
+        "Altezza":"198cm",
+        "Peso":"92kg",
+        "G":"39",
+        "PTS":"1.4",
+        "TRB":"1.1",
+        "AST":"0.4",
+        "FG%":"26.7",
+        "FG3%":null,
+        "FT%":"45.0",
+        "eFG%":null,
+        "PER":"4.3",
+        "WS":"-0.6",
+        "College":[
+            "Marquette"
+        ],
+        "High School":"Marist School"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomajo02.html",
+        "Nome":"John Thomas",
+        "Position":[
+            "Center",
+            "Power Forward"
+        ],
+        "Born":"September 8 , 1975",
+        "Draft Team":"New York Knicks",
+        "Draft Year":"1997",
+        "Debut":"1997",
+        "Experience":"5",
+        "Altezza":"206cm",
+        "Peso":"120kg",
+        "G":"208",
+        "PTS":"2.7",
+        "TRB":"2.1",
+        "AST":"0.3",
+        "FG%":"50.2",
+        "FG3%":"0.0",
+        "FT%":"59.1",
+        "eFG%":"50.2",
+        "PER":"9.4",
+        "WS":"3.2",
+        "College":[
+            "Minnesota"
+        ],
+        "High School":"Roosevelt"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomake01.html",
+        "Nome":"Kenny Thomas",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"July 25 , 1977",
+        "Draft Team":"Houston Rockets",
+        "Draft Year":"1999",
+        "Debut":"1999",
+        "Experience":"11",
+        "Altezza":"201cm",
+        "Peso":"118kg",
+        "G":"632",
+        "PTS":"9.3",
+        "TRB":"6.9",
+        "AST":"1.5",
+        "FG%":"46.5",
+        "FG3%":"24.4",
+        "FT%":"69.9",
+        "eFG%":"47.1",
+        "PER":"13.9",
+        "WS":"31.2",
+        "College":[
+            "New Mexico"
+        ],
+        "High School":"Albuquerque"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomakh01.html",
+        "Nome":"Khyri Thomas",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"May 8 , 1996",
+        "Draft Team":"Philadelphia 76ers",
+        "Draft Year":"2018",
+        "Debut":"2018",
+        "Experience":"3",
+        "Altezza":"190cm",
+        "Peso":"95kg",
+        "G":"39",
+        "PTS":"4.1",
+        "TRB":"1.0",
+        "AST":"0.9",
+        "FG%":"38.8",
+        "FG3%":"31.6",
+        "FT%":"75.0",
+        "eFG%":"46.7",
+        "PER":"11.4",
+        "WS":"0.5",
+        "College":[
+            "Creighton"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomaku01.html",
+        "Nome":"Kurt Thomas",
+        "Position":[
+            "Power Forward",
+            "Center"
+        ],
+        "Born":"October 4 , 1972",
+        "Draft Team":"Miami Heat",
+        "Draft Year":"1995",
+        "Debut":"1995",
+        "Experience":"18",
+        "Altezza":"206cm",
+        "Peso":"104kg",
+        "G":"1110",
+        "PTS":"8.1",
+        "TRB":"6.6",
+        "AST":"1.1",
+        "FG%":"48.6",
+        "FG3%":"28.1",
+        "FT%":"76.0",
+        "eFG%":"48.7",
+        "PER":"13.9",
+        "WS":"64.2",
+        "College":[
+            "TCU"
+        ],
+        "High School":"Hillcrest"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomala01.html",
+        "Nome":"Lance Thomas",
+        "Position":[
+            "Power Forward",
+            "Small Forward"
+        ],
+        "Born":"April 24 , 1988",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2011",
+        "Experience":"9",
+        "Altezza":"203cm",
+        "Peso":"108kg",
+        "G":"399",
+        "PTS":"5.1",
+        "TRB":"2.6",
+        "AST":"0.7",
+        "FG%":"41.6",
+        "FG3%":"38.1",
+        "FT%":"79.9",
+        "eFG%":"46.2",
+        "PER":"8.3",
+        "WS":"5.3",
+        "College":[
+            "Duke"
+        ],
+        "High School":"St. Benedict's Prep"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomama01.html",
+        "Nome":"Malcolm Thomas",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"November 8 , 1988",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2012",
+        "Experience":"4",
+        "Altezza":"206cm",
+        "Peso":"102kg",
+        "G":"40",
+        "PTS":"1.9",
+        "TRB":"2.4",
+        "AST":"0.4",
+        "FG%":"43.5",
+        "FG3%":"9.1",
+        "FT%":"60.0",
+        "eFG%":"44.2",
+        "PER":"8.4",
+        "WS":"0.1",
+        "College":[
+            "Pepperdine",
+            "San Diego State"
+        ],
+        "High School":"Crawford"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomama02.html",
+        "Nome":"Matt Thomas",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"August 4 , 1994",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2019",
+        "Experience":"3",
+        "Altezza":"190cm",
+        "Peso":"86kg",
+        "G":"126",
+        "PTS":"4.0",
+        "TRB":"1.2",
+        "AST":"0.5",
+        "FG%":"43.3",
+        "FG3%":"40.4",
+        "FT%":"80.4",
+        "eFG%":"56.6",
+        "PER":"10.9",
+        "WS":"2.0",
+        "College":[
+            "Iowa State"
+        ],
+        "High School":"Onalaska"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomaro01.html",
+        "Nome":"Ron Thomas",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"November 19 , 1950",
+        "Draft Team":"Seattle SuperSonics",
+        "Draft Year":"1972",
+        "Debut":null,
+        "Experience":"4",
+        "Altezza":"198cm",
+        "Peso":"97kg",
+        "G":"264",
+        "PTS":"4.0",
+        "TRB":"4.1",
+        "AST":"0.8",
+        "FG%":"46.8",
+        "FG3%":"21.4",
+        "FT%":"53.6",
+        "eFG%":"47.0",
+        "PER":"12.9",
+        "WS":"7.4",
+        "College":[
+            "Trinity Valley CC",
+            "Louisville"
+        ],
+        "High School":"Thomas Jefferson"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomate01.html",
+        "Nome":"Terry Thomas",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"August 20 , 1953",
+        "Draft Team":"Detroit Pistons",
+        "Draft Year":"1975",
+        "Debut":"1975",
+        "Experience":"1",
+        "Altezza":"203cm",
+        "Peso":"99kg",
+        "G":"28",
+        "PTS":"2.8",
+        "TRB":"1.3",
+        "AST":"0.1",
+        "FG%":"43.1",
+        "FG3%":null,
+        "FT%":"72.4",
+        "eFG%":null,
+        "PER":"16.3",
+        "WS":"0.2",
+        "College":[
+            "Detroit Mercy"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomati01.html",
+        "Nome":"Tim Thomas",
+        "Position":[
+            "Small Forward",
+            "Power Forward"
+        ],
+        "Born":"February 26 , 1977",
+        "Draft Team":"New Jersey Nets",
+        "Draft Year":"1997",
+        "Debut":"1997",
+        "Experience":"13",
+        "Altezza":"208cm",
+        "Peso":"104kg",
+        "G":"824",
+        "PTS":"11.5",
+        "TRB":"4.1",
+        "AST":"1.5",
+        "FG%":"43.7",
+        "FG3%":"36.9",
+        "FT%":"75.8",
+        "eFG%":"49.7",
+        "PER":"14.0",
+        "WS":"35.2",
+        "College":[
+            "Villanova"
+        ],
+        "High School":"Paterson Catholic"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomaty01.html",
+        "Nome":"Tyrus Thomas",
+        "Position":[
+            "Power Forward",
+            "Center"
+        ],
+        "Born":"August 17 , 1986",
+        "Draft Team":"Portland Trail Blazers",
+        "Draft Year":"2006",
+        "Debut":"2006",
+        "Experience":"8",
+        "Altezza":"206cm",
+        "Peso":"97kg",
+        "G":"402",
+        "PTS":"7.7",
+        "TRB":"4.8",
+        "AST":"0.9",
+        "FG%":"43.8",
+        "FG3%":"23.5",
+        "FT%":"73.2",
+        "eFG%":"43.9",
+        "PER":"14.8",
+        "WS":"13.0",
+        "College":[
+            "LSU"
+        ],
+        "High School":"McKinley"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomawi01.html",
+        "Nome":"Willis Thomas",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"N\/D",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":"188cm",
+        "Peso":"83kg",
+        "G":"62",
+        "PTS":"9.0",
+        "TRB":"1.8",
+        "AST":"0.9",
+        "FG%":"44.2",
+        "FG3%":"0.0",
+        "FT%":"74.2",
+        "eFG%":"44.2",
+        "PER":"12.2",
+        "WS":"1.5",
+        "College":[
+            "Harbor College"
+        ],
+        "High School":"Jefferson"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomptr02.html",
+        "Nome":"Trey Thompkins",
+        "Position":[
+            "Center"
+        ],
+        "Born":"May 20 , 1990",
+        "Draft Team":"Los Angeles Clippers",
+        "Draft Year":"2011",
+        "Debut":"2011",
+        "Experience":"1",
+        "Altezza":"208cm",
+        "Peso":"111kg",
+        "G":"24",
+        "PTS":"2.4",
+        "TRB":"1.0",
+        "AST":"0.1",
+        "FG%":"39.3",
+        "FG3%":"30.8",
+        "FT%":"71.4",
+        "eFG%":"42.6",
+        "PER":"12.0",
+        "WS":"0.0",
+        "College":[
+            "Georgia"
+        ],
+        "High School":"Wesleyan School"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thompam01.html",
+        "Nome":"Amen Thompson",
+        "Position":[
+            "Small Forward",
+            "Point Guard"
+        ],
+        "Born":"January 30 , 2003",
+        "Draft Team":"Houston Rockets",
+        "Draft Year":"2023",
+        "Debut":"2023",
+        "Experience":"2",
+        "Altezza":"201cm",
+        "Peso":"90kg",
+        "G":"210",
+        "PTS":"14.3",
+        "TRB":"7.6",
+        "AST":"4.0",
+        "FG%":"54.1",
+        "FG3%":"21.9",
+        "FT%":"73.1",
+        "eFG%":"55.5",
+        "PER":"18.7",
+        "WS":"22.6",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thompau01.html",
+        "Nome":"Ausar Thompson",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"January 30 , 2003",
+        "Draft Team":"Detroit Pistons",
+        "Draft Year":"2023",
+        "Debut":"2023",
+        "Experience":"2",
+        "Altezza":"201cm",
+        "Peso":"92kg",
+        "G":"195",
+        "PTS":"9.6",
+        "TRB":"5.8",
+        "AST":"2.5",
+        "FG%":"51.5",
+        "FG3%":"20.4",
+        "FT%":"60.0",
+        "eFG%":"52.7",
+        "PER":"15.4",
+        "WS":"11.3",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thompbe01.html",
+        "Nome":"Bernard Thompson",
+        "Position":[
+            "Small Forward",
+            "Power Forward",
+            "Shooting Guard"
+        ],
+        "Born":"August 30 , 1962",
+        "Draft Team":"Portland Trail Blazers",
+        "Draft Year":"1984",
+        "Debut":"1984",
+        "Experience":"5",
+        "Altezza":"198cm",
+        "Peso":"95kg",
+        "G":"204",
+        "PTS":"5.3",
+        "TRB":"1.7",
+        "AST":"1.3",
+        "FG%":"43.9",
+        "FG3%":"0.0",
+        "FT%":"78.9",
+        "eFG%":"43.9",
+        "PER":"10.2",
+        "WS":"3.4",
+        "College":[
+            "Fresno State"
+        ],
+        "High School":"South Mountain"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thompbi01.html",
+        "Nome":"Billy Thompson",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"December 1 , 1963",
+        "Draft Team":"Atlanta Hawks",
+        "Draft Year":"1986",
+        "Debut":"1986",
+        "Experience":"6",
+        "Altezza":"201cm",
+        "Peso":"88kg",
+        "G":"300",
+        "PTS":"8.6",
+        "TRB":"5.4",
+        "AST":"1.7",
+        "FG%":"50.5",
+        "FG3%":"15.4",
+        "FT%":"67.4",
+        "eFG%":"50.5",
+        "PER":"13.2",
+        "WS":"9.6",
+        "College":[
+            "Louisville"
+        ],
+        "High School":"Camden"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thompbr01.html",
+        "Nome":"Brooks Thompson",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"July 19 , 1970",
+        "Draft Team":"Orlando Magic",
+        "Draft Year":"1994",
+        "Debut":"1994",
+        "Experience":"4",
+        "Altezza":"193cm",
+        "Peso":"87kg",
+        "G":"168",
+        "PTS":"4.5",
+        "TRB":"0.9",
+        "AST":"1.7",
+        "FG%":"40.9",
+        "FG3%":"37.6",
+        "FT%":"64.7",
+        "eFG%":"51.9",
+        "PER":"13.4",
+        "WS":"2.0",
+        "College":[
+            "Texas A&M",
+            "Oklahoma State"
+        ],
+        "High School":"Littleton"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thompco01.html",
+        "Nome":"Corny Thompson",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"February 5 , 1960",
+        "Draft Team":"Dallas Mavericks",
+        "Draft Year":"1982",
+        "Debut":"1982",
+        "Experience":"1",
+        "Altezza":"203cm",
+        "Peso":"102kg",
+        "G":"44",
+        "PTS":"2.8",
+        "TRB":"2.7",
+        "AST":"0.8",
+        "FG%":"31.4",
+        "FG3%":"-",
+        "FT%":"78.3",
+        "eFG%":"31.4",
+        "PER":"6.0",
+        "WS":"-0.1",
+        "College":[
+            "UConn"
+        ],
+        "High School":"Middletown"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thompda01.html",
+        "Nome":"David Thompson",
+        "Position":[
+            "Shooting Guard",
+            "Small Forward"
+        ],
+        "Born":"July 13 , 1954",
+        "Draft Team":"Atlanta Hawks",
+        "Draft Year":"1975",
+        "Debut":"1976",
+        "Experience":"9",
+        "Altezza":"193cm",
+        "Peso":"88kg",
+        "G":"592",
+        "PTS":"22.7",
+        "TRB":"4.1",
+        "AST":"3.3",
+        "FG%":"50.5",
+        "FG3%":"25.5",
+        "FT%":"78.1",
+        "eFG%":"50.7",
+        "PER":"19.9",
+        "WS":"63.3",
+        "College":[
+            "NC State"
+        ],
+        "High School":"Crest"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thompdi01.html",
+        "Nome":"Dijon Thompson",
+        "Position":[
+            "Small Forward",
+            "Shooting Guard"
+        ],
+        "Born":"February 23 , 1983",
+        "Draft Team":"New York Knicks",
+        "Draft Year":"2005",
+        "Debut":"2005",
+        "Experience":"2",
+        "Altezza":"201cm",
+        "Peso":"88kg",
+        "G":"16",
+        "PTS":"2.8",
+        "TRB":"1.2",
+        "AST":"0.2",
+        "FG%":"42.5",
+        "FG3%":"30.8",
+        "FT%":"87.5",
+        "eFG%":"47.5",
+        "PER":"16.4",
+        "WS":"0.2",
+        "College":[
+            "UCLA"
+        ],
+        "High School":"Redondo Union"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thompet01.html",
+        "Nome":"Ethan Thompson",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"May 4 , 1999",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2025",
+        "Experience":"0",
+        "Altezza":"193cm",
+        "Peso":"88kg",
+        "G":"32",
+        "PTS":"7.0",
+        "TRB":"2.2",
+        "AST":"1.8",
+        "FG%":"37.8",
+        "FG3%":"32.8",
+        "FT%":"78.7",
+        "eFG%":"47.4",
+        "PER":"8.3",
+        "WS":"0.3",
+        "College":[
+            "Oregon State"
+        ],
+        "High School":"Bishop Montgomery"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thompge01.html",
+        "Nome":"George Thompson",
+        "Position":[
+            "Shooting Guard",
+            "Point Guard"
+        ],
+        "Born":"November 29 , 1947",
+        "Draft Team":"Boston Celtics",
+        "Draft Year":"1969",
+        "Debut":"1974",
+        "Experience":"6",
+        "Altezza":"188cm",
+        "Peso":"90kg",
+        "G":"437",
+        "PTS":"18.6",
+        "TRB":"3.3",
+        "AST":"3.6",
+        "FG%":"46.5",
+        "FG3%":"26.5",
+        "FT%":"76.2",
+        "eFG%":"47.3",
+        "PER":"17.3",
+        "WS":"30.9",
+        "College":[
+            "Marquette"
+        ],
+        "High School":"Erasmus Hall"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thompho01.html",
+        "Nome":"Hollis Thompson",
+        "Position":[
+            "Shooting Guard",
+            "Small Forward"
+        ],
+        "Born":"April 3 , 1991",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2013",
+        "Experience":"4",
+        "Altezza":"203cm",
+        "Peso":"93kg",
+        "G":"265",
+        "PTS":"7.7",
+        "TRB":"3.1",
+        "AST":"1.1",
+        "FG%":"41.3",
+        "FG3%":"38.6",
+        "FT%":"70.7",
+        "eFG%":"51.4",
+        "PER":"9.6",
+        "WS":"6.5",
+        "College":[
+            "Georgetown"
+        ],
+        "High School":"Loyola"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thompja01.html",
+        "Nome":"Jack Thompson",
+        "Position":[
+            "Guard"
+        ],
+        "Born":"March 26 , 1946",
+        "Draft Team":"Baltimore Bullets",
+        "Draft Year":"1968",
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":"185cm",
+        "Peso":"83kg",
+        "G":"2",
+        "PTS":"1.0",
+        "TRB":"0.5",
+        "AST":"1.0",
+        "FG%":"33.3",
+        "FG3%":"0.0",
+        "FT%":"-",
+        "eFG%":"33.3",
+        "PER":"5.0",
+        "WS":"0.0",
+        "College":[
+            "South Carolina"
+        ],
+        "High School":"Adelphi Academy"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thompja02.html",
+        "Nome":"Jason Thompson",
+        "Position":[
+            "Power Forward",
+            "Center"
+        ],
+        "Born":"July 21 , 1986",
+        "Draft Team":"Sacramento Kings",
+        "Draft Year":"2008",
+        "Debut":"2008",
+        "Experience":"8",
+        "Altezza":"211cm",
+        "Peso":"113kg",
+        "G":"588",
+        "PTS":"8.9",
+        "TRB":"6.6",
+        "AST":"1.1",
+        "FG%":"49.6",
+        "FG3%":"14.3",
+        "FT%":"65.7",
+        "eFG%":"49.7",
+        "PER":"13.5",
+        "WS":"23.8",
+        "College":[
+            "Rider University"
+        ],
+        "High School":"Lenape"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thompjo01.html",
+        "Nome":"John Thompson",
+        "Position":[
+            "Center",
+            "Power Forward"
+        ],
+        "Born":"September 2 , 1941",
+        "Draft Team":"Boston Celtics",
+        "Draft Year":"1964",
+        "Debut":"1964",
+        "Experience":"2",
+        "Altezza":"208cm",
+        "Peso":"102kg",
+        "G":"74",
+        "PTS":"3.5",
+        "TRB":"3.5",
+        "AST":"0.3",
+        "FG%":"41.0",
+        "FG3%":null,
+        "FT%":"59.5",
+        "eFG%":null,
+        "PER":"10.2",
+        "WS":"2.1",
+        "College":[
+            "Providence"
+        ],
+        "High School":"Archbishop Carroll"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thompke01.html",
+        "Nome":"Kevin Thompson",
+        "Position":[
+            "Center"
+        ],
+        "Born":"February 7 , 1971",
+        "Draft Team":"Portland Trail Blazers",
+        "Draft Year":"1993",
+        "Debut":"1993",
+        "Experience":"1",
+        "Altezza":"211cm",
+        "Peso":"117kg",
+        "G":"14",
+        "PTS":"0.9",
+        "TRB":"0.9",
+        "AST":"0.2",
+        "FG%":"42.9",
+        "FG3%":"0.0",
+        "FT%":"50.0",
+        "eFG%":"42.9",
+        "PER":"4.9",
+        "WS":"0.0",
+        "College":[
+            "NC State"
+        ],
+        "High School":"Glenn"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thompkl01.html",
+        "Nome":"Klay Thompson",
+        "Position":[
+            "Shooting Guard",
+            "Small Forward"
+        ],
+        "Born":"February 8 , 1990",
+        "Draft Team":"Golden State Warriors",
+        "Draft Year":"2011",
+        "Debut":"2011",
+        "Experience":"12",
+        "Altezza":"196cm",
+        "Peso":"99kg",
+        "G":"934",
+        "PTS":"18.6",
+        "TRB":"3.4",
+        "AST":"2.2",
+        "FG%":"44.8",
+        "FG3%":"40.9",
+        "FT%":"85.8",
+        "eFG%":"54.8",
+        "PER":"15.6",
+        "WS":"57.6",
+        "College":[
+            "Washington State"
+        ],
+        "High School":"Santa Margarita"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thompla01.html",
+        "Nome":"LaSalle Thompson",
+        "Position":[
+            "Center"
+        ],
+        "Born":"June 23 , 1961",
+        "Draft Team":"Kansas City Kings",
+        "Draft Year":"1982",
+        "Debut":"1982",
+        "Experience":"15",
+        "Altezza":"208cm",
+        "Peso":"111kg",
+        "G":"985",
+        "PTS":"7.9",
+        "TRB":"6.8",
+        "AST":"1.2",
+        "FG%":"49.2",
+        "FG3%":"15.4",
+        "FT%":"73.7",
+        "eFG%":"49.2",
+        "PER":"13.6",
+        "WS":"35.0",
+        "College":[
+            "Texas"
+        ],
+        "High School":"Withrow"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thompmy01.html",
+        "Nome":"Mychal Thompson",
+        "Position":[
+            "Center",
+            "Power Forward"
+        ],
+        "Born":"January 30 , 1955",
+        "Draft Team":"Portland Trail Blazers",
+        "Draft Year":"1978",
+        "Debut":"1978",
+        "Experience":"12",
+        "Altezza":"208cm",
+        "Peso":"102kg",
+        "G":"935",
+        "PTS":"13.7",
+        "TRB":"7.4",
+        "AST":"2.3",
+        "FG%":"50.4",
+        "FG3%":"8.3",
+        "FT%":"65.5",
+        "eFG%":"50.4",
+        "PER":"15.7",
+        "WS":"59.1",
+        "College":[
+            "Minnesota"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thompmy02.html",
+        "Nome":"Mychel Thompson",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"June 1 , 1988",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2012",
+        "Experience":"1",
+        "Altezza":"198cm",
+        "Peso":"95kg",
+        "G":"5",
+        "PTS":"3.6",
+        "TRB":"1.0",
+        "AST":"1.4",
+        "FG%":"29.2",
+        "FG3%":"36.4",
+        "FT%":"-",
+        "eFG%":"37.5",
+        "PER":"2.2",
+        "WS":"-0.2",
+        "College":[
+            "Pepperdine"
+        ],
+        "High School":"Santa Margarita"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomppa01.html",
+        "Nome":"Paul Thompson",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"May 25 , 1961",
+        "Draft Team":"Cleveland Cavaliers",
+        "Draft Year":"1983",
+        "Debut":"1983",
+        "Experience":"3",
+        "Altezza":"198cm",
+        "Peso":"95kg",
+        "G":"154",
+        "PTS":"8.9",
+        "TRB":"3.5",
+        "AST":"1.5",
+        "FG%":"43.2",
+        "FG3%":"21.0",
+        "FT%":"79.2",
+        "eFG%":"43.8",
+        "PER":"13.7",
+        "WS":"4.9",
+        "College":[
+            "Tulane"
+        ],
+        "High School":"Peabody"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thompst01.html",
+        "Nome":"Stephen Thompson",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"December 2 , 1968",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1992",
+        "Experience":"1",
+        "Altezza":"193cm",
+        "Peso":"83kg",
+        "G":"19",
+        "PTS":"1.6",
+        "TRB":"1.0",
+        "AST":"0.4",
+        "FG%":"37.8",
+        "FG3%":"0.0",
+        "FT%":"37.5",
+        "eFG%":"37.8",
+        "PER":"11.5",
+        "WS":"0.0",
+        "College":[
+            "Syracuse"
+        ],
+        "High School":"Crenshaw"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thomptr01.html",
+        "Nome":"Tristan Thompson",
+        "Position":[
+            "Center",
+            "Power Forward"
+        ],
+        "Born":"March 13 , 1991",
+        "Draft Team":"Cleveland Cavaliers",
+        "Draft Year":"2011",
+        "Debut":"2011",
+        "Experience":"14",
+        "Altezza":"206cm",
+        "Peso":"115kg",
+        "G":"819",
+        "PTS":"8.3",
+        "TRB":"7.8",
+        "AST":"1.0",
+        "FG%":"52.0",
+        "FG3%":"23.8",
+        "FT%":"59.2",
+        "eFG%":"52.1",
+        "PER":"15.3",
+        "WS":"49.3",
+        "College":[
+            "Texas"
+        ],
+        "High School":"Findlay Prep"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thorjt01.html",
+        "Nome":"JT Thor",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"August 26 , 2002",
+        "Draft Team":"Detroit Pistons",
+        "Draft Year":"2021",
+        "Debut":"2021",
+        "Experience":"4",
+        "Altezza":"206cm",
+        "Peso":"92kg",
+        "G":"185",
+        "PTS":"3.2",
+        "TRB":"2.1",
+        "AST":"0.5",
+        "FG%":"41.9",
+        "FG3%":"31.7",
+        "FT%":"65.1",
+        "eFG%":"49.3",
+        "PER":"8.4",
+        "WS":"1.2",
+        "College":[
+            "Auburn"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thoresk01.html",
+        "Nome":"Skip Thoren",
+        "Position":[
+            "Center"
+        ],
+        "Born":"April 5 , 1943",
+        "Draft Team":"Baltimore Bullets",
+        "Draft Year":"1965",
+        "Debut":null,
+        "Experience":"3",
+        "Altezza":"208cm",
+        "Peso":"104kg",
+        "G":"170",
+        "PTS":"13.2",
+        "TRB":"11.0",
+        "AST":"1.9",
+        "FG%":"46.5",
+        "FG3%":"0.0",
+        "FT%":"61.2",
+        "eFG%":"46.5",
+        "PER":"18.6",
+        "WS":"13.0",
+        "College":[
+            "Illinois"
+        ],
+        "High School":"East"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thornro01.html",
+        "Nome":"Rod Thorn",
+        "Position":[
+            "Shooting Guard",
+            "Point Guard"
+        ],
+        "Born":"May 23 , 1941",
+        "Draft Team":"Baltimore Bullets",
+        "Draft Year":"1963",
+        "Debut":"1963",
+        "Experience":"8",
+        "Altezza":"193cm",
+        "Peso":"88kg",
+        "G":"466",
+        "PTS":"10.8",
+        "TRB":"3.1",
+        "AST":"2.6",
+        "FG%":"43.3",
+        "FG3%":null,
+        "FT%":"72.3",
+        "eFG%":null,
+        "PER":"14.5",
+        "WS":"17.2",
+        "College":[
+            "West Virginia"
+        ],
+        "High School":"Princeton"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thornal01.html",
+        "Nome":"Al Thornton",
+        "Position":[
+            "Small Forward",
+            "Power Forward"
+        ],
+        "Born":"December 7 , 1983",
+        "Draft Team":"Los Angeles Clippers",
+        "Draft Year":"2007",
+        "Debut":"2007",
+        "Experience":"4",
+        "Altezza":"203cm",
+        "Peso":"99kg",
+        "G":"296",
+        "PTS":"11.9",
+        "TRB":"4.2",
+        "AST":"1.2",
+        "FG%":"45.2",
+        "FG3%":"29.3",
+        "FT%":"74.7",
+        "eFG%":"46.5",
+        "PER":"12.3",
+        "WS":"6.1",
+        "College":[
+            "Florida State"
+        ],
+        "High School":"Perry"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thornbo01.html",
+        "Nome":"Bob Thornton",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"July 10 , 1962",
+        "Draft Team":"New York Knicks",
+        "Draft Year":"1984",
+        "Debut":"1985",
+        "Experience":"8",
+        "Altezza":"208cm",
+        "Peso":"102kg",
+        "G":"283",
+        "PTS":"3.0",
+        "TRB":"2.5",
+        "AST":"0.3",
+        "FG%":"44.4",
+        "FG3%":"22.2",
+        "FT%":"55.8",
+        "eFG%":"44.6",
+        "PER":"6.2",
+        "WS":"1.3",
+        "College":[
+            "University of California, Irvine"
+        ],
+        "High School":"Mission Viejo"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thornda01.html",
+        "Nome":"Dallas Thornton",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"September 1 , 1946",
+        "Draft Team":"Baltimore Bullets",
+        "Draft Year":"1968",
+        "Debut":null,
+        "Experience":"2",
+        "Altezza":"193cm",
+        "Peso":"86kg",
+        "G":"50",
+        "PTS":"6.8",
+        "TRB":"2.8",
+        "AST":"1.5",
+        "FG%":"43.3",
+        "FG3%":"18.2",
+        "FT%":"65.5",
+        "eFG%":"43.7",
+        "PER":"9.0",
+        "WS":"1.3",
+        "College":[
+            "Kentucky Wesleyan College"
+        ],
+        "High School":"Male"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thornma01.html",
+        "Nome":"Marcus Thornton",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"June 5 , 1987",
+        "Draft Team":"Miami Heat",
+        "Draft Year":"2009",
+        "Debut":"2009",
+        "Experience":"8",
+        "Altezza":"193cm",
+        "Peso":"92kg",
+        "G":"483",
+        "PTS":"11.9",
+        "TRB":"2.8",
+        "AST":"1.4",
+        "FG%":"42.5",
+        "FG3%":"35.8",
+        "FT%":"83.0",
+        "eFG%":"49.8",
+        "PER":"15.5",
+        "WS":"20.0",
+        "College":[
+            "LSU"
+        ],
+        "High School":"Tara"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thornsi01.html",
+        "Nome":"Sindarius Thornwell",
+        "Position":[
+            "Shooting Guard",
+            "Small Forward"
+        ],
+        "Born":"November 15 , 1994",
+        "Draft Team":"Milwaukee Bucks",
+        "Draft Year":"2017",
+        "Debut":"2017",
+        "Experience":"4",
+        "Altezza":"193cm",
+        "Peso":"97kg",
+        "G":"160",
+        "PTS":"2.5",
+        "TRB":"1.3",
+        "AST":"0.7",
+        "FG%":"40.7",
+        "FG3%":"34.0",
+        "FT%":"67.2",
+        "eFG%":"45.9",
+        "PER":"7.6",
+        "WS":"1.1",
+        "College":[
+            "South Carolina"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thorpot01.html",
+        "Nome":"Otis Thorpe",
+        "Position":[
+            "Power Forward",
+            "Center"
+        ],
+        "Born":"August 5 , 1962",
+        "Draft Team":"Kansas City Kings",
+        "Draft Year":"1984",
+        "Debut":"1984",
+        "Experience":"17",
+        "Altezza":"208cm",
+        "Peso":"112kg",
+        "G":"1257",
+        "PTS":"14.0",
+        "TRB":"8.2",
+        "AST":"2.2",
+        "FG%":"54.6",
+        "FG3%":"4.7",
+        "FT%":"68.7",
+        "eFG%":"54.6",
+        "PER":"16.0",
+        "WS":"106.4",
+        "College":[
+            "Providence"
+        ],
+        "High School":"Lake Worth Community"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/threase01.html",
+        "Nome":"Sedale Threatt",
+        "Position":[
+            "Point Guard",
+            "Shooting Guard"
+        ],
+        "Born":"September 10 , 1961",
+        "Draft Team":"Philadelphia 76ers",
+        "Draft Year":"1983",
+        "Debut":"1983",
+        "Experience":"14",
+        "Altezza":"188cm",
+        "Peso":"79kg",
+        "G":"951",
+        "PTS":"9.8",
+        "TRB":"1.8",
+        "AST":"3.8",
+        "FG%":"48.5",
+        "FG3%":"29.3",
+        "FT%":"81.5",
+        "eFG%":"49.6",
+        "PER":"14.7",
+        "WS":"48.0",
+        "College":[
+            "West Virginia Tech"
+        ],
+        "High School":"Therrell"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thurmna01.html",
+        "Nome":"Nate Thurmond",
+        "Position":[
+            "Center",
+            "Power Forward"
+        ],
+        "Born":"July 25 , 1941",
+        "Draft Team":"San Francisco Warriors",
+        "Draft Year":"1963",
+        "Debut":"1963",
+        "Experience":"14",
+        "Altezza":"211cm",
+        "Peso":"102kg",
+        "G":"964",
+        "PTS":"15.0",
+        "TRB":"15.0",
+        "AST":"2.7",
+        "FG%":"42.1",
+        "FG3%":null,
+        "FT%":"66.7",
+        "eFG%":null,
+        "PER":"16.5",
+        "WS":"78.0",
+        "College":[
+            "Bowling Green"
+        ],
+        "High School":"Central"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thursme01.html",
+        "Nome":"Mel Thurston",
+        "Position":[
+            "Guard"
+        ],
+        "Born":"January 16 , 1919",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1948",
+        "Experience":"1",
+        "Altezza":"183cm",
+        "Peso":"79kg",
+        "G":"14",
+        "PTS":"5.6",
+        "TRB":"-",
+        "AST":"0.3",
+        "FG%":"28.3",
+        "FG3%":null,
+        "FT%":"50.0",
+        "eFG%":null,
+        "PER":"-",
+        "WS":"-0.1",
+        "College":[
+            "Canisius"
+        ],
+        "High School":"Lockport"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/thybuma01.html",
+        "Nome":"Matisse Thybulle",
+        "Position":[
+            "Shooting Guard",
+            "Small Forward"
+        ],
+        "Born":"March 4 , 1997",
+        "Draft Team":"Boston Celtics",
+        "Draft Year":"2019",
+        "Debut":"2019",
+        "Experience":"6",
+        "Altezza":"196cm",
+        "Peso":"91kg",
+        "G":"377",
+        "PTS":"5.0",
+        "TRB":"2.0",
+        "AST":"1.1",
+        "FG%":"43.8",
+        "FG3%":"34.9",
+        "FT%":"68.3",
+        "eFG%":"54.3",
+        "PER":"11.0",
+        "WS":"15.4",
+        "College":[
+            "Washington"
+        ],
+        "High School":"Eastside Catholic"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tidriha01.html",
+        "Nome":"Hal Tidrick",
+        "Position":[
+            "Forward\/Guard"
+        ],
+        "Born":"April 4 , 1915",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1948",
+        "Experience":"1",
+        "Altezza":"185cm",
+        "Peso":"86kg",
+        "G":"61",
+        "PTS":"9.0",
+        "TRB":"-",
+        "AST":"1.7",
+        "FG%":"31.5",
+        "FG3%":null,
+        "FT%":"80.0",
+        "eFG%":null,
+        "PER":"-",
+        "WS":"2.5",
+        "College":[
+            "Washington & Jefferson College"
+        ],
+        "High School":"Martins Ferry"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tiemada01.html",
+        "Nome":"Dan Tieman",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"November 30 , 1940",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1962",
+        "Experience":"1",
+        "Altezza":"183cm",
+        "Peso":"83kg",
+        "G":"29",
+        "PTS":"1.2",
+        "TRB":"0.8",
+        "AST":"0.9",
+        "FG%":"26.3",
+        "FG3%":null,
+        "FT%":"40.0",
+        "eFG%":null,
+        "PER":"4.1",
+        "WS":"-0.5",
+        "College":[
+            "Thomas More College"
+        ],
+        "High School":"Covington Catholic"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tilliki02.html",
+        "Nome":"Killian Tillie",
+        "Position":[
+            "Center"
+        ],
+        "Born":"March 5 , 1998",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2021",
+        "Experience":"2",
+        "Altezza":"206cm",
+        "Peso":"99kg",
+        "G":"54",
+        "PTS":"3.2",
+        "TRB":"1.6",
+        "AST":"0.6",
+        "FG%":"33.7",
+        "FG3%":"31.1",
+        "FT%":"73.7",
+        "eFG%":"43.8",
+        "PER":"7.9",
+        "WS":"0.8",
+        "College":[
+            "Gonzaga"
+        ],
+        "High School":"INSEP"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tillida01.html",
+        "Nome":"Darren Tillis",
+        "Position":[
+            "Center"
+        ],
+        "Born":"February 23 , 1960",
+        "Draft Team":"Boston Celtics",
+        "Draft Year":"1982",
+        "Debut":"1982",
+        "Experience":"2",
+        "Altezza":"211cm",
+        "Peso":"97kg",
+        "G":"124",
+        "PTS":"3.4",
+        "TRB":"2.5",
+        "AST":"0.3",
+        "FG%":"42.3",
+        "FG3%":"0.0",
+        "FT%":"62.6",
+        "eFG%":"42.3",
+        "PER":"10.0",
+        "WS":"0.9",
+        "College":[
+            "Cleveland State University"
+        ],
+        "High School":"Lincoln"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tillmxa01.html",
+        "Nome":"Xavier Tillman Sr.",
+        "Position":[
+            "Center",
+            "Power Forward"
+        ],
+        "Born":"January 12 , 1999",
+        "Draft Team":"Sacramento Kings",
+        "Draft Year":"2020",
+        "Debut":"2021",
+        "Experience":"5",
+        "Altezza":"203cm",
+        "Peso":"111kg",
+        "G":"290",
+        "PTS":"4.9",
+        "TRB":"3.5",
+        "AST":"1.1",
+        "FG%":"50.6",
+        "FG3%":"24.6",
+        "FT%":"57.2",
+        "eFG%":"53.3",
+        "PER":"14.1",
+        "WS":"10.3",
+        "College":[
+            "Michigan State"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/timmedr01.html",
+        "Nome":"Drew Timme",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"September 9 , 2000",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2025",
+        "Experience":"1",
+        "Altezza":"206cm",
+        "Peso":"106kg",
+        "G":"36",
+        "PTS":"5.6",
+        "TRB":"2.7",
+        "AST":"1.2",
+        "FG%":"49.4",
+        "FG3%":"33.3",
+        "FT%":"60.0",
+        "eFG%":"55.4",
+        "PER":"11.8",
+        "WS":"0.5",
+        "College":[
+            "Gonzaga"
+        ],
+        "High School":"J.J. Pearce HS"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tinglja01.html",
+        "Nome":"Jack Tingle",
+        "Position":[
+            "Forward"
+        ],
+        "Born":"December 30 , 1924",
+        "Draft Team":"Washington Capitols",
+        "Draft Year":"1947",
+        "Debut":"1947",
+        "Experience":"2",
+        "Altezza":"193cm",
+        "Peso":"92kg",
+        "G":"39",
+        "PTS":"2.3",
+        "TRB":"-",
+        "AST":"0.2",
+        "FG%":"25.9",
+        "FG3%":null,
+        "FT%":"51.5",
+        "eFG%":null,
+        "PER":"-",
+        "WS":"0.4",
+        "College":[
+            "Kentucky"
+        ],
+        "High School":"Trimble"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tinslge01.html",
+        "Nome":"George Tinsley",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"September 19 , 1946",
+        "Draft Team":"Chicago Bulls",
+        "Draft Year":"1969",
+        "Debut":null,
+        "Experience":"2",
+        "Altezza":"196cm",
+        "Peso":"92kg",
+        "G":"133",
+        "PTS":"5.3",
+        "TRB":"2.9",
+        "AST":"0.9",
+        "FG%":"42.2",
+        "FG3%":"20.0",
+        "FT%":"74.3",
+        "eFG%":"42.7",
+        "PER":"11.2",
+        "WS":"3.1",
+        "College":[
+            "Kentucky Wesleyan College"
+        ],
+        "High School":"Male"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tinslja01.html",
+        "Nome":"Jamaal Tinsley",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"February 28 , 1978",
+        "Draft Team":"Memphis Grizzlies",
+        "Draft Year":"2001",
+        "Debut":"2001",
+        "Experience":"11",
+        "Altezza":"190cm",
+        "Peso":"88kg",
+        "G":"547",
+        "PTS":"8.5",
+        "TRB":"2.9",
+        "AST":"6.1",
+        "FG%":"39.3",
+        "FG3%":"29.9",
+        "FT%":"71.6",
+        "eFG%":"43.7",
+        "PER":"13.6",
+        "WS":"17.2",
+        "College":[
+            "Iowa State"
+        ],
+        "High School":"Tilden"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tisdawa01.html",
+        "Nome":"Wayman Tisdale",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"June 9 , 1964",
+        "Draft Team":"Indiana Pacers",
+        "Draft Year":"1985",
+        "Debut":"1985",
+        "Experience":"12",
+        "Altezza":"206cm",
+        "Peso":"108kg",
+        "G":"840",
+        "PTS":"15.3",
+        "TRB":"6.1",
+        "AST":"1.3",
+        "FG%":"50.5",
+        "FG3%":"0.0",
+        "FT%":"76.0",
+        "eFG%":"50.5",
+        "PER":"15.7",
+        "WS":"45.7",
+        "College":[
+            "Oklahoma"
+        ],
+        "High School":"Booker T. Washington"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tobeymi01.html",
+        "Nome":"Mike Tobey",
+        "Position":[
+            "Center"
+        ],
+        "Born":"October 10 , 1994",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2017",
+        "Experience":"1",
+        "Altezza":"213cm",
+        "Peso":"117kg",
+        "G":"2",
+        "PTS":"1.0",
+        "TRB":"1.5",
+        "AST":"0.5",
+        "FG%":"25.0",
+        "FG3%":"-",
+        "FT%":"-",
+        "eFG%":"25.0",
+        "PER":"-0.1",
+        "WS":"0.0",
+        "College":[
+            "Virginia"
+        ],
+        "High School":"Blair Academy"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/toddis01.html",
+        "Nome":"Isaiah Todd",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"October 17 , 2001",
+        "Draft Team":"Milwaukee Bucks",
+        "Draft Year":"2021",
+        "Debut":"2021",
+        "Experience":"2",
+        "Altezza":"206cm",
+        "Peso":"99kg",
+        "G":"18",
+        "PTS":"1.6",
+        "TRB":"1.3",
+        "AST":"0.4",
+        "FG%":"22.2",
+        "FG3%":"19.2",
+        "FT%":"50.0",
+        "eFG%":"27.8",
+        "PER":"2.2",
+        "WS":"-0.3",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/todormi01.html",
+        "Nome":"Mike Todorovich",
+        "Position":[
+            "Forward\/Center"
+        ],
+        "Born":"June 11 , 1923",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1949",
+        "Experience":"2",
+        "Altezza":"196cm",
+        "Peso":"99kg",
+        "G":"131",
+        "PTS":"11.0",
+        "TRB":"6.9",
+        "AST":"2.9",
+        "FG%":"30.9",
+        "FG3%":null,
+        "FT%":"71.1",
+        "eFG%":null,
+        "PER":"-",
+        "WS":"5.3",
+        "College":[
+            "Washington University in Saint Louis",
+            "Notre Dame",
+            "Wyoming"
+        ],
+        "High School":"Soldan"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tolbera01.html",
+        "Nome":"Ray Tolbert",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"September 10 , 1958",
+        "Draft Team":"New Jersey Nets",
+        "Draft Year":"1981",
+        "Debut":"1981",
+        "Experience":"5",
+        "Altezza":"206cm",
+        "Peso":"102kg",
+        "G":"261",
+        "PTS":"3.6",
+        "TRB":"2.3",
+        "AST":"0.5",
+        "FG%":"49.5",
+        "FG3%":"0.0",
+        "FT%":"54.4",
+        "eFG%":"49.5",
+        "PER":"9.8",
+        "WS":"2.9",
+        "College":[
+            "Indiana"
+        ],
+        "High School":"Madison Heights"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tolbeto01.html",
+        "Nome":"Tom Tolbert",
+        "Position":[
+            "Power Forward",
+            "Small Forward"
+        ],
+        "Born":"October 16 , 1965",
+        "Draft Team":"Charlotte Hornets",
+        "Draft Year":"1988",
+        "Debut":"1988",
+        "Experience":"7",
+        "Altezza":"201cm",
+        "Peso":"106kg",
+        "G":"312",
+        "PTS":"6.5",
+        "TRB":"4.0",
+        "AST":"0.9",
+        "FG%":"46.0",
+        "FG3%":"29.6",
+        "FT%":"71.6",
+        "eFG%":"46.8",
+        "PER":"10.5",
+        "WS":"6.6",
+        "College":[
+            "University of California, Irvine",
+            "Arizona"
+        ],
+        "High School":"Artesia"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tollian01.html",
+        "Nome":"Anthony Tolliver",
+        "Position":[
+            "Power Forward",
+            "Small Forward"
+        ],
+        "Born":"June 1 , 1985",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2008",
+        "Experience":"13",
+        "Altezza":"203cm",
+        "Peso":"108kg",
+        "G":"730",
+        "PTS":"6.1",
+        "TRB":"3.3",
+        "AST":"0.9",
+        "FG%":"41.4",
+        "FG3%":"37.3",
+        "FT%":"77.1",
+        "eFG%":"53.7",
+        "PER":"10.9",
+        "WS":"25.9",
+        "College":[
+            "Creighton"
+        ],
+        "High School":"Kickapoo"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tolsode01.html",
+        "Nome":"Dean Tolson",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"November 25 , 1951",
+        "Draft Team":"Seattle SuperSonics",
+        "Draft Year":"1974",
+        "Debut":"1974",
+        "Experience":"3",
+        "Altezza":"203cm",
+        "Peso":"86kg",
+        "G":"80",
+        "PTS":"5.0",
+        "TRB":"2.2",
+        "AST":"0.4",
+        "FG%":"54.6",
+        "FG3%":null,
+        "FT%":"54.5",
+        "eFG%":null,
+        "PER":"20.1",
+        "WS":"2.2",
+        "College":[
+            "Arkansas"
+        ],
+        "High School":"Central"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tomjaru01.html",
+        "Nome":"Rudy Tomjanovich",
+        "Position":[
+            "Power Forward",
+            "Small Forward"
+        ],
+        "Born":"November 24 , 1948",
+        "Draft Team":"San Diego Rockets",
+        "Draft Year":"1970",
+        "Debut":"1970",
+        "Experience":"11",
+        "Altezza":"203cm",
+        "Peso":"98kg",
+        "G":"768",
+        "PTS":"17.4",
+        "TRB":"8.1",
+        "AST":"2.0",
+        "FG%":"50.1",
+        "FG3%":"26.2",
+        "FT%":"78.4",
+        "eFG%":"50.2",
+        "PER":"16.9",
+        "WS":"70.4",
+        "College":[
+            "Michigan"
+        ],
+        "High School":"Hamtramck"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tomlina01.html",
+        "Nome":"Nae'Qwan Tomlin",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"December 10 , 2000",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2025",
+        "Experience":"1",
+        "Altezza":"203cm",
+        "Peso":"95kg",
+        "G":"69",
+        "PTS":"5.9",
+        "TRB":"3.0",
+        "AST":"0.8",
+        "FG%":"47.1",
+        "FG3%":"23.2",
+        "FT%":"76.4",
+        "eFG%":"51.3",
+        "PER":"13.0",
+        "WS":"2.4",
+        "College":[
+            "Monroe Community College",
+            "Chipola College",
+            "Kansas State",
+            "Memphis"
+        ],
+        "High School":"Urban Assembly"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/toneyan01.html",
+        "Nome":"Andrew Toney",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"November 23 , 1957",
+        "Draft Team":"Philadelphia 76ers",
+        "Draft Year":"1980",
+        "Debut":"1980",
+        "Experience":"8",
+        "Altezza":"190cm",
+        "Peso":"80kg",
+        "G":"468",
+        "PTS":"15.9",
+        "TRB":"2.2",
+        "AST":"4.2",
+        "FG%":"50.0",
+        "FG3%":"34.2",
+        "FT%":"79.7",
+        "eFG%":"51.2",
+        "PER":"16.1",
+        "WS":"26.9",
+        "College":[
+            "Louisiana"
+        ],
+        "High School":"Glenn"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/toneyse01.html",
+        "Nome":"Sedric Toney",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"April 13 , 1962",
+        "Draft Team":"Atlanta Hawks",
+        "Draft Year":"1985",
+        "Debut":"1985",
+        "Experience":"5",
+        "Altezza":"188cm",
+        "Peso":"80kg",
+        "G":"112",
+        "PTS":"3.7",
+        "TRB":"0.9",
+        "AST":"2.1",
+        "FG%":"36.5",
+        "FG3%":"34.1",
+        "FT%":"78.1",
+        "eFG%":"40.6",
+        "PER":"7.8",
+        "WS":"0.0",
+        "College":[
+            "Dayton"
+        ],
+        "High School":"Wilbur Wright"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tonjejo01.html",
+        "Nome":"John Tonje",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"April 23 , 2001",
+        "Draft Team":"Utah Jazz",
+        "Draft Year":"2025",
+        "Debut":"2026",
+        "Experience":"0",
+        "Altezza":"193cm",
+        "Peso":"98kg",
+        "G":"6",
+        "PTS":"2.5",
+        "TRB":"1.0",
+        "AST":"0.3",
+        "FG%":"28.6",
+        "FG3%":"30.0",
+        "FT%":"100.0",
+        "eFG%":"39.3",
+        "PER":"9.1",
+        "WS":"0.1",
+        "College":[
+            "Colorado State",
+            "Missouri",
+            "Wisconsin"
+        ],
+        "High School":"Omaha Central"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tonkoan01.html",
+        "Nome":"Andy Tonkovich",
+        "Position":[
+            "Guard"
+        ],
+        "Born":"November 1 , 1922",
+        "Draft Team":"Providence Steamrollers",
+        "Draft Year":"1948",
+        "Debut":"1948",
+        "Experience":"1",
+        "Altezza":"185cm",
+        "Peso":"83kg",
+        "G":"17",
+        "PTS":"2.6",
+        "TRB":"-",
+        "AST":"0.6",
+        "FG%":"26.8",
+        "FG3%":null,
+        "FT%":"66.7",
+        "eFG%":null,
+        "PER":"-",
+        "WS":"-0.4",
+        "College":[
+            "Marshall"
+        ],
+        "High School":"Union"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/toolsan01.html",
+        "Nome":"Andy Toolson",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"January 19 , 1966",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1990",
+        "Experience":"2",
+        "Altezza":"198cm",
+        "Peso":"95kg",
+        "G":"60",
+        "PTS":"2.7",
+        "TRB":"1.2",
+        "AST":"0.5",
+        "FG%":"39.7",
+        "FG3%":"34.1",
+        "FT%":"75.7",
+        "eFG%":"44.9",
+        "PER":"8.0",
+        "WS":"0.6",
+        "College":[
+            "BYU"
+        ],
+        "High School":"Twin Falls"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/toomaja01.html",
+        "Nome":"Jack Toomay",
+        "Position":[
+            "Center\/Forward"
+        ],
+        "Born":"August 9 , 1922",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1947",
+        "Experience":"3",
+        "Altezza":"198cm",
+        "Peso":"97kg",
+        "G":"131",
+        "PTS":"6.7",
+        "TRB":"-",
+        "AST":"0.9",
+        "FG%":"37.6",
+        "FG3%":null,
+        "FT%":"69.1",
+        "eFG%":null,
+        "PER":"-",
+        "WS":"6.3",
+        "College":[
+            "University of the Pacific"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/toonebe01.html",
+        "Nome":"Bernard Toone",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"July 14 , 1956",
+        "Draft Team":"Philadelphia 76ers",
+        "Draft Year":"1979",
+        "Debut":"1979",
+        "Experience":"1",
+        "Altezza":"206cm",
+        "Peso":"95kg",
+        "G":"23",
+        "PTS":"2.4",
+        "TRB":"1.5",
+        "AST":"0.5",
+        "FG%":"35.9",
+        "FG3%":"14.3",
+        "FT%":"80.0",
+        "eFG%":"36.7",
+        "PER":"8.9",
+        "WS":"-0.1",
+        "College":[
+            "Marquette"
+        ],
+        "High School":"Gorton"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/topicni01.html",
+        "Nome":"Nikola Topić",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"August 10 , 2005",
+        "Draft Team":"Oklahoma City Thunder",
+        "Draft Year":"2024",
+        "Debut":"2026",
+        "Experience":"0",
+        "Altezza":"198cm",
+        "Peso":"90kg",
+        "G":"10",
+        "PTS":"5.2",
+        "TRB":"1.9",
+        "AST":"4.4",
+        "FG%":"43.1",
+        "FG3%":"40.0",
+        "FT%":"40.0",
+        "eFG%":"49.0",
+        "PER":"8.1",
+        "WS":"0.0",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/toppija01.html",
+        "Nome":"Jacob Toppin",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"May 8 , 2000",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2023",
+        "Experience":"2",
+        "Altezza":"206cm",
+        "Peso":"90kg",
+        "G":"31",
+        "PTS":"1.4",
+        "TRB":"0.7",
+        "AST":"0.3",
+        "FG%":"48.6",
+        "FG3%":"42.9",
+        "FT%":"100.0",
+        "eFG%":"56.8",
+        "PER":"11.5",
+        "WS":"0.2",
+        "College":[
+            "Rhode Island",
+            "Kentucky"
+        ],
+        "High School":"Woodstock Academy"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/toppiob01.html",
+        "Nome":"Obi Toppin",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"March 4 , 1998",
+        "Draft Team":"New York Knicks",
+        "Draft Year":"2020",
+        "Debut":"2020",
+        "Experience":"5",
+        "Altezza":"206cm",
+        "Peso":"99kg",
+        "G":"386",
+        "PTS":"8.7",
+        "TRB":"3.5",
+        "AST":"1.3",
+        "FG%":"52.1",
+        "FG3%":"35.5",
+        "FT%":"78.6",
+        "eFG%":"60.4",
+        "PER":"16.4",
+        "WS":"17.7",
+        "College":[
+            "Dayton"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/torgoir01.html",
+        "Nome":"Irv Torgoff",
+        "Position":[
+            "Forward"
+        ],
+        "Born":"March 6 , 1917",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1946",
+        "Experience":"3",
+        "Altezza":"188cm",
+        "Peso":"87kg",
+        "G":"147",
+        "PTS":"6.8",
+        "TRB":"-",
+        "AST":"0.7",
+        "FG%":"24.6",
+        "FG3%":null,
+        "FT%":"77.1",
+        "eFG%":null,
+        "PER":"-",
+        "WS":"6.5",
+        "College":[
+            "Long Island University"
+        ],
+        "High School":"Tilden"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tormobu01.html",
+        "Nome":"Gene Tormohlen",
+        "Position":[
+            "Center"
+        ],
+        "Born":"May 12 , 1937",
+        "Draft Team":"Syracuse Nationals",
+        "Draft Year":"1959",
+        "Debut":"1963",
+        "Experience":"6",
+        "Altezza":"203cm",
+        "Peso":"104kg",
+        "G":"271",
+        "PTS":"4.4",
+        "TRB":"4.1",
+        "AST":"0.9",
+        "FG%":"41.1",
+        "FG3%":null,
+        "FT%":"57.9",
+        "eFG%":null,
+        "PER":"11.9",
+        "WS":"2.3",
+        "College":[
+            "Tennessee"
+        ],
+        "High School":"Holland"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/torreos01.html",
+        "Nome":"Óscar Torres",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"December 18 , 1976",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2001",
+        "Experience":"2",
+        "Altezza":"198cm",
+        "Peso":"95kg",
+        "G":"82",
+        "PTS":"5.4",
+        "TRB":"1.6",
+        "AST":"0.5",
+        "FG%":"40.1",
+        "FG3%":"31.7",
+        "FT%":"76.8",
+        "eFG%":"45.9",
+        "PER":"11.7",
+        "WS":"1.1",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/toscaju01.html",
+        "Nome":"Juan Toscano-Anderson",
+        "Position":[
+            "Small Forward",
+            "Shooting Guard"
+        ],
+        "Born":"April 10 , 1993",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2020",
+        "Experience":"5",
+        "Altezza":"198cm",
+        "Peso":"94kg",
+        "G":"202",
+        "PTS":"4.1",
+        "TRB":"3.0",
+        "AST":"1.8",
+        "FG%":"50.2",
+        "FG3%":"32.9",
+        "FT%":"64.6",
+        "eFG%":"56.3",
+        "PER":"10.4",
+        "WS":"5.7",
+        "College":[
+            "Marquette"
+        ],
+        "High School":"Castro Valley"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/toshebi01.html",
+        "Nome":"Bill Tosheff",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"June 2 , 1926",
+        "Draft Team":"Indianapolis Olympians",
+        "Draft Year":"1951",
+        "Debut":"1951",
+        "Experience":"3",
+        "Altezza":"185cm",
+        "Peso":"79kg",
+        "G":"203",
+        "PTS":"9.2",
+        "TRB":"3.0",
+        "AST":"3.3",
+        "FG%":"31.5",
+        "FG3%":null,
+        "FT%":"79.3",
+        "eFG%":null,
+        "PER":"11.3",
+        "WS":"5.2",
+        "College":[
+            "Indiana"
+        ],
+        "High School":"Froebel"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/toughbo01.html",
+        "Nome":"Bob Tough",
+        "Position":[
+            "Guard\/Forward"
+        ],
+        "Born":"August 28 , 1920",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1948",
+        "Experience":"2",
+        "Altezza":"183cm",
+        "Peso":"83kg",
+        "G":"82",
+        "PTS":"7.1",
+        "TRB":"-",
+        "AST":"1.7",
+        "FG%":"27.8",
+        "FG3%":null,
+        "FT%":"71.3",
+        "eFG%":null,
+        "PER":"-",
+        "WS":"-0.8",
+        "College":[
+            "St. John's"
+        ],
+        "High School":"Jamaica"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/toupaax01.html",
+        "Nome":"Axel Toupane",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"July 23 , 1992",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2016",
+        "Experience":"3",
+        "Altezza":"201cm",
+        "Peso":"95kg",
+        "G":"33",
+        "PTS":"3.1",
+        "TRB":"1.2",
+        "AST":"0.6",
+        "FG%":"37.8",
+        "FG3%":"32.6",
+        "FT%":"75.0",
+        "eFG%":"46.1",
+        "PER":"7.3",
+        "WS":"0.5",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/towemo01.html",
+        "Nome":"Monte Towe",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"September 27 , 1953",
+        "Draft Team":"Atlanta Hawks",
+        "Draft Year":"1975",
+        "Debut":"1976",
+        "Experience":"2",
+        "Altezza":"170cm",
+        "Peso":"68kg",
+        "G":"115",
+        "PTS":"2.8",
+        "TRB":"0.8",
+        "AST":"1.9",
+        "FG%":"40.4",
+        "FG3%":"21.4",
+        "FT%":"78.3",
+        "eFG%":"41.8",
+        "PER":"9.6",
+        "WS":"0.2",
+        "College":[
+            "NC State"
+        ],
+        "High School":"Oak Hill"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/towerke01.html",
+        "Nome":"Keith Tower",
+        "Position":[
+            "Center"
+        ],
+        "Born":"May 15 , 1970",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1993",
+        "Experience":"4",
+        "Altezza":"211cm",
+        "Peso":"113kg",
+        "G":"53",
+        "PTS":"1.8",
+        "TRB":"1.3",
+        "AST":"0.1",
+        "FG%":"42.9",
+        "FG3%":"0.0",
+        "FT%":"55.6",
+        "eFG%":"42.9",
+        "PER":"5.9",
+        "WS":"0.0",
+        "College":[
+            "Notre Dame"
+        ],
+        "High School":"Moon"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/towerbl01.html",
+        "Nome":"Blackie Towery",
+        "Position":[
+            "Forward\/Center"
+        ],
+        "Born":"June 20 , 1920",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1948",
+        "Experience":"2",
+        "Altezza":"193cm",
+        "Peso":"95kg",
+        "G":"128",
+        "PTS":"9.4",
+        "TRB":"-",
+        "AST":"2.4",
+        "FG%":"29.3",
+        "FG3%":null,
+        "FT%":"74.8",
+        "eFG%":null,
+        "PER":"-",
+        "WS":"4.2",
+        "College":[
+            "Western Kentucky"
+        ],
+        "High School":"Shady Grove"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/towneli01.html",
+        "Nome":"Linton Townes",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"November 30 , 1959",
+        "Draft Team":"Portland Trail Blazers",
+        "Draft Year":"1982",
+        "Debut":"1982",
+        "Experience":"3",
+        "Altezza":"201cm",
+        "Peso":"86kg",
+        "G":"60",
+        "PTS":"4.3",
+        "TRB":"1.1",
+        "AST":"0.5",
+        "FG%":"44.0",
+        "FG3%":"36.0",
+        "FT%":"75.0",
+        "eFG%":"45.8",
+        "PER":"11.5",
+        "WS":"0.6",
+        "College":[
+            "James Madison University"
+        ],
+        "High School":"Covington"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/townska01.html",
+        "Nome":"Karl-Anthony Towns",
+        "Position":[
+            "Center",
+            "Power Forward"
+        ],
+        "Born":"November 15 , 1995",
+        "Draft Team":"Minnesota Timberwolves",
+        "Draft Year":"2015",
+        "Debut":"2015",
+        "Experience":"10",
+        "Altezza":"213cm",
+        "Peso":"112kg",
+        "G":"720",
+        "PTS":"22.8",
+        "TRB":"11.1",
+        "AST":"3.1",
+        "FG%":"52.2",
+        "FG3%":"39.7",
+        "FT%":"84.0",
+        "eFG%":"57.5",
+        "PER":"23.6",
+        "WS":"94.6",
+        "College":[
+            "Kentucky"
+        ],
+        "High School":"St. Joseph"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/townsra01.html",
+        "Nome":"Raymond Townsend",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"December 20 , 1955",
+        "Draft Team":"Golden State Warriors",
+        "Draft Year":"1978",
+        "Debut":"1978",
+        "Experience":"3",
+        "Altezza":"190cm",
+        "Peso":"79kg",
+        "G":"154",
+        "PTS":"4.8",
+        "TRB":"1.0",
+        "AST":"1.4",
+        "FG%":"41.1",
+        "FG3%":"17.1",
+        "FT%":"70.3",
+        "eFG%":"41.5",
+        "PER":"9.8",
+        "WS":"1.0",
+        "College":[
+            "UCLA"
+        ],
+        "High School":"Camden"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/a\/armeltr01.html",
+        "Nome":"Armel Traoré",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"January 23 , 2003",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2024",
+        "Experience":"1",
+        "Altezza":"206cm",
+        "Peso":"111kg",
+        "G":"9",
+        "PTS":"1.6",
+        "TRB":"1.7",
+        "AST":"0.1",
+        "FG%":"31.6",
+        "FG3%":"0.0",
+        "FT%":"28.6",
+        "eFG%":"31.6",
+        "PER":"3.5",
+        "WS":"-0.1",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/traorno01.html",
+        "Nome":"Nolan Traoré",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"May 28 , 2006",
+        "Draft Team":"Brooklyn Nets",
+        "Draft Year":"2025",
+        "Debut":"2025",
+        "Experience":"0",
+        "Altezza":"190cm",
+        "Peso":"83kg",
+        "G":"56",
+        "PTS":"8.9",
+        "TRB":"1.8",
+        "AST":"3.8",
+        "FG%":"38.0",
+        "FG3%":"31.8",
+        "FT%":"78.7",
+        "eFG%":"44.4",
+        "PER":"7.9",
+        "WS":"-1.6",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/trappge01.html",
+        "Nome":"George Trapp",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"July 11 , 1948",
+        "Draft Team":"Atlanta Hawks",
+        "Draft Year":"1971",
+        "Debut":"1971",
+        "Experience":"6",
+        "Altezza":"203cm",
+        "Peso":"92kg",
+        "G":"379",
+        "PTS":"8.8",
+        "TRB":"3.9",
+        "AST":"1.0",
+        "FG%":"44.4",
+        "FG3%":null,
+        "FT%":"75.2",
+        "eFG%":null,
+        "PER":"13.3",
+        "WS":"8.4",
+        "College":[
+            "Cal State Long Beach"
+        ],
+        "High School":"Highland Park"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/trappjo01.html",
+        "Nome":"John Trapp",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"October 2 , 1945",
+        "Draft Team":"San Diego Rockets",
+        "Draft Year":"1968",
+        "Debut":"1968",
+        "Experience":"5",
+        "Altezza":"201cm",
+        "Peso":"95kg",
+        "G":"303",
+        "PTS":"7.2",
+        "TRB":"4.4",
+        "AST":"1.0",
+        "FG%":"42.0",
+        "FG3%":"0.0",
+        "FT%":"71.7",
+        "eFG%":"42.0",
+        "PER":"10.9",
+        "WS":"6.4",
+        "College":[
+            "Voorhees College",
+            "Pasadena City College",
+            "UNLV"
+        ],
+        "High School":"Highland Park"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/travelu01.html",
+        "Nome":"Luke Travers",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"September 3 , 2001",
+        "Draft Team":"Cleveland Cavaliers",
+        "Draft Year":"2022",
+        "Debut":"2024",
+        "Experience":"1",
+        "Altezza":"198cm",
+        "Peso":"93kg",
+        "G":"24",
+        "PTS":"1.7",
+        "TRB":"1.8",
+        "AST":"0.7",
+        "FG%":"25.0",
+        "FG3%":"4.0",
+        "FT%":"100.0",
+        "eFG%":"25.9",
+        "PER":"6.4",
+        "WS":"-0.1",
+        "College":null,
+        "High School":"Willetton Senior High School"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/traylro01.html",
+        "Nome":"Robert Traylor",
+        "Position":[
+            "Center",
+            "Power Forward"
+        ],
+        "Born":"February 1 , 1977",
+        "Draft Team":"Dallas Mavericks",
+        "Draft Year":"1998",
+        "Debut":"1999",
+        "Experience":"7",
+        "Altezza":"203cm",
+        "Peso":"128kg",
+        "G":"438",
+        "PTS":"4.8",
+        "TRB":"3.7",
+        "AST":"0.7",
+        "FG%":"47.4",
+        "FG3%":"16.7",
+        "FT%":"57.7",
+        "eFG%":"47.5",
+        "PER":"14.5",
+        "WS":"13.3",
+        "College":[
+            "Michigan"
+        ],
+        "High School":"Murray-Wright"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/trentga01.html",
+        "Nome":"Gary Trent",
+        "Position":[
+            "Power Forward",
+            "Small Forward",
+            "Center"
+        ],
+        "Born":"September 22 , 1974",
+        "Draft Team":"Milwaukee Bucks",
+        "Draft Year":"1995",
+        "Debut":"1995",
+        "Experience":"9",
+        "Altezza":"203cm",
+        "Peso":"113kg",
+        "G":"506",
+        "PTS":"8.6",
+        "TRB":"4.5",
+        "AST":"1.0",
+        "FG%":"50.1",
+        "FG3%":"8.0",
+        "FT%":"64.3",
+        "eFG%":"50.1",
+        "PER":"15.9",
+        "WS":"23.2",
+        "College":[
+            "Ohio University"
+        ],
+        "High School":"Hamilton Township"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/trentga02.html",
+        "Nome":"Gary Trent Jr.",
+        "Position":[
+            "Shooting Guard",
+            "Small Forward"
+        ],
+        "Born":"January 18 , 1999",
+        "Draft Team":"Sacramento Kings",
+        "Draft Year":"2018",
+        "Debut":"2018",
+        "Experience":"7",
+        "Altezza":"196cm",
+        "Peso":"92kg",
+        "G":"480",
+        "PTS":"13.0",
+        "TRB":"2.2",
+        "AST":"1.4",
+        "FG%":"42.0",
+        "FG3%":"38.7",
+        "FT%":"81.9",
+        "eFG%":"52.8",
+        "PER":"12.6",
+        "WS":"19.0",
+        "College":[
+            "Duke"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/trepaje01.html",
+        "Nome":"Jeff Trepagnier",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"July 11 , 1979",
+        "Draft Team":"Cleveland Cavaliers",
+        "Draft Year":"2001",
+        "Debut":"2001",
+        "Experience":"3",
+        "Altezza":"193cm",
+        "Peso":"90kg",
+        "G":"31",
+        "PTS":"2.8",
+        "TRB":"1.4",
+        "AST":"0.7",
+        "FG%":"33.7",
+        "FG3%":"46.2",
+        "FT%":"70.0",
+        "eFG%":"36.6",
+        "PER":"9.5",
+        "WS":"-0.2",
+        "College":[
+            "USC"
+        ],
+        "High School":"Compton"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tresvjo01.html",
+        "Nome":"John Tresvant",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"November 6 , 1939",
+        "Draft Team":"St. Louis Hawks",
+        "Draft Year":"1964",
+        "Debut":"1964",
+        "Experience":"9",
+        "Altezza":"201cm",
+        "Peso":"97kg",
+        "G":"559",
+        "PTS":"9.2",
+        "TRB":"6.3",
+        "AST":"1.4",
+        "FG%":"45.1",
+        "FG3%":null,
+        "FT%":"69.3",
+        "eFG%":null,
+        "PER":"13.5",
+        "WS":"24.4",
+        "College":[
+            "Seattle University"
+        ],
+        "High School":"Spingarn"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/trieral01.html",
+        "Nome":"Allonzo Trier",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"January 17 , 1996",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2018",
+        "Experience":"2",
+        "Altezza":"193cm",
+        "Peso":"90kg",
+        "G":"88",
+        "PTS":"9.7",
+        "TRB":"2.6",
+        "AST":"1.7",
+        "FG%":"45.4",
+        "FG3%":"38.4",
+        "FT%":"80.1",
+        "eFG%":"51.0",
+        "PER":"12.5",
+        "WS":"1.4",
+        "College":[
+            "Arizona"
+        ],
+        "High School":"Findlay Prep"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/triptdi01.html",
+        "Nome":"Dick Triptow",
+        "Position":[
+            "Guard\/Forward"
+        ],
+        "Born":"November 3 , 1922",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1948",
+        "Experience":"2",
+        "Altezza":"183cm",
+        "Peso":"77kg",
+        "G":"59",
+        "PTS":"5.7",
+        "TRB":"-",
+        "AST":"1.6",
+        "FG%":"27.5",
+        "FG3%":null,
+        "FT%":"72.7",
+        "eFG%":null,
+        "PER":"-",
+        "WS":"1.4",
+        "College":[
+            "DePaul"
+        ],
+        "High School":"Lane Technical"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tripuke01.html",
+        "Nome":"Kelly Tripucka",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"February 16 , 1959",
+        "Draft Team":"Detroit Pistons",
+        "Draft Year":"1981",
+        "Debut":"1981",
+        "Experience":"10",
+        "Altezza":"198cm",
+        "Peso":"99kg",
+        "G":"707",
+        "PTS":"17.2",
+        "TRB":"3.8",
+        "AST":"3.0",
+        "FG%":"47.3",
+        "FG3%":"36.1",
+        "FT%":"84.9",
+        "eFG%":"48.2",
+        "PER":"16.2",
+        "WS":"44.4",
+        "College":[
+            "Notre Dame"
+        ],
+        "High School":"Bloomfield"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/truitan01.html",
+        "Nome":"Ansley Truitt",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"August 24 , 1950",
+        "Draft Team":"New York Knicks",
+        "Draft Year":"1972",
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":"206cm",
+        "Peso":"97kg",
+        "G":"16",
+        "PTS":"2.4",
+        "TRB":"2.4",
+        "AST":"0.1",
+        "FG%":"42.9",
+        "FG3%":"-",
+        "FT%":"33.3",
+        "eFG%":"42.9",
+        "PER":"12.6",
+        "WS":"-0.1",
+        "College":[
+            "California"
+        ],
+        "High School":"Wilson"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/trybace01.html",
+        "Nome":"Cezary Trybański",
+        "Position":[
+            "Center"
+        ],
+        "Born":"September 22 , 1979",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2002",
+        "Experience":"2",
+        "Altezza":"218cm",
+        "Peso":"108kg",
+        "G":"22",
+        "PTS":"0.7",
+        "TRB":"0.7",
+        "AST":"0.0",
+        "FG%":"20.8",
+        "FG3%":"-",
+        "FT%":"41.7",
+        "eFG%":"20.8",
+        "PER":"-3.0",
+        "WS":"-0.5",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tsakaja01.html",
+        "Nome":"Jake Tsakalidis",
+        "Position":[
+            "Center"
+        ],
+        "Born":"June 10 , 1979",
+        "Draft Team":"Phoenix Suns",
+        "Draft Year":"2000",
+        "Debut":"2000",
+        "Experience":"7",
+        "Altezza":"218cm",
+        "Peso":"129kg",
+        "G":"315",
+        "PTS":"4.8",
+        "TRB":"3.9",
+        "AST":"0.3",
+        "FG%":"49.0",
+        "FG3%":"0.0",
+        "FT%":"65.7",
+        "eFG%":"49.0",
+        "PER":"11.8",
+        "WS":"9.9",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tschojo01.html",
+        "Nome":"John Tschogl",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"April 25 , 1950",
+        "Draft Team":"Golden State Warriors",
+        "Draft Year":"1972",
+        "Debut":"1973",
+        "Experience":"3",
+        "Altezza":"198cm",
+        "Peso":"93kg",
+        "G":"113",
+        "PTS":"2.5",
+        "TRB":"1.8",
+        "AST":"0.6",
+        "FG%":"35.6",
+        "FG3%":null,
+        "FT%":"58.1",
+        "eFG%":null,
+        "PER":"7.3",
+        "WS":"-0.3",
+        "College":[
+            "UC Santa Barbara"
+        ],
+        "High School":"Hilltop"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tshieos01.html",
+        "Nome":"Oscar Tshiebwe",
+        "Position":[
+            "Center",
+            "Power Forward"
+        ],
+        "Born":"November 27 , 1999",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2023",
+        "Experience":"2",
+        "Altezza":"203cm",
+        "Peso":"115kg",
+        "G":"49",
+        "PTS":"7.0",
+        "TRB":"6.5",
+        "AST":"0.9",
+        "FG%":"61.3",
+        "FG3%":"-",
+        "FT%":"63.6",
+        "eFG%":"61.3",
+        "PER":"20.7",
+        "WS":"2.5",
+        "College":[
+            "West Virginia",
+            "Kentucky"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tsiorlo01.html",
+        "Nome":"Lou Tsioropoulos",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"August 31 , 1930",
+        "Draft Team":"Boston Celtics",
+        "Draft Year":"1953",
+        "Debut":"1956",
+        "Experience":"3",
+        "Altezza":"196cm",
+        "Peso":"86kg",
+        "G":"157",
+        "PTS":"5.8",
+        "TRB":"4.8",
+        "AST":"1.1",
+        "FG%":"31.5",
+        "FG3%":null,
+        "FT%":"71.7",
+        "eFG%":null,
+        "PER":"7.8",
+        "WS":"2.1",
+        "College":[
+            "Kentucky"
+        ],
+        "High School":"English"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tskitni01.html",
+        "Nome":"Nikoloz Tskitishvili",
+        "Position":[
+            "Power Forward",
+            "Small Forward"
+        ],
+        "Born":"April 14 , 1983",
+        "Draft Team":"Denver Nuggets",
+        "Draft Year":"2002",
+        "Debut":"2002",
+        "Experience":"4",
+        "Altezza":"213cm",
+        "Peso":"102kg",
+        "G":"172",
+        "PTS":"2.9",
+        "TRB":"1.8",
+        "AST":"0.7",
+        "FG%":"30.4",
+        "FG3%":"23.5",
+        "FT%":"73.0",
+        "eFG%":"33.8",
+        "PER":"5.2",
+        "WS":"-1.6",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tuckeal01.html",
+        "Nome":"Al Tucker",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"February 24 , 1943",
+        "Draft Team":"Seattle SuperSonics",
+        "Draft Year":"1967",
+        "Debut":"1967",
+        "Experience":"5",
+        "Altezza":"203cm",
+        "Peso":"86kg",
+        "G":"352",
+        "PTS":"10.1",
+        "TRB":"4.9",
+        "AST":"1.0",
+        "FG%":"45.6",
+        "FG3%":"37.1",
+        "FT%":"72.7",
+        "eFG%":"46.1",
+        "PER":"13.1",
+        "WS":"11.1",
+        "College":[
+            "Oklahoma Baptist University"
+        ],
+        "High School":"Jefferson Township"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tuckeal02.html",
+        "Nome":"Alando Tucker",
+        "Position":[
+            "Small Forward",
+            "Shooting Guard"
+        ],
+        "Born":"February 11 , 1984",
+        "Draft Team":"Phoenix Suns",
+        "Draft Year":"2007",
+        "Debut":"2007",
+        "Experience":"3",
+        "Altezza":"198cm",
+        "Peso":"92kg",
+        "G":"51",
+        "PTS":"4.1",
+        "TRB":"1.0",
+        "AST":"0.3",
+        "FG%":"42.3",
+        "FG3%":"29.4",
+        "FT%":"78.3",
+        "eFG%":"45.1",
+        "PER":"13.0",
+        "WS":"0.4",
+        "College":[
+            "Wisconsin"
+        ],
+        "High School":"Township"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tuckean01.html",
+        "Nome":"Anthony Tucker",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"April 4 , 1969",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1994",
+        "Experience":"1",
+        "Altezza":"203cm",
+        "Peso":"99kg",
+        "G":"62",
+        "PTS":"3.9",
+        "TRB":"2.7",
+        "AST":"1.1",
+        "FG%":"45.7",
+        "FG3%":"0.0",
+        "FT%":"61.4",
+        "eFG%":"45.7",
+        "PER":"9.2",
+        "WS":"0.6",
+        "College":[
+            "Georgetown",
+            "Wake Forest"
+        ],
+        "High School":"McKinley"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tuckeji01.html",
+        "Nome":"Jim Tucker",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"December 11 , 1932",
+        "Draft Team":"Syracuse Nationals",
+        "Draft Year":"1954",
+        "Debut":"1955",
+        "Experience":"3",
+        "Altezza":"201cm",
+        "Peso":"83kg",
+        "G":"99",
+        "PTS":"4.1",
+        "TRB":"3.5",
+        "AST":"0.5",
+        "FG%":"34.9",
+        "FG3%":null,
+        "FT%":"76.2",
+        "eFG%":null,
+        "PER":"8.5",
+        "WS":"1.3",
+        "College":[
+            "Duquesne"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tuckepj01.html",
+        "Nome":"P.J. Tucker",
+        "Position":[
+            "Small Forward",
+            "Power Forward",
+            "Shooting Guard"
+        ],
+        "Born":"May 5 , 1985",
+        "Draft Team":"Toronto Raptors",
+        "Draft Year":"2006",
+        "Debut":"2006",
+        "Experience":"14",
+        "Altezza":"196cm",
+        "Peso":"111kg",
+        "G":"886",
+        "PTS":"6.6",
+        "TRB":"5.4",
+        "AST":"1.4",
+        "FG%":"42.5",
+        "FG3%":"36.6",
+        "FT%":"75.0",
+        "eFG%":"51.2",
+        "PER":"9.9",
+        "WS":"43.3",
+        "College":[
+            "Texas"
+        ],
+        "High School":"Enloe"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tuckera01.html",
+        "Nome":"Rayjon Tucker",
+        "Position":[
+            "Shooting Guard",
+            "Point Guard"
+        ],
+        "Born":"September 24 , 1997",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2019",
+        "Experience":"3",
+        "Altezza":"190cm",
+        "Peso":"94kg",
+        "G":"39",
+        "PTS":"3.0",
+        "TRB":"1.0",
+        "AST":"0.5",
+        "FG%":"50.0",
+        "FG3%":"31.0",
+        "FT%":"77.6",
+        "eFG%":"56.4",
+        "PER":"12.8",
+        "WS":"0.8",
+        "College":[
+            "Florida Gulf Coast",
+            "Little Rock"
+        ],
+        "High School":"Northside Christian Academy"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tucketr01.html",
+        "Nome":"Trent Tucker",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"December 20 , 1959",
+        "Draft Team":"New York Knicks",
+        "Draft Year":"1982",
+        "Debut":"1982",
+        "Experience":"11",
+        "Altezza":"196cm",
+        "Peso":"87kg",
+        "G":"756",
+        "PTS":"8.2",
+        "TRB":"2.0",
+        "AST":"2.0",
+        "FG%":"46.1",
+        "FG3%":"40.8",
+        "FT%":"75.4",
+        "eFG%":"51.2",
+        "PER":"12.9",
+        "WS":"34.3",
+        "College":[
+            "Minnesota"
+        ],
+        "High School":"Flint Northwestern"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/turiaro01.html",
+        "Nome":"Ronny Turiaf",
+        "Position":[
+            "Center"
+        ],
+        "Born":"January 13 , 1983",
+        "Draft Team":"Los Angeles Lakers",
+        "Draft Year":"2005",
+        "Debut":"2006",
+        "Experience":"10",
+        "Altezza":"208cm",
+        "Peso":"112kg",
+        "G":"473",
+        "PTS":"4.7",
+        "TRB":"3.7",
+        "AST":"1.3",
+        "FG%":"53.3",
+        "FG3%":"0.0",
+        "FT%":"63.6",
+        "eFG%":"53.3",
+        "PER":"13.8",
+        "WS":"19.2",
+        "College":[
+            "Gonzaga"
+        ],
+        "High School":"INSEP"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/turkcmi01.html",
+        "Nome":"Mirsad Türkcan",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"June 7 , 1976",
+        "Draft Team":"Houston Rockets",
+        "Draft Year":"1998",
+        "Debut":"1999",
+        "Experience":"1",
+        "Altezza":"206cm",
+        "Peso":"107kg",
+        "G":"17",
+        "PTS":"1.9",
+        "TRB":"1.9",
+        "AST":"0.3",
+        "FG%":"36.8",
+        "FG3%":"0.0",
+        "FT%":"62.5",
+        "eFG%":"36.8",
+        "PER":"11.1",
+        "WS":"0.0",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/turkohe01.html",
+        "Nome":"Hedo Türkoğlu",
+        "Position":[
+            "Small Forward",
+            "Power Forward"
+        ],
+        "Born":"March 19 , 1979",
+        "Draft Team":"Sacramento Kings",
+        "Draft Year":"2000",
+        "Debut":"2000",
+        "Experience":"15",
+        "Altezza":"208cm",
+        "Peso":"99kg",
+        "G":"997",
+        "PTS":"11.1",
+        "TRB":"4.0",
+        "AST":"2.8",
+        "FG%":"42.6",
+        "FG3%":"38.4",
+        "FT%":"78.4",
+        "eFG%":"49.5",
+        "PER":"14.3",
+        "WS":"63.3",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/turnean01.html",
+        "Nome":"Andre Turner",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"December 13 , 1964",
+        "Draft Team":"Los Angeles Lakers",
+        "Draft Year":"1986",
+        "Debut":"1986",
+        "Experience":"6",
+        "Altezza":"180cm",
+        "Peso":"72kg",
+        "G":"170",
+        "PTS":"4.5",
+        "TRB":"1.5",
+        "AST":"3.1",
+        "FG%":"42.2",
+        "FG3%":"23.7",
+        "FT%":"76.4",
+        "eFG%":"43.2",
+        "PER":"12.0",
+        "WS":"1.8",
+        "College":[
+            "Memphis"
+        ],
+        "High School":"Mitchell"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/turnebi01.html",
+        "Nome":"Bill Turner",
+        "Position":[
+            "Power Forward",
+            "Small Forward"
+        ],
+        "Born":"February 18 , 1944",
+        "Draft Team":"New York Knicks",
+        "Draft Year":"1967",
+        "Debut":"1967",
+        "Experience":"6",
+        "Altezza":"201cm",
+        "Peso":"99kg",
+        "G":"294",
+        "PTS":"5.4",
+        "TRB":"3.5",
+        "AST":"0.6",
+        "FG%":"40.7",
+        "FG3%":null,
+        "FT%":"72.8",
+        "eFG%":null,
+        "PER":"10.7",
+        "WS":"4.8",
+        "College":[
+            "University of Akron"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/turneel01.html",
+        "Nome":"Elston Turner",
+        "Position":[
+            "Small Forward",
+            "Shooting Guard"
+        ],
+        "Born":"June 10 , 1959",
+        "Draft Team":"Dallas Mavericks",
+        "Draft Year":"1981",
+        "Debut":"1981",
+        "Experience":"8",
+        "Altezza":"196cm",
+        "Peso":"86kg",
+        "G":"505",
+        "PTS":"4.7",
+        "TRB":"2.7",
+        "AST":"1.8",
+        "FG%":"43.2",
+        "FG3%":"15.2",
+        "FT%":"71.4",
+        "eFG%":"43.3",
+        "PER":"9.6",
+        "WS":"8.5",
+        "College":[
+            "Ole Miss"
+        ],
+        "High School":"Austin-East"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/turneev01.html",
+        "Nome":"Evan Turner",
+        "Position":[
+            "Small Forward",
+            "Shooting Guard",
+            "Point Guard"
+        ],
+        "Born":"October 27 , 1988",
+        "Draft Team":"Philadelphia 76ers",
+        "Draft Year":"2010",
+        "Debut":"2010",
+        "Experience":"10",
+        "Altezza":"198cm",
+        "Peso":"99kg",
+        "G":"705",
+        "PTS":"9.7",
+        "TRB":"4.6",
+        "AST":"3.5",
+        "FG%":"43.4",
+        "FG3%":"29.4",
+        "FT%":"78.2",
+        "eFG%":"45.5",
+        "PER":"11.9",
+        "WS":"20.2",
+        "College":[
+            "Ohio State"
+        ],
+        "High School":"St. Joseph"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/turnega01.html",
+        "Nome":"Gary Turner",
+        "Position":[
+            "Forward"
+        ],
+        "Born":"November 23 , 1942",
+        "Draft Team":"Boston Celtics",
+        "Draft Year":"1966",
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":"201cm",
+        "Peso":"90kg",
+        "G":"2",
+        "PTS":"3.0",
+        "TRB":"1.5",
+        "AST":"0.0",
+        "FG%":"100.0",
+        "FG3%":"-",
+        "FT%":"66.7",
+        "eFG%":"100.0",
+        "PER":"10.1",
+        "WS":"0.1",
+        "College":[
+            "Paris Junior College",
+            "TCU"
+        ],
+        "High School":"Trimble Technical"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/turnehe02.html",
+        "Nome":"Henry Turner",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"August 18 , 1966",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1989",
+        "Experience":"2",
+        "Altezza":"201cm",
+        "Peso":"90kg",
+        "G":"66",
+        "PTS":"3.4",
+        "TRB":"1.2",
+        "AST":"0.4",
+        "FG%":"45.3",
+        "FG3%":"25.0",
+        "FT%":"60.0",
+        "eFG%":"45.8",
+        "PER":"13.7",
+        "WS":"0.4",
+        "College":[
+            "Cal State Fullerton"
+        ],
+        "High School":"Fremont"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/turnehe01.html",
+        "Nome":"Herschell Turner",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"March 29 , 1938",
+        "Draft Team":"Syracuse Nationals",
+        "Draft Year":"1960",
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":"188cm",
+        "Peso":"88kg",
+        "G":"41",
+        "PTS":"3.2",
+        "TRB":"1.8",
+        "AST":"1.1",
+        "FG%":"32.1",
+        "FG3%":"23.1",
+        "FT%":"48.9",
+        "eFG%":"34.0",
+        "PER":"2.2",
+        "WS":"-0.6",
+        "College":[
+            "Nebraska"
+        ],
+        "High School":"Shortridge"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/turneja01.html",
+        "Nome":"Jack Turner",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"June 29 , 1930",
+        "Draft Team":"New York Knicks",
+        "Draft Year":"1954",
+        "Debut":"1954",
+        "Experience":"1",
+        "Altezza":"193cm",
+        "Peso":"77kg",
+        "G":"65",
+        "PTS":"4.3",
+        "TRB":"2.4",
+        "AST":"1.2",
+        "FG%":"36.0",
+        "FG3%":null,
+        "FT%":"78.9",
+        "eFG%":null,
+        "PER":"10.8",
+        "WS":"0.6",
+        "College":[
+            "Western Kentucky"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/turneja02.html",
+        "Nome":"Jack Turner",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"June 5 , 1939",
+        "Draft Team":"Chicago Packers",
+        "Draft Year":"1961",
+        "Debut":"1961",
+        "Experience":"1",
+        "Altezza":"196cm",
+        "Peso":"90kg",
+        "G":"42",
+        "PTS":"4.8",
+        "TRB":"2.0",
+        "AST":"1.0",
+        "FG%":"38.0",
+        "FG3%":null,
+        "FT%":"76.2",
+        "eFG%":null,
+        "PER":"8.8",
+        "WS":"0.0",
+        "College":[
+            "Louisville"
+        ],
+        "High School":"Newport"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/turneje01.html",
+        "Nome":"Jeff Turner",
+        "Position":[
+            "Power Forward",
+            "Small Forward"
+        ],
+        "Born":"April 9 , 1962",
+        "Draft Team":"New Jersey Nets",
+        "Draft Year":"1984",
+        "Debut":"1984",
+        "Experience":"10",
+        "Altezza":"206cm",
+        "Peso":"104kg",
+        "G":"612",
+        "PTS":"6.0",
+        "TRB":"3.3",
+        "AST":"1.0",
+        "FG%":"46.7",
+        "FG3%":"34.4",
+        "FT%":"76.9",
+        "eFG%":"47.8",
+        "PER":"8.4",
+        "WS":"8.9",
+        "College":[
+            "Vanderbilt"
+        ],
+        "High School":"Brandon"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/turnejo01.html",
+        "Nome":"John Turner",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"November 30 , 1967",
+        "Draft Team":"Houston Rockets",
+        "Draft Year":"1991",
+        "Debut":"1991",
+        "Experience":"1",
+        "Altezza":"203cm",
+        "Peso":"111kg",
+        "G":"42",
+        "PTS":"2.8",
+        "TRB":"1.9",
+        "AST":"0.3",
+        "FG%":"43.9",
+        "FG3%":"-",
+        "FT%":"52.5",
+        "eFG%":"43.9",
+        "PER":"7.8",
+        "WS":"-0.1",
+        "College":[
+            "Georgetown",
+            "Phillips University"
+        ],
+        "High School":"Eleanor Roosevelt"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/turnemy01.html",
+        "Nome":"Myles Turner",
+        "Position":[
+            "Center"
+        ],
+        "Born":"March 24 , 1996",
+        "Draft Team":"Indiana Pacers",
+        "Draft Year":"2015",
+        "Debut":"2015",
+        "Experience":"10",
+        "Altezza":"211cm",
+        "Peso":"113kg",
+        "G":"713",
+        "PTS":"13.9",
+        "TRB":"6.6",
+        "AST":"1.3",
+        "FG%":"49.4",
+        "FG3%":"36.5",
+        "FT%":"76.9",
+        "eFG%":"55.6",
+        "PER":"17.0",
+        "WS":"51.7",
+        "College":[
+            "Texas"
+        ],
+        "High School":"Trinity"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/turnewa01.html",
+        "Nome":"Wayne Turner",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"March 22 , 1976",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1999",
+        "Experience":"1",
+        "Altezza":"188cm",
+        "Peso":"86kg",
+        "G":"3",
+        "PTS":"1.3",
+        "TRB":"1.0",
+        "AST":"1.7",
+        "FG%":"16.7",
+        "FG3%":"-",
+        "FT%":"33.3",
+        "eFG%":"16.7",
+        "PER":"-1.7",
+        "WS":"-0.1",
+        "College":[
+            "Kentucky"
+        ],
+        "High School":"Beaver Country Day"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/turpime01.html",
+        "Nome":"Melvin Turpin",
+        "Position":[
+            "Center"
+        ],
+        "Born":"December 28 , 1960",
+        "Draft Team":"Washington Bullets",
+        "Draft Year":"1984",
+        "Debut":"1984",
+        "Experience":"5",
+        "Altezza":"211cm",
+        "Peso":"108kg",
+        "G":"361",
+        "PTS":"8.5",
+        "TRB":"4.6",
+        "AST":"0.5",
+        "FG%":"51.6",
+        "FG3%":"11.1",
+        "FT%":"77.7",
+        "eFG%":"51.6",
+        "PER":"14.3",
+        "WS":"13.7",
+        "College":[
+            "Kentucky"
+        ],
+        "High School":"Bryan Station"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/twardda01.html",
+        "Nome":"Dave Twardzik",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"September 20 , 1950",
+        "Draft Team":"Portland Trail Blazers",
+        "Draft Year":"1972",
+        "Debut":"1976",
+        "Experience":"8",
+        "Altezza":"185cm",
+        "Peso":"79kg",
+        "G":"536",
+        "PTS":"9.3",
+        "TRB":"2.4",
+        "AST":"3.4",
+        "FG%":"52.7",
+        "FG3%":"24.5",
+        "FT%":"82.1",
+        "eFG%":"52.9",
+        "PER":"13.8",
+        "WS":"33.4",
+        "College":[
+            "Old Dominion"
+        ],
+        "High School":"Middletown"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/twymaja01.html",
+        "Nome":"Jack Twyman",
+        "Position":[
+            "Small Forward",
+            "Shooting Guard"
+        ],
+        "Born":"May 11 , 1934",
+        "Draft Team":"Rochester Royals",
+        "Draft Year":"1955",
+        "Debut":"1955",
+        "Experience":"11",
+        "Altezza":"198cm",
+        "Peso":"95kg",
+        "G":"823",
+        "PTS":"19.2",
+        "TRB":"6.6",
+        "AST":"2.3",
+        "FG%":"45.0",
+        "FG3%":null,
+        "FT%":"77.8",
+        "eFG%":null,
+        "PER":"17.8",
+        "WS":"75.0",
+        "College":[
+            "Cincinnati"
+        ],
+        "High School":"Central Catholic"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tylerbj01.html",
+        "Nome":"B.J. Tyler",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"April 30 , 1971",
+        "Draft Team":"Philadelphia 76ers",
+        "Draft Year":"1994",
+        "Debut":"1994",
+        "Experience":"1",
+        "Altezza":"185cm",
+        "Peso":"83kg",
+        "G":"55",
+        "PTS":"3.5",
+        "TRB":"1.1",
+        "AST":"3.2",
+        "FG%":"38.1",
+        "FG3%":"31.4",
+        "FT%":"70.0",
+        "eFG%":"42.3",
+        "PER":"8.5",
+        "WS":"-0.7",
+        "College":[
+            "DePaul",
+            "Texas"
+        ],
+        "High School":"Lincoln"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tylerje01.html",
+        "Nome":"Jeremy Tyler",
+        "Position":[
+            "Center"
+        ],
+        "Born":"June 21 , 1991",
+        "Draft Team":"Charlotte Bobcats",
+        "Draft Year":"2011",
+        "Debut":"2011",
+        "Experience":"3",
+        "Altezza":"208cm",
+        "Peso":"117kg",
+        "G":"104",
+        "PTS":"3.6",
+        "TRB":"2.6",
+        "AST":"0.2",
+        "FG%":"45.0",
+        "FG3%":"0.0",
+        "FT%":"55.7",
+        "eFG%":"45.0",
+        "PER":"11.1",
+        "WS":"0.3",
+        "College":null,
+        "High School":"San Diego"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tylerte01.html",
+        "Nome":"Terry Tyler",
+        "Position":[
+            "Small Forward",
+            "Power Forward"
+        ],
+        "Born":"October 30 , 1956",
+        "Draft Team":"Detroit Pistons",
+        "Draft Year":"1978",
+        "Debut":"1978",
+        "Experience":"11",
+        "Altezza":"201cm",
+        "Peso":"97kg",
+        "G":"871",
+        "PTS":"10.2",
+        "TRB":"5.4",
+        "AST":"1.2",
+        "FG%":"48.4",
+        "FG3%":"12.2",
+        "FT%":"70.3",
+        "eFG%":"48.5",
+        "PER":"14.6",
+        "WS":"40.8",
+        "College":[
+            "Detroit Mercy"
+        ],
+        "High School":"Northwestern"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tyrach01.html",
+        "Nome":"Charlie Tyra",
+        "Position":[
+            "Center",
+            "Power Forward"
+        ],
+        "Born":"August 16 , 1935",
+        "Draft Team":"Detroit Pistons",
+        "Draft Year":"1957",
+        "Debut":"1957",
+        "Experience":"5",
+        "Altezza":"203cm",
+        "Peso":"104kg",
+        "G":"348",
+        "PTS":"8.9",
+        "TRB":"7.4",
+        "AST":"0.9",
+        "FG%":"38.7",
+        "FG3%":null,
+        "FT%":"67.2",
+        "eFG%":null,
+        "PER":"11.9",
+        "WS":"5.0",
+        "College":[
+            "Louisville"
+        ],
+        "High School":"Atherton"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tysonhu01.html",
+        "Nome":"Hunter Tyson",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"June 13 , 2000",
+        "Draft Team":"Oklahoma City Thunder",
+        "Draft Year":"2023",
+        "Debut":"2023",
+        "Experience":"2",
+        "Altezza":"203cm",
+        "Peso":"97kg",
+        "G":"90",
+        "PTS":"2.2",
+        "TRB":"1.4",
+        "AST":"0.4",
+        "FG%":"34.9",
+        "FG3%":"28.1",
+        "FT%":"78.0",
+        "eFG%":"43.8",
+        "PER":"8.0",
+        "WS":"0.4",
+        "College":[
+            "Clemson"
+        ],
+        "High School":"Piedmont"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/t\/tysonja01.html",
+        "Nome":"Jaylon Tyson",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"December 2 , 2002",
+        "Draft Team":"Cleveland Cavaliers",
+        "Draft Year":"2024",
+        "Debut":"2024",
+        "Experience":"1",
+        "Altezza":"198cm",
+        "Peso":"97kg",
+        "G":"113",
+        "PTS":"9.2",
+        "TRB":"3.8",
+        "AST":"1.7",
+        "FG%":"48.1",
+        "FG3%":"43.0",
+        "FT%":"74.8",
+        "eFG%":"57.4",
+        "PER":"14.1",
+        "WS":"4.8",
+        "College":[
+            "Texas",
+            "Texas Tech",
+            "California"
+        ],
+        "High School":"John Paul II"
+    }
+]

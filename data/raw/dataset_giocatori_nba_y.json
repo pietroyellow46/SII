@@ -1,0 +1,647 @@
+[
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/yabusgu01.html",
+        "Nome":"Guerschon Yabusele",
+        "Position":[
+            "Center",
+            "Power Forward"
+        ],
+        "Born":"December 17 , 1995",
+        "Draft Team":"Boston Celtics",
+        "Draft Year":"2016",
+        "Debut":"2017",
+        "Experience":"3",
+        "Altezza":"201cm",
+        "Peso":"120kg",
+        "G":"211",
+        "PTS":"6.2",
+        "TRB":"3.5",
+        "AST":"1.1",
+        "FG%":"46.2",
+        "FG3%":"36.3",
+        "FT%":"72.4",
+        "eFG%":"55.8",
+        "PER":"13.3",
+        "WS":"6.4",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/yarbrvi01.html",
+        "Nome":"Vincent Yarbrough",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"March 21 , 1981",
+        "Draft Team":"Denver Nuggets",
+        "Draft Year":"2002",
+        "Debut":"2002",
+        "Experience":"1",
+        "Altezza":"201cm",
+        "Peso":"95kg",
+        "G":"59",
+        "PTS":"6.9",
+        "TRB":"2.7",
+        "AST":"2.2",
+        "FG%":"39.3",
+        "FG3%":"26.9",
+        "FT%":"79.0",
+        "eFG%":"41.7",
+        "PER":"9.5",
+        "WS":"1.0",
+        "College":[
+            "Tennessee"
+        ],
+        "High School":"Cleveland"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/yardlge01.html",
+        "Nome":"George Yardley",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"November 3 , 1928",
+        "Draft Team":"Fort Wayne Pistons",
+        "Draft Year":"1950",
+        "Debut":"1953",
+        "Experience":"7",
+        "Altezza":"196cm",
+        "Peso":"86kg",
+        "G":"472",
+        "PTS":"19.2",
+        "TRB":"8.9",
+        "AST":"1.7",
+        "FG%":"42.2",
+        "FG3%":null,
+        "FT%":"78.0",
+        "eFG%":null,
+        "PER":"20.6",
+        "WS":"58.5",
+        "College":[
+            "Stanford"
+        ],
+        "High School":"Newport Harbor"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/yatesba01.html",
+        "Nome":"Barry Yates",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"January 30 , 1946",
+        "Draft Team":"Philadelphia 76ers",
+        "Draft Year":"1971",
+        "Debut":"1971",
+        "Experience":"1",
+        "Altezza":"201cm",
+        "Peso":"97kg",
+        "G":"24",
+        "PTS":"2.9",
+        "TRB":"1.7",
+        "AST":"0.3",
+        "FG%":"37.3",
+        "FG3%":null,
+        "FT%":"63.6",
+        "eFG%":null,
+        "PER":"10.7",
+        "WS":"-0.2",
+        "College":[
+            "Maryland"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/yateswa01.html",
+        "Nome":"Wayne Yates",
+        "Position":[
+            "Center"
+        ],
+        "Born":"November 7 , 1937",
+        "Draft Team":"Los Angeles Lakers",
+        "Draft Year":"1961",
+        "Debut":"1961",
+        "Experience":"1",
+        "Altezza":"203cm",
+        "Peso":"106kg",
+        "G":"37",
+        "PTS":"1.9",
+        "TRB":"2.5",
+        "AST":"0.4",
+        "FG%":"29.5",
+        "FG3%":null,
+        "FT%":"45.5",
+        "eFG%":null,
+        "PER":"4.1",
+        "WS":"-0.5",
+        "College":[
+            "Memphis"
+        ],
+        "High School":"North Little Rock"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/yelvech01.html",
+        "Nome":"Charlie Yelverton",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"December 5 , 1948",
+        "Draft Team":"Portland Trail Blazers",
+        "Draft Year":"1971",
+        "Debut":"1971",
+        "Experience":"1",
+        "Altezza":"188cm",
+        "Peso":"86kg",
+        "G":"69",
+        "PTS":"7.9",
+        "TRB":"2.9",
+        "AST":"1.2",
+        "FG%":"38.9",
+        "FG3%":null,
+        "FT%":"70.7",
+        "eFG%":null,
+        "PER":"10.3",
+        "WS":"-0.5",
+        "College":[
+            "Fordham"
+        ],
+        "High School":"Rice"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/yonakri01.html",
+        "Nome":"Rich Yonakor",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"October 3 , 1958",
+        "Draft Team":"San Antonio Spurs",
+        "Draft Year":"1980",
+        "Debut":"1982",
+        "Experience":"1",
+        "Altezza":"206cm",
+        "Peso":"99kg",
+        "G":"10",
+        "PTS":"3.3",
+        "TRB":"2.7",
+        "AST":"0.3",
+        "FG%":"53.8",
+        "FG3%":"-",
+        "FT%":"71.4",
+        "eFG%":"53.8",
+        "PER":"20.4",
+        "WS":"0.3",
+        "College":[
+            "UNC"
+        ],
+        "High School":"Euclid"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/yorkga01.html",
+        "Nome":"Gabe York",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"August 2 , 1993",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2022",
+        "Experience":"2",
+        "Altezza":"190cm",
+        "Peso":"83kg",
+        "G":"5",
+        "PTS":"6.4",
+        "TRB":"1.6",
+        "AST":"1.8",
+        "FG%":"35.7",
+        "FG3%":"29.2",
+        "FT%":"71.4",
+        "eFG%":"48.2",
+        "PER":"12.1",
+        "WS":"0.1",
+        "College":[
+            "Arizona"
+        ],
+        "High School":"Orange Lutheran"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/youngda01.html",
+        "Nome":"Danny Young",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"July 26 , 1962",
+        "Draft Team":"Seattle SuperSonics",
+        "Draft Year":"1984",
+        "Debut":"1984",
+        "Experience":"10",
+        "Altezza":"190cm",
+        "Peso":"79kg",
+        "G":"574",
+        "PTS":"4.6",
+        "TRB":"1.2",
+        "AST":"2.9",
+        "FG%":"43.7",
+        "FG3%":"32.7",
+        "FT%":"83.5",
+        "eFG%":"48.0",
+        "PER":"12.2",
+        "WS":"20.2",
+        "College":[
+            "Wake Forest"
+        ],
+        "High School":"Enloe"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/youngja05.html",
+        "Nome":"Jahmir Young",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"October 7 , 2000",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2025",
+        "Experience":"1",
+        "Altezza":"183cm",
+        "Peso":"83kg",
+        "G":"20",
+        "PTS":"1.8",
+        "TRB":"0.4",
+        "AST":"0.8",
+        "FG%":"46.7",
+        "FG3%":"36.4",
+        "FT%":"100.0",
+        "eFG%":"53.3",
+        "PER":"11.3",
+        "WS":"0.2",
+        "College":[
+            "UNC Charlotte",
+            "Maryland"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/youngja01.html",
+        "Nome":"James Young",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"August 16 , 1995",
+        "Draft Team":"Boston Celtics",
+        "Draft Year":"2014",
+        "Debut":"2014",
+        "Experience":"4",
+        "Altezza":"198cm",
+        "Peso":"97kg",
+        "G":"95",
+        "PTS":"2.3",
+        "TRB":"1.0",
+        "AST":"0.3",
+        "FG%":"36.7",
+        "FG3%":"27.7",
+        "FT%":"56.3",
+        "eFG%":"45.7",
+        "PER":"7.4",
+        "WS":"0.8",
+        "College":[
+            "Kentucky"
+        ],
+        "High School":"Rochester"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/youngjo01.html",
+        "Nome":"Joe Young",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"June 27 , 1992",
+        "Draft Team":"Indiana Pacers",
+        "Draft Year":"2015",
+        "Debut":"2015",
+        "Experience":"3",
+        "Altezza":"188cm",
+        "Peso":"83kg",
+        "G":"127",
+        "PTS":"3.4",
+        "TRB":"1.0",
+        "AST":"0.9",
+        "FG%":"39.3",
+        "FG3%":"29.6",
+        "FT%":"76.8",
+        "eFG%":"44.0",
+        "PER":"10.2",
+        "WS":"0.4",
+        "College":[
+            "Houston",
+            "Oregon"
+        ],
+        "High School":"Yates"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/youngko01.html",
+        "Nome":"Korleone Young",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"December 31 , 1978",
+        "Draft Team":"Detroit Pistons",
+        "Draft Year":"1998",
+        "Debut":"1999",
+        "Experience":"1",
+        "Altezza":"201cm",
+        "Peso":"96kg",
+        "G":"3",
+        "PTS":"4.3",
+        "TRB":"1.3",
+        "AST":"0.3",
+        "FG%":"50.0",
+        "FG3%":"25.0",
+        "FT%":"100.0",
+        "eFG%":"55.0",
+        "PER":"31.3",
+        "WS":"0.1",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/youngmi01.html",
+        "Nome":"Michael Young",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"January 2 , 1961",
+        "Draft Team":"Boston Celtics",
+        "Draft Year":"1984",
+        "Debut":"1984",
+        "Experience":"3",
+        "Altezza":"201cm",
+        "Peso":"99kg",
+        "G":"49",
+        "PTS":"4.6",
+        "TRB":"1.8",
+        "AST":"0.5",
+        "FG%":"46.5",
+        "FG3%":"29.6",
+        "FT%":"71.1",
+        "eFG%":"48.5",
+        "PER":"15.5",
+        "WS":"1.1",
+        "College":[
+            "Houston"
+        ],
+        "High School":"Yates"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/youngni01.html",
+        "Nome":"Nick Young",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"June 1 , 1985",
+        "Draft Team":"Washington Wizards",
+        "Draft Year":"2007",
+        "Debut":"2007",
+        "Experience":"12",
+        "Altezza":"201cm",
+        "Peso":"95kg",
+        "G":"720",
+        "PTS":"11.4",
+        "TRB":"2.0",
+        "AST":"1.0",
+        "FG%":"41.8",
+        "FG3%":"37.6",
+        "FT%":"83.6",
+        "eFG%":"49.3",
+        "PER":"12.9",
+        "WS":"18.6",
+        "College":[
+            "USC"
+        ],
+        "High School":"Cleveland"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/youngpe01.html",
+        "Nome":"Perry Young",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"August 4 , 1963",
+        "Draft Team":"Portland Trail Blazers",
+        "Draft Year":"1985",
+        "Debut":"1987",
+        "Experience":"1",
+        "Altezza":"196cm",
+        "Peso":"95kg",
+        "G":"9",
+        "PTS":"1.4",
+        "TRB":"0.9",
+        "AST":"0.8",
+        "FG%":"28.6",
+        "FG3%":"-",
+        "FT%":"50.0",
+        "eFG%":"28.6",
+        "PER":"3.0",
+        "WS":"-0.1",
+        "College":[
+            "Virginia Tech"
+        ],
+        "High School":"Mount Hebron"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/youngsa01.html",
+        "Nome":"Sam Young",
+        "Position":[
+            "Small Forward",
+            "Shooting Guard"
+        ],
+        "Born":"June 1 , 1985",
+        "Draft Team":"Memphis Grizzlies",
+        "Draft Year":"2009",
+        "Debut":"2009",
+        "Experience":"4",
+        "Altezza":"198cm",
+        "Peso":"99kg",
+        "G":"249",
+        "PTS":"5.8",
+        "TRB":"2.3",
+        "AST":"0.7",
+        "FG%":"44.2",
+        "FG3%":"28.0",
+        "FT%":"74.2",
+        "eFG%":"46.2",
+        "PER":"11.5",
+        "WS":"5.2",
+        "College":[
+            "Pitt"
+        ],
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/youngth01.html",
+        "Nome":"Thaddeus Young",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"June 21 , 1988",
+        "Draft Team":"Philadelphia 76ers",
+        "Draft Year":"2007",
+        "Debut":"2007",
+        "Experience":"17",
+        "Altezza":"203cm",
+        "Peso":"102kg",
+        "G":"1172",
+        "PTS":"12.1",
+        "TRB":"5.6",
+        "AST":"1.8",
+        "FG%":"50.3",
+        "FG3%":"32.8",
+        "FT%":"66.1",
+        "eFG%":"52.5",
+        "PER":"16.4",
+        "WS":"71.9",
+        "College":[
+            "Georgia Tech"
+        ],
+        "High School":"Mitchell"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/youngti01.html",
+        "Nome":"Tim Young",
+        "Position":[
+            "Center"
+        ],
+        "Born":"February 6 , 1976",
+        "Draft Team":"Golden State Warriors",
+        "Draft Year":"1999",
+        "Debut":"1999",
+        "Experience":"1",
+        "Altezza":"218cm",
+        "Peso":"113kg",
+        "G":"25",
+        "PTS":"2.2",
+        "TRB":"1.4",
+        "AST":"0.2",
+        "FG%":"33.3",
+        "FG3%":"-",
+        "FT%":"77.8",
+        "eFG%":"33.3",
+        "PER":"11.7",
+        "WS":"0.2",
+        "College":[
+            "Stanford"
+        ],
+        "High School":"Harbor"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/youngtr01.html",
+        "Nome":"Trae Young",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"September 19 , 1998",
+        "Draft Team":"Dallas Mavericks",
+        "Draft Year":"2018",
+        "Debut":"2018",
+        "Experience":"7",
+        "Altezza":"188cm",
+        "Peso":"74kg",
+        "G":"498",
+        "PTS":"25.1",
+        "TRB":"3.4",
+        "AST":"9.8",
+        "FG%":"43.3",
+        "FG3%":"35.2",
+        "FT%":"87.2",
+        "eFG%":"50.5",
+        "PER":"21.3",
+        "WS":"44.7",
+        "College":[
+            "Oklahoma"
+        ],
+        "High School":"Norman North"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/youngch01.html",
+        "Nome":"Chris Youngblood",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"February 9 , 2002",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2025",
+        "Experience":"0",
+        "Altezza":"193cm",
+        "Peso":"100kg",
+        "G":"34",
+        "PTS":"2.1",
+        "TRB":"0.8",
+        "AST":"0.4",
+        "FG%":"34.9",
+        "FG3%":"33.3",
+        "FT%":"90.0",
+        "eFG%":"49.2",
+        "PER":"10.4",
+        "WS":"0.5",
+        "College":[
+            "Kennesaw State University",
+            "South Florida",
+            "Alabama"
+        ],
+        "High School":"East Coweta"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/yuesu01.html",
+        "Nome":"Sun Yue",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"November 6 , 1985",
+        "Draft Team":"Los Angeles Lakers",
+        "Draft Year":"2007",
+        "Debut":"2008",
+        "Experience":"1",
+        "Altezza":"206cm",
+        "Peso":"92kg",
+        "G":"10",
+        "PTS":"0.6",
+        "TRB":"0.0",
+        "AST":"0.2",
+        "FG%":"27.3",
+        "FG3%":"0.0",
+        "FT%":"-",
+        "eFG%":"27.3",
+        "PER":"-8.6",
+        "WS":"-0.1",
+        "College":null,
+        "High School":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/y\/yurtsom01.html",
+        "Nome":"Omer Yurtseven",
+        "Position":[
+            "Center"
+        ],
+        "Born":"June 19 , 1998",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2021",
+        "Experience":"3",
+        "Altezza":"211cm",
+        "Peso":"124kg",
+        "G":"122",
+        "PTS":"4.9",
+        "TRB":"4.5",
+        "AST":"0.7",
+        "FG%":"52.9",
+        "FG3%":"19.6",
+        "FT%":"65.5",
+        "eFG%":"53.8",
+        "PER":"15.8",
+        "WS":"3.2",
+        "College":[
+            "NC State",
+            "Georgetown"
+        ],
+        "High School":null
+    }
+]

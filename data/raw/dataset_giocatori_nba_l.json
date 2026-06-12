@@ -1,0 +1,5998 @@
+[
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lacoufr01.html",
+        "Nome":"Fred LaCour",
+        "Position":[
+            "Point Guard",
+            "Small Forward"
+        ],
+        "Born":"February 7 , 1938",
+        "College":[
+            "San Francisco"
+        ],
+        "High School":"Saint Ignatius",
+        "Draft Team":"St. Louis Hawks",
+        "Draft Year":"1960",
+        "Debut":"1960",
+        "Experience":"3",
+        "Altezza":"196cm",
+        "Peso":"95kg",
+        "G":"144",
+        "PTS":"6.5",
+        "TRB":"3.3",
+        "AST":"1.9",
+        "FG%":"42.1",
+        "FT%":"77.4",
+        "PER":"11.9",
+        "WS":"3.4",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lafrera01.html",
+        "Nome":"Raef LaFrentz",
+        "Position":[
+            "Center",
+            "Power Forward"
+        ],
+        "Born":"May 29 , 1976",
+        "College":[
+            "Kansas"
+        ],
+        "High School":"Marmac",
+        "Draft Team":"Denver Nuggets",
+        "Draft Year":"1998",
+        "Debut":"1999",
+        "Experience":"10",
+        "Altezza":"211cm",
+        "Peso":"108kg",
+        "G":"563",
+        "PTS":"10.1",
+        "TRB":"6.1",
+        "AST":"1.1",
+        "FG%":"46.6",
+        "FT%":"71.1",
+        "PER":"16.1",
+        "WS":"39.4",
+        "FG3%":"36.3",
+        "eFG%":"51.6"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lagarto01.html",
+        "Nome":"Tom LaGarde",
+        "Position":[
+            "Center",
+            "Power Forward"
+        ],
+        "Born":"February 10 , 1955",
+        "College":[
+            "UNC"
+        ],
+        "High School":"Central Catholic",
+        "Draft Team":"Denver Nuggets",
+        "Draft Year":"1977",
+        "Debut":"1977",
+        "Experience":"6",
+        "Altezza":"208cm",
+        "Peso":"99kg",
+        "G":"312",
+        "PTS":"7.6",
+        "TRB":"5.1",
+        "AST":"1.5",
+        "FG%":"46.2",
+        "FT%":"64.0",
+        "PER":"11.5",
+        "WS":"6.5",
+        "FG3%":"0.0",
+        "eFG%":"46.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/laravja01.html",
+        "Nome":"Jake LaRavia",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"November 3 , 2001",
+        "College":[
+            "Indiana State University",
+            "Wake Forest"
+        ],
+        "High School":"Lawrence Central",
+        "Draft Team":"Minnesota Timberwolves",
+        "Draft Year":"2022",
+        "Debut":"2022",
+        "Experience":"3",
+        "Altezza":"201cm",
+        "Peso":"106kg",
+        "G":"218",
+        "PTS":"7.4",
+        "TRB":"3.6",
+        "AST":"1.8",
+        "FG%":"44.1",
+        "FT%":"75.6",
+        "PER":"11.7",
+        "WS":"8.2",
+        "FG3%":"35.1",
+        "eFG%":"52.7"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/larueru01.html",
+        "Nome":"Rusty LaRue",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"December 10 , 1973",
+        "College":[
+            "Wake Forest"
+        ],
+        "High School":"Northwest Guilford",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1997",
+        "Experience":"5",
+        "Altezza":"188cm",
+        "Peso":"95kg",
+        "G":"98",
+        "PTS":"5.0",
+        "TRB":"1.3",
+        "AST":"1.6",
+        "FG%":"37.6",
+        "FT%":"84.1",
+        "PER":"8.9",
+        "WS":"0.5",
+        "FG3%":"31.8",
+        "eFG%":"43.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/larusru01.html",
+        "Nome":"Rudy LaRusso",
+        "Position":[
+            "Power Forward",
+            "Small Forward"
+        ],
+        "Born":"November 11 , 1937",
+        "College":[
+            "Dartmouth College"
+        ],
+        "High School":"James Madison",
+        "Draft Team":"Minneapolis Lakers",
+        "Draft Year":"1959",
+        "Debut":"1959",
+        "Experience":"10",
+        "Altezza":"201cm",
+        "Peso":"99kg",
+        "G":"736",
+        "PTS":"15.6",
+        "TRB":"9.4",
+        "AST":"2.1",
+        "FG%":"43.1",
+        "FT%":"76.7",
+        "PER":"15.5",
+        "WS":"61.4",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lavinza01.html",
+        "Nome":"Zach LaVine",
+        "Position":[
+            "Shooting Guard",
+            "Small Forward",
+            "Point Guard"
+        ],
+        "Born":"March 10 , 1995",
+        "College":[
+            "UCLA"
+        ],
+        "High School":"Bothell",
+        "Draft Team":"Minnesota Timberwolves",
+        "Draft Year":"2014",
+        "Debut":"2014",
+        "Experience":"11",
+        "Altezza":"196cm",
+        "Peso":"90kg",
+        "G":"693",
+        "PTS":"20.7",
+        "TRB":"4.0",
+        "AST":"3.9",
+        "FG%":"47.0",
+        "FT%":"83.5",
+        "PER":"17.2",
+        "WS":"38.6",
+        "FG3%":"39.1",
+        "eFG%":"54.5"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/labissk01.html",
+        "Nome":"Skal Labissière",
+        "Position":[
+            "Power Forward",
+            "Center"
+        ],
+        "Born":"March 18 , 1996",
+        "College":[
+            "Kentucky"
+        ],
+        "High School":"Lausanne Collegiate School",
+        "Draft Team":"Phoenix Suns",
+        "Draft Year":"2016",
+        "Debut":"2016",
+        "Experience":"5",
+        "Altezza":"208cm",
+        "Peso":"106kg",
+        "G":"155",
+        "PTS":"7.0",
+        "TRB":"4.3",
+        "AST":"1.0",
+        "FG%":"49.3",
+        "FT%":"74.8",
+        "PER":"15.0",
+        "WS":"4.5",
+        "FG3%":"35.2",
+        "eFG%":"51.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lacefre01.html",
+        "Nome":"Reggie Lacefield",
+        "Position":[
+            "Guard\/Forward"
+        ],
+        "Born":"April 10 , 1945",
+        "College":[
+            "Western Michigan"
+        ],
+        "High School":"Roosevelt",
+        "Draft Team":"Los Angeles Lakers",
+        "Draft Year":"1968",
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":"196cm",
+        "Peso":"104kg",
+        "G":"8",
+        "PTS":"3.0",
+        "TRB":"1.4",
+        "AST":"0.0",
+        "FG%":"50.0",
+        "FT%":"50.0",
+        "PER":"12.8",
+        "WS":"0.1",
+        "FG3%":"0.0",
+        "eFG%":"50.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/laceyed01.html",
+        "Nome":"Edgar Lacey",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"August 2 , 1944",
+        "College":[
+            "UCLA"
+        ],
+        "High School":"Jefferson",
+        "Draft Team":"Boston Celtics",
+        "Draft Year":"1968",
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":"198cm",
+        "Peso":"86kg",
+        "G":"46",
+        "PTS":"5.1",
+        "TRB":"3.9",
+        "AST":"0.7",
+        "FG%":"44.7",
+        "FT%":"56.7",
+        "PER":"10.5",
+        "WS":"0.5",
+        "FG3%":"0.0",
+        "eFG%":"44.7"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/laceysa01.html",
+        "Nome":"Sam Lacey",
+        "Position":[
+            "Center"
+        ],
+        "Born":"March 28 , 1948",
+        "College":[
+            "New Mexico State"
+        ],
+        "High School":"Gentry",
+        "Draft Team":"Cincinnati Royals",
+        "Draft Year":"1970",
+        "Debut":"1970",
+        "Experience":"13",
+        "Altezza":"208cm",
+        "Peso":"106kg",
+        "G":"1002",
+        "PTS":"10.3",
+        "TRB":"9.7",
+        "AST":"3.7",
+        "FG%":"44.1",
+        "FT%":"73.8",
+        "PER":"14.2",
+        "WS":"50.9",
+        "FG3%":"18.8",
+        "eFG%":"44.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lackebo01.html",
+        "Nome":"Bob Lackey",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"April 4 , 1949",
+        "College":[
+            "Casper College",
+            "Marquette"
+        ],
+        "High School":"Evanston Township",
+        "Draft Team":"Atlanta Hawks",
+        "Draft Year":"1972",
+        "Debut":null,
+        "Experience":"2",
+        "Altezza":"196cm",
+        "Peso":"90kg",
+        "G":"71",
+        "PTS":"5.8",
+        "TRB":"2.3",
+        "AST":"1.9",
+        "FG%":"43.1",
+        "FT%":"59.3",
+        "PER":"7.1",
+        "WS":"-0.1",
+        "FG3%":"40.0",
+        "eFG%":"43.4"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/ladnewe01.html",
+        "Nome":"Wendell Ladner",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"October 6 , 1948",
+        "College":[
+            "Southern Miss"
+        ],
+        "High School":"North Central",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":null,
+        "Experience":"5",
+        "Altezza":"196cm",
+        "Peso":"99kg",
+        "G":"300",
+        "PTS":"11.6",
+        "TRB":"8.3",
+        "AST":"2.1",
+        "FG%":"38.6",
+        "FT%":"71.2",
+        "PER":"12.9",
+        "WS":"3.6",
+        "FG3%":"25.2",
+        "eFG%":"40.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/laettch01.html",
+        "Nome":"Christian Laettner",
+        "Position":[
+            "Power Forward",
+            "Center"
+        ],
+        "Born":"August 17 , 1969",
+        "College":[
+            "Duke"
+        ],
+        "High School":"Nichols School",
+        "Draft Team":"Minnesota Timberwolves",
+        "Draft Year":"1992",
+        "Debut":"1992",
+        "Experience":"13",
+        "Altezza":"211cm",
+        "Peso":"106kg",
+        "G":"868",
+        "PTS":"12.8",
+        "TRB":"6.7",
+        "AST":"2.6",
+        "FG%":"48.0",
+        "FT%":"82.0",
+        "PER":"16.9",
+        "WS":"64.9",
+        "FG3%":"26.1",
+        "eFG%":"48.6"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lafayol01.html",
+        "Nome":"Oliver Lafayette",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"May 6 , 1984",
+        "College":[
+            "Blinn College",
+            "Brown Mackie College",
+            "Houston"
+        ],
+        "High School":"Capitol",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2010",
+        "Experience":"1",
+        "Altezza":"188cm",
+        "Peso":"86kg",
+        "G":"1",
+        "PTS":"7.0",
+        "TRB":"4.0",
+        "AST":"2.0",
+        "FG%":"50.0",
+        "FT%":"-",
+        "PER":"12.8",
+        "WS":"0.0",
+        "FG3%":"50.0",
+        "eFG%":"58.3"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/laimbbi01.html",
+        "Nome":"Bill Laimbeer",
+        "Position":[
+            "Center"
+        ],
+        "Born":"May 19 , 1957",
+        "College":[
+            "Notre Dame"
+        ],
+        "High School":"Palos Verdes",
+        "Draft Team":"Cleveland Cavaliers",
+        "Draft Year":"1979",
+        "Debut":"1980",
+        "Experience":"14",
+        "Altezza":"211cm",
+        "Peso":"111kg",
+        "G":"1068",
+        "PTS":"12.9",
+        "TRB":"9.7",
+        "AST":"2.0",
+        "FG%":"49.8",
+        "FT%":"83.7",
+        "PER":"16.1",
+        "WS":"105.6",
+        "FG3%":"32.6",
+        "eFG%":"50.7"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lalicpe01.html",
+        "Nome":"Pete Lalich",
+        "Position":[
+            "Forward"
+        ],
+        "Born":"June 23 , 1920",
+        "College":[
+            "Ohio University"
+        ],
+        "High School":"East Technical",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":"188cm",
+        "Peso":"86kg",
+        "G":"1",
+        "PTS":"0.0",
+        "TRB":"-",
+        "AST":"0.0",
+        "FG%":"0.0",
+        "FT%":"-",
+        "PER":"-",
+        "WS":"0.0",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lamarbo01.html",
+        "Nome":"Bo Lamar",
+        "Position":[
+            "Point Guard",
+            "Shooting Guard"
+        ],
+        "Born":"April 7 , 1951",
+        "College":[
+            "Louisiana"
+        ],
+        "High School":"East",
+        "Draft Team":"Detroit Pistons",
+        "Draft Year":"1973",
+        "Debut":"1976",
+        "Experience":"4",
+        "Altezza":"185cm",
+        "Peso":"81kg",
+        "G":"273",
+        "PTS":"16.4",
+        "TRB":"2.7",
+        "AST":"3.9",
+        "FG%":"41.1",
+        "FT%":"76.8",
+        "PER":"14.6",
+        "WS":"5.4",
+        "FG3%":"26.7",
+        "eFG%":"42.4"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lamban01.html",
+        "Nome":"Anthony Lamb",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"January 20 , 1998",
+        "College":[
+            "University of Vermont"
+        ],
+        "High School":"Greece Athena",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2021",
+        "Experience":"3",
+        "Altezza":"198cm",
+        "Peso":"102kg",
+        "G":"88",
+        "PTS":"6.2",
+        "TRB":"3.3",
+        "AST":"1.4",
+        "FG%":"44.7",
+        "FT%":"79.0",
+        "PER":"10.3",
+        "WS":"2.6",
+        "FG3%":"35.3",
+        "eFG%":"55.8"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lambdo01.html",
+        "Nome":"Doron Lamb",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"November 6 , 1991",
+        "College":[
+            "Kentucky"
+        ],
+        "High School":null,
+        "Draft Team":"Milwaukee Bucks",
+        "Draft Year":"2012",
+        "Debut":"2012",
+        "Experience":"2",
+        "Altezza":"193cm",
+        "Peso":"95kg",
+        "G":"100",
+        "PTS":"3.5",
+        "TRB":"1.0",
+        "AST":"0.8",
+        "FG%":"38.1",
+        "FT%":"70.0",
+        "PER":"6.3",
+        "WS":"0.1",
+        "FG3%":"39.4",
+        "eFG%":"45.8"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lambje01.html",
+        "Nome":"Jeremy Lamb",
+        "Position":[
+            "Shooting Guard",
+            "Small Forward"
+        ],
+        "Born":"May 30 , 1992",
+        "College":[
+            "UConn"
+        ],
+        "High School":"Norcross",
+        "Draft Team":"Houston Rockets",
+        "Draft Year":"2012",
+        "Debut":"2012",
+        "Experience":"10",
+        "Altezza":"196cm",
+        "Peso":"81kg",
+        "G":"573",
+        "PTS":"10.1",
+        "TRB":"3.6",
+        "AST":"1.6",
+        "FG%":"43.9",
+        "FT%":"85.7",
+        "PER":"15.6",
+        "WS":"26.8",
+        "FG3%":"34.2",
+        "eFG%":"50.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lambejo01.html",
+        "Nome":"John Lambert",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"January 14 , 1953",
+        "College":[
+            "USC"
+        ],
+        "High School":"Berkeley",
+        "Draft Team":"Cleveland Cavaliers",
+        "Draft Year":"1975",
+        "Debut":"1975",
+        "Experience":"7",
+        "Altezza":"208cm",
+        "Peso":"102kg",
+        "G":"446",
+        "PTS":"3.8",
+        "TRB":"3.3",
+        "AST":"0.6",
+        "FG%":"42.8",
+        "FT%":"69.3",
+        "PER":"10.4",
+        "WS":"6.9",
+        "FG3%":"8.3",
+        "eFG%":"42.8"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lampje01.html",
+        "Nome":"Jeff Lamp",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"March 9 , 1959",
+        "College":[
+            "Virginia"
+        ],
+        "High School":"Ballard",
+        "Draft Team":"Portland Trail Blazers",
+        "Draft Year":"1981",
+        "Debut":"1981",
+        "Experience":"6",
+        "Altezza":"198cm",
+        "Peso":"88kg",
+        "G":"291",
+        "PTS":"5.1",
+        "TRB":"1.5",
+        "AST":"0.9",
+        "FG%":"47.0",
+        "FT%":"84.1",
+        "PER":"11.5",
+        "WS":"5.2",
+        "FG3%":"22.2",
+        "eFG%":"47.4"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lampema01.html",
+        "Nome":"Maciej Lampe",
+        "Position":[
+            "Center"
+        ],
+        "Born":"February 5 , 1985",
+        "College":null,
+        "High School":null,
+        "Draft Team":"New York Knicks",
+        "Draft Year":"2003",
+        "Debut":"2004",
+        "Experience":"3",
+        "Altezza":"211cm",
+        "Peso":"124kg",
+        "G":"64",
+        "PTS":"3.4",
+        "TRB":"2.2",
+        "AST":"0.3",
+        "FG%":"40.7",
+        "FT%":"67.6",
+        "PER":"8.5",
+        "WS":"-0.2",
+        "FG3%":"25.0",
+        "eFG%":"41.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lamplji01.html",
+        "Nome":"Jim Lampley",
+        "Position":[
+            "Center"
+        ],
+        "Born":"July 2 , 1960",
+        "College":[
+            "Vanderbilt",
+            "Little Rock"
+        ],
+        "High School":"Passaic County Technical Institute",
+        "Draft Team":"Dallas Mavericks",
+        "Draft Year":"1983",
+        "Debut":"1986",
+        "Experience":"1",
+        "Altezza":"208cm",
+        "Peso":"104kg",
+        "G":"1",
+        "PTS":"3.0",
+        "TRB":"5.0",
+        "AST":"0.0",
+        "FG%":"33.3",
+        "FT%":"50.0",
+        "PER":"8.3",
+        "WS":"0.0",
+        "FG3%":"-",
+        "eFG%":"33.3"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lamplse01.html",
+        "Nome":"Sean Lampley",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"September 3 , 1979",
+        "College":[
+            "California"
+        ],
+        "High School":"St. Francis de Sales",
+        "Draft Team":"Chicago Bulls",
+        "Draft Year":"2001",
+        "Debut":"2002",
+        "Experience":"2",
+        "Altezza":"201cm",
+        "Peso":"102kg",
+        "G":"45",
+        "PTS":"4.5",
+        "TRB":"2.1",
+        "AST":"0.7",
+        "FG%":"46.3",
+        "FT%":"69.1",
+        "PER":"13.5",
+        "WS":"1.1",
+        "FG3%":"0.0",
+        "eFG%":"46.3"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/landajo01.html",
+        "Nome":"Jock Landale",
+        "Position":[
+            "Center"
+        ],
+        "Born":"October 25 , 1995",
+        "College":[
+            "Saint Mary's"
+        ],
+        "High School":"Geelong Grammar School",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2021",
+        "Experience":"4",
+        "Altezza":"211cm",
+        "Peso":"115kg",
+        "G":"289",
+        "PTS":"6.6",
+        "TRB":"3.9",
+        "AST":"1.1",
+        "FG%":"51.7",
+        "FT%":"72.1",
+        "PER":"16.2",
+        "WS":"12.0",
+        "FG3%":"33.6",
+        "eFG%":"56.7"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/landrca01.html",
+        "Nome":"Carl Landry",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"September 19 , 1983",
+        "College":[
+            "Vincennes University",
+            "Purdue"
+        ],
+        "High School":"Vincent",
+        "Draft Team":"Seattle SuperSonics",
+        "Draft Year":"2007",
+        "Debut":"2007",
+        "Experience":"9",
+        "Altezza":"206cm",
+        "Peso":"112kg",
+        "G":"513",
+        "PTS":"10.8",
+        "TRB":"4.9",
+        "AST":"0.7",
+        "FG%":"53.5",
+        "FT%":"78.5",
+        "PER":"17.5",
+        "WS":"35.9",
+        "FG3%":"30.0",
+        "eFG%":"53.6"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/landrma01.html",
+        "Nome":"Marcus Landry",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"November 1 , 1985",
+        "College":[
+            "Wisconsin"
+        ],
+        "High School":"Vincent",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2009",
+        "Experience":"1",
+        "Altezza":"201cm",
+        "Peso":"104kg",
+        "G":"18",
+        "PTS":"2.4",
+        "TRB":"1.1",
+        "AST":"0.0",
+        "FG%":"37.2",
+        "FT%":"60.0",
+        "PER":"7.2",
+        "WS":"-0.1",
+        "FG3%":"32.1",
+        "eFG%":"47.7"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/landsma01.html",
+        "Nome":"Mark Landsberger",
+        "Position":[
+            "Power Forward",
+            "Center"
+        ],
+        "Born":"May 21 , 1955",
+        "College":[
+            "Minnesota",
+            "Arizona State"
+        ],
+        "High School":"Mounds View",
+        "Draft Team":"Chicago Bulls",
+        "Draft Year":"1977",
+        "Debut":"1977",
+        "Experience":"7",
+        "Altezza":"203cm",
+        "Peso":"97kg",
+        "G":"437",
+        "PTS":"5.6",
+        "TRB":"6.1",
+        "AST":"0.5",
+        "FG%":"48.1",
+        "FT%":"52.2",
+        "PER":"12.8",
+        "WS":"12.2",
+        "FG3%":"0.0",
+        "eFG%":"48.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/laneje01.html",
+        "Nome":"Jerome Lane",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"December 4 , 1966",
+        "College":[
+            "Pitt"
+        ],
+        "High School":"St. Vincent-St. Mary",
+        "Draft Team":"Denver Nuggets",
+        "Draft Year":"1988",
+        "Debut":"1988",
+        "Experience":"5",
+        "Altezza":"198cm",
+        "Peso":"104kg",
+        "G":"218",
+        "PTS":"5.3",
+        "TRB":"5.8",
+        "AST":"1.5",
+        "FG%":"44.1",
+        "FT%":"37.9",
+        "PER":"12.6",
+        "WS":"2.3",
+        "FG3%":"6.3",
+        "eFG%":"44.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/langan01.html",
+        "Nome":"Andrew Lang",
+        "Position":[
+            "Center"
+        ],
+        "Born":"June 28 , 1966",
+        "College":[
+            "Arkansas"
+        ],
+        "High School":"Dollarway",
+        "Draft Team":"Phoenix Suns",
+        "Draft Year":"1988",
+        "Debut":"1988",
+        "Experience":"12",
+        "Altezza":"211cm",
+        "Peso":"111kg",
+        "G":"737",
+        "PTS":"6.0",
+        "TRB":"4.8",
+        "AST":"0.6",
+        "FG%":"47.0",
+        "FT%":"74.4",
+        "PER":"11.7",
+        "WS":"28.6",
+        "FG3%":"25.0",
+        "eFG%":"47.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/langan02.html",
+        "Nome":"Antonio Lang",
+        "Position":[
+            "Small Forward",
+            "Power Forward"
+        ],
+        "Born":"May 15 , 1972",
+        "College":[
+            "Duke"
+        ],
+        "High School":"LeFlore Magnet",
+        "Draft Team":"Phoenix Suns",
+        "Draft Year":"1994",
+        "Debut":"1994",
+        "Experience":"6",
+        "Altezza":"203cm",
+        "Peso":"92kg",
+        "G":"143",
+        "PTS":"2.3",
+        "TRB":"1.5",
+        "AST":"0.3",
+        "FG%":"45.5",
+        "FT%":"71.9",
+        "PER":"8.8",
+        "WS":"1.7",
+        "FG3%":"0.0",
+        "eFG%":"45.5"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/langja01.html",
+        "Nome":"James Lang",
+        "Position":[
+            "Center"
+        ],
+        "Born":"October 17 , 1983",
+        "College":null,
+        "High School":"Central Park Christian",
+        "Draft Team":"New Orleans Hornets",
+        "Draft Year":"2003",
+        "Debut":"2006",
+        "Experience":"1",
+        "Altezza":"208cm",
+        "Peso":"129kg",
+        "G":"11",
+        "PTS":"1.0",
+        "TRB":"1.0",
+        "AST":"0.2",
+        "FG%":"44.4",
+        "FT%":"60.0",
+        "PER":"6.6",
+        "WS":"0.1",
+        "FG3%":"-",
+        "eFG%":"44.4"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/langdtr01.html",
+        "Nome":"Trajan Langdon",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"May 13 , 1976",
+        "College":[
+            "Duke"
+        ],
+        "High School":"Anchorage East",
+        "Draft Team":"Cleveland Cavaliers",
+        "Draft Year":"1999",
+        "Debut":"1999",
+        "Experience":"3",
+        "Altezza":"190cm",
+        "Peso":"89kg",
+        "G":"119",
+        "PTS":"5.4",
+        "TRB":"1.3",
+        "AST":"1.3",
+        "FG%":"41.6",
+        "FT%":"91.0",
+        "PER":"12.2",
+        "WS":"2.9",
+        "FG3%":"39.6",
+        "eFG%":"49.7"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/langfke01.html",
+        "Nome":"Keith Langford",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"September 15 , 1983",
+        "College":[
+            "Kansas"
+        ],
+        "High School":"North Crowley",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2007",
+        "Experience":"1",
+        "Altezza":"193cm",
+        "Peso":"97kg",
+        "G":"2",
+        "PTS":"1.0",
+        "TRB":"1.0",
+        "AST":"0.0",
+        "FG%":"25.0",
+        "FT%":"-",
+        "PER":"-2.4",
+        "WS":"0.0",
+        "FG3%":"-",
+        "eFG%":"25.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/langfro01.html",
+        "Nome":"Romeo Langford",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"October 25 , 1999",
+        "College":[
+            "Indiana"
+        ],
+        "High School":"New Albany",
+        "Draft Team":"Boston Celtics",
+        "Draft Year":"2019",
+        "Debut":"2019",
+        "Experience":"4",
+        "Altezza":"196cm",
+        "Peso":"97kg",
+        "G":"141",
+        "PTS":"4.6",
+        "TRB":"2.1",
+        "AST":"0.7",
+        "FG%":"43.0",
+        "FT%":"65.9",
+        "PER":"8.5",
+        "WS":"2.0",
+        "FG3%":"28.8",
+        "eFG%":"47.6"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/langhda01.html",
+        "Nome":"Dan Langhi",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"November 28 , 1977",
+        "College":[
+            "Vanderbilt"
+        ],
+        "High School":"Marshall County",
+        "Draft Team":"Dallas Mavericks",
+        "Draft Year":"2000",
+        "Debut":"2000",
+        "Experience":"4",
+        "Altezza":"211cm",
+        "Peso":"99kg",
+        "G":"133",
+        "PTS":"3.0",
+        "TRB":"1.5",
+        "AST":"0.3",
+        "FG%":"39.1",
+        "FT%":"61.3",
+        "PER":"8.8",
+        "WS":"0.3",
+        "FG3%":"28.9",
+        "eFG%":"40.3"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/laniebo01.html",
+        "Nome":"Bob Lanier",
+        "Position":[
+            "Center"
+        ],
+        "Born":"September 10 , 1948",
+        "College":[
+            "St. Bonaventure"
+        ],
+        "High School":"Bennett",
+        "Draft Team":"Detroit Pistons",
+        "Draft Year":"1970",
+        "Debut":"1970",
+        "Experience":"14",
+        "Altezza":"211cm",
+        "Peso":"113kg",
+        "G":"959",
+        "PTS":"20.1",
+        "TRB":"10.1",
+        "AST":"3.1",
+        "FG%":"51.4",
+        "FT%":"76.7",
+        "PER":"21.7",
+        "WS":"117.1",
+        "FG3%":"15.4",
+        "eFG%":"51.4"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/laniech01.html",
+        "Nome":"Chaz Lanier",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"December 19 , 2001",
+        "College":[
+            "University of North Florida",
+            "Tennessee"
+        ],
+        "High School":"The Ensworth School",
+        "Draft Team":"Detroit Pistons",
+        "Draft Year":"2025",
+        "Debut":"2025",
+        "Experience":"0",
+        "Altezza":"190cm",
+        "Peso":"93kg",
+        "G":"34",
+        "PTS":"2.4",
+        "TRB":"0.7",
+        "AST":"0.5",
+        "FG%":"31.5",
+        "FT%":"83.3",
+        "PER":"6.6",
+        "WS":"0.3",
+        "FG3%":"28.4",
+        "eFG%":"42.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lantzst01.html",
+        "Nome":"Stu Lantz",
+        "Position":[
+            "Shooting Guard",
+            "Point Guard"
+        ],
+        "Born":"July 13 , 1946",
+        "College":[
+            "Nebraska"
+        ],
+        "High School":"Uniontown",
+        "Draft Team":"San Diego Rockets",
+        "Draft Year":"1968",
+        "Debut":"1968",
+        "Experience":"8",
+        "Altezza":"190cm",
+        "Peso":"79kg",
+        "G":"547",
+        "PTS":"12.4",
+        "TRB":"3.3",
+        "AST":"2.9",
+        "FG%":"43.5",
+        "FT%":"81.4",
+        "PER":"13.4",
+        "WS":"32.5",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/laproni01.html",
+        "Nome":"Nicolás Laprovíttola",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"January 31 , 1990",
+        "College":null,
+        "High School":null,
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2016",
+        "Experience":"1",
+        "Altezza":"193cm",
+        "Peso":"81kg",
+        "G":"18",
+        "PTS":"3.3",
+        "TRB":"0.6",
+        "AST":"1.6",
+        "FG%":"42.6",
+        "FT%":"100.0",
+        "PER":"8.4",
+        "WS":"0.2",
+        "FG3%":"37.0",
+        "eFG%":"53.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/laresyo01.html",
+        "Nome":"York Larese",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"July 18 , 1938",
+        "College":[
+            "UNC"
+        ],
+        "High School":"Saint Ann's Academy",
+        "Draft Team":"St. Louis Hawks",
+        "Draft Year":"1961",
+        "Debut":"1961",
+        "Experience":"1",
+        "Altezza":"193cm",
+        "Peso":"83kg",
+        "G":"59",
+        "PTS":"5.1",
+        "TRB":"1.3",
+        "AST":"1.6",
+        "FG%":"37.3",
+        "FT%":"80.6",
+        "PER":"9.3",
+        "WS":"0.3",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/larkish01.html",
+        "Nome":"Shane Larkin",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"October 2 , 1992",
+        "College":[
+            "Miami (FL)"
+        ],
+        "High School":"Dr. Phillips",
+        "Draft Team":"Atlanta Hawks",
+        "Draft Year":"2013",
+        "Debut":"2013",
+        "Experience":"4",
+        "Altezza":"180cm",
+        "Peso":"79kg",
+        "G":"256",
+        "PTS":"5.5",
+        "TRB":"1.9",
+        "AST":"2.9",
+        "FG%":"42.2",
+        "FT%":"77.7",
+        "PER":"11.4",
+        "WS":"4.4",
+        "FG3%":"33.6",
+        "eFG%":"46.8"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/larsspe01.html",
+        "Nome":"Pelle Larsson",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"February 23 , 2001",
+        "College":[
+            "Utah",
+            "Arizona"
+        ],
+        "High School":null,
+        "Draft Team":"Houston Rockets",
+        "Draft Year":"2024",
+        "Debut":"2024",
+        "Experience":"1",
+        "Altezza":"196cm",
+        "Peso":"97kg",
+        "G":"125",
+        "PTS":"8.4",
+        "TRB":"2.7",
+        "AST":"2.4",
+        "FG%":"48.0",
+        "FT%":"77.1",
+        "PER":"12.2",
+        "WS":"5.5",
+        "FG3%":"32.8",
+        "eFG%":"54.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/laskojo01.html",
+        "Nome":"John Laskowski",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"June 7 , 1953",
+        "College":[
+            "Indiana"
+        ],
+        "High School":"Saint Joseph",
+        "Draft Team":"Chicago Bulls",
+        "Draft Year":"1975",
+        "Debut":"1975",
+        "Experience":"2",
+        "Altezza":"198cm",
+        "Peso":"83kg",
+        "G":"118",
+        "PTS":"7.1",
+        "TRB":"2.4",
+        "AST":"0.8",
+        "FG%":"39.8",
+        "FT%":"76.0",
+        "PER":"10.9",
+        "WS":"2.0",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lasmest01.html",
+        "Nome":"Stéphane Lasme",
+        "Position":[
+            "Power Forward",
+            "Small Forward"
+        ],
+        "Born":"December 17 , 1982",
+        "College":[
+            "UMass"
+        ],
+        "High School":"Leon Mba",
+        "Draft Team":"Golden State Warriors",
+        "Draft Year":"2007",
+        "Debut":"2007",
+        "Experience":"1",
+        "Altezza":"203cm",
+        "Peso":"97kg",
+        "G":"16",
+        "PTS":"5.2",
+        "TRB":"3.3",
+        "AST":"0.2",
+        "FG%":"45.1",
+        "FT%":"59.4",
+        "PER":"11.7",
+        "WS":"0.3",
+        "FG3%":"-",
+        "eFG%":"45.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lattida01.html",
+        "Nome":"Dave Lattin",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"December 23 , 1943",
+        "College":[
+            "Texas-El Paso"
+        ],
+        "High School":"Evan E. Worthing",
+        "Draft Team":"San Francisco Warriors",
+        "Draft Year":"1967",
+        "Debut":"1967",
+        "Experience":"5",
+        "Altezza":"198cm",
+        "Peso":"102kg",
+        "G":"263",
+        "PTS":"7.2",
+        "TRB":"5.1",
+        "AST":"0.7",
+        "FG%":"47.7",
+        "FT%":"63.1",
+        "PER":"13.6",
+        "WS":"6.3",
+        "FG3%":"0.0",
+        "eFG%":"47.7"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/laudepr01.html",
+        "Nome":"Priest Lauderdale",
+        "Position":[
+            "Center"
+        ],
+        "Born":"August 31 , 1973",
+        "College":[
+            "Central State University"
+        ],
+        "High School":"Carver",
+        "Draft Team":"Atlanta Hawks",
+        "Draft Year":"1996",
+        "Debut":"1996",
+        "Experience":"2",
+        "Altezza":"224cm",
+        "Peso":"147kg",
+        "G":"74",
+        "PTS":"3.4",
+        "TRB":"1.9",
+        "AST":"0.4",
+        "FG%":"47.2",
+        "FT%":"55.4",
+        "PER":"11.3",
+        "WS":"-0.8",
+        "FG3%":"0.0",
+        "eFG%":"47.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/laureri01.html",
+        "Nome":"Rich Laurel",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"July 11 , 1954",
+        "College":[
+            "Hofstra"
+        ],
+        "High School":"Overbrook",
+        "Draft Team":"Portland Trail Blazers",
+        "Draft Year":"1977",
+        "Debut":"1977",
+        "Experience":"1",
+        "Altezza":"198cm",
+        "Peso":"86kg",
+        "G":"10",
+        "PTS":"2.4",
+        "TRB":"1.0",
+        "AST":"0.3",
+        "FG%":"32.3",
+        "FT%":"100.0",
+        "PER":"7.5",
+        "WS":"0.0",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lauriha01.html",
+        "Nome":"Harry Laurie",
+        "Position":[
+            "Guard"
+        ],
+        "Born":"November 2 , 1944",
+        "College":[
+            "Loyola Chicago",
+            "Saint Peter's College"
+        ],
+        "High School":"Lincoln",
+        "Draft Team":"Detroit Pistons",
+        "Draft Year":"1968",
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":"185cm",
+        "Peso":"80kg",
+        "G":"9",
+        "PTS":"1.4",
+        "TRB":"1.7",
+        "AST":"0.9",
+        "FG%":"25.0",
+        "FT%":"63.6",
+        "PER":"0.6",
+        "WS":"0.0",
+        "FG3%":"-",
+        "eFG%":"25.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lautewa01.html",
+        "Nome":"Walt Lautenbach",
+        "Position":[
+            "Guard\/Forward"
+        ],
+        "Born":"November 17 , 1922",
+        "College":[
+            "Wisconsin"
+        ],
+        "High School":"Plymouth",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1949",
+        "Experience":"1",
+        "Altezza":"188cm",
+        "Peso":"83kg",
+        "G":"55",
+        "PTS":"4.3",
+        "TRB":"-",
+        "AST":"1.3",
+        "FG%":"30.1",
+        "FT%":"69.1",
+        "PER":"-",
+        "WS":"-1.3",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lauvejo01.html",
+        "Nome":"Joffrey Lauvergne",
+        "Position":[
+            "Center",
+            "Power Forward"
+        ],
+        "Born":"September 30 , 1991",
+        "College":null,
+        "High School":null,
+        "Draft Team":"Memphis Grizzlies",
+        "Draft Year":"2013",
+        "Debut":"2015",
+        "Experience":"4",
+        "Altezza":"211cm",
+        "Peso":"117kg",
+        "G":"208",
+        "PTS":"5.6",
+        "TRB":"3.8",
+        "AST":"0.9",
+        "FG%":"47.9",
+        "FT%":"71.9",
+        "PER":"14.3",
+        "WS":"5.2",
+        "FG3%":"28.5",
+        "eFG%":"50.4"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lavelto01.html",
+        "Nome":"Tony Lavelli",
+        "Position":[
+            "Forward"
+        ],
+        "Born":"July 11 , 1926",
+        "College":[
+            "Yale"
+        ],
+        "High School":"Somerville",
+        "Draft Team":"Boston Celtics",
+        "Draft Year":"1949",
+        "Debut":"1949",
+        "Experience":"2",
+        "Altezza":"190cm",
+        "Peso":"83kg",
+        "G":"86",
+        "PTS":"6.9",
+        "TRB":"2.0",
+        "AST":"0.7",
+        "FG%":"36.7",
+        "FT%":"85.3",
+        "PER":"-",
+        "WS":"4.7",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lavoybo01.html",
+        "Nome":"Bob Lavoy",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"June 29 , 1926",
+        "College":[
+            "Illinois",
+            "Western Kentucky"
+        ],
+        "High School":"East Aurora",
+        "Draft Team":"Indianapolis Olympians",
+        "Draft Year":"1950",
+        "Debut":"1950",
+        "Experience":"4",
+        "Altezza":"201cm",
+        "Peso":"83kg",
+        "G":"264",
+        "PTS":"8.2",
+        "TRB":"6.2",
+        "AST":"1.5",
+        "FG%":"38.4",
+        "FT%":"70.7",
+        "PER":"15.1",
+        "WS":"15.9",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lawac01.html",
+        "Nome":"Acie Law",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"January 25 , 1985",
+        "College":[
+            "Texas A&M"
+        ],
+        "High School":"Justin F. Kimball",
+        "Draft Team":"Atlanta Hawks",
+        "Draft Year":"2007",
+        "Debut":"2007",
+        "Experience":"4",
+        "Altezza":"190cm",
+        "Peso":"88kg",
+        "G":"188",
+        "PTS":"3.9",
+        "TRB":"1.0",
+        "AST":"1.6",
+        "FG%":"41.3",
+        "FT%":"77.8",
+        "PER":"9.9",
+        "WS":"1.6",
+        "FG3%":"23.5",
+        "eFG%":"43.4"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lawvi01.html",
+        "Nome":"Vic Law",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"December 19 , 1995",
+        "College":[
+            "Northwestern"
+        ],
+        "High School":"St. Rita of Cascia",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2020",
+        "Experience":"1",
+        "Altezza":"201cm",
+        "Peso":"90kg",
+        "G":"8",
+        "PTS":"1.9",
+        "TRB":"1.4",
+        "AST":"0.4",
+        "FG%":"33.3",
+        "FT%":"33.3",
+        "PER":"3.7",
+        "WS":"-0.1",
+        "FG3%":"14.3",
+        "eFG%":"36.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lawalga01.html",
+        "Nome":"Gani Lawal",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"November 7 , 1988",
+        "College":[
+            "Georgia Tech"
+        ],
+        "High School":"Norcross",
+        "Draft Team":"Phoenix Suns",
+        "Draft Year":"2010",
+        "Debut":"2010",
+        "Experience":"1",
+        "Altezza":"206cm",
+        "Peso":"106kg",
+        "G":"1",
+        "PTS":"0.0",
+        "TRB":"0.0",
+        "AST":"0.0",
+        "FG%":"-",
+        "FT%":"-",
+        "PER":"-9.1",
+        "WS":"0.0",
+        "FG3%":"-",
+        "eFG%":"-"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lawreed01.html",
+        "Nome":"Edmund Lawrence",
+        "Position":[
+            "Center"
+        ],
+        "Born":"December 8 , 1952",
+        "College":[
+            "McNeese State University"
+        ],
+        "High School":"Boston",
+        "Draft Team":"Cleveland Cavaliers",
+        "Draft Year":"1976",
+        "Debut":"1981",
+        "Experience":"1",
+        "Altezza":"213cm",
+        "Peso":"103kg",
+        "G":"3",
+        "PTS":"4.0",
+        "TRB":"1.3",
+        "AST":"0.3",
+        "FG%":"62.5",
+        "FT%":"50.0",
+        "PER":"19.4",
+        "WS":"0.1",
+        "FG3%":"-",
+        "eFG%":"62.5"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lawsoaj01.html",
+        "Nome":"A.J. Lawson",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"July 15 , 2000",
+        "College":[
+            "South Carolina"
+        ],
+        "High School":null,
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2022",
+        "Experience":"3",
+        "Altezza":"198cm",
+        "Peso":"81kg",
+        "G":"107",
+        "PTS":"4.9",
+        "TRB":"1.9",
+        "AST":"0.6",
+        "FG%":"43.9",
+        "FT%":"66.1",
+        "PER":"12.5",
+        "WS":"1.8",
+        "FG3%":"33.9",
+        "eFG%":"52.5"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lawsoja01.html",
+        "Nome":"Jason Lawson",
+        "Position":[
+            "Center"
+        ],
+        "Born":"September 2 , 1974",
+        "College":[
+            "Villanova"
+        ],
+        "High School":"Olney",
+        "Draft Team":"Denver Nuggets",
+        "Draft Year":"1997",
+        "Debut":"1997",
+        "Experience":"1",
+        "Altezza":"211cm",
+        "Peso":"108kg",
+        "G":"17",
+        "PTS":"1.5",
+        "TRB":"1.6",
+        "AST":"0.3",
+        "FG%":"60.0",
+        "FT%":"80.0",
+        "PER":"21.5",
+        "WS":"0.5",
+        "FG3%":"-",
+        "eFG%":"60.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lawsoty01.html",
+        "Nome":"Ty Lawson",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"November 3 , 1987",
+        "College":[
+            "UNC"
+        ],
+        "High School":null,
+        "Draft Team":"Minnesota Timberwolves",
+        "Draft Year":"2009",
+        "Debut":"2009",
+        "Experience":"9",
+        "Altezza":"180cm",
+        "Peso":"88kg",
+        "G":"551",
+        "PTS":"12.7",
+        "TRB":"2.7",
+        "AST":"6.0",
+        "FG%":"46.0",
+        "FT%":"77.0",
+        "PER":"17.2",
+        "WS":"42.1",
+        "FG3%":"35.9",
+        "eFG%":"50.4"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/laymaja01.html",
+        "Nome":"Jake Layman",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"March 7 , 1994",
+        "College":[
+            "Maryland"
+        ],
+        "High School":"King Philip Regional",
+        "Draft Team":"Orlando Magic",
+        "Draft Year":"2016",
+        "Debut":"2016",
+        "Experience":"6",
+        "Altezza":"203cm",
+        "Peso":"94kg",
+        "G":"243",
+        "PTS":"4.8",
+        "TRB":"1.7",
+        "AST":"0.5",
+        "FG%":"46.0",
+        "FT%":"71.9",
+        "PER":"11.1",
+        "WS":"3.8",
+        "FG3%":"30.0",
+        "eFG%":"52.6"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/laytomo01.html",
+        "Nome":"Mo Layton",
+        "Position":[
+            "Point Guard",
+            "Shooting Guard"
+        ],
+        "Born":"December 24 , 1948",
+        "College":[
+            "Phoenix College",
+            "USC"
+        ],
+        "High School":"Weequahic",
+        "Draft Team":"Phoenix Suns",
+        "Draft Year":"1971",
+        "Debut":"1971",
+        "Experience":"5",
+        "Altezza":"185cm",
+        "Peso":"81kg",
+        "G":"267",
+        "PTS":"6.9",
+        "TRB":"1.3",
+        "AST":"2.6",
+        "FG%":"44.8",
+        "FT%":"74.9",
+        "PER":"11.8",
+        "WS":"4.4",
+        "FG3%":"-",
+        "eFG%":"44.8"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leverca01.html",
+        "Nome":"Caris LeVert",
+        "Position":[
+            "Shooting Guard",
+            "Small Forward"
+        ],
+        "Born":"August 25 , 1994",
+        "College":[
+            "Michigan"
+        ],
+        "High School":"Central",
+        "Draft Team":"Indiana Pacers",
+        "Draft Year":"2016",
+        "Debut":"2016",
+        "Experience":"9",
+        "Altezza":"201cm",
+        "Peso":"92kg",
+        "G":"584",
+        "PTS":"13.2",
+        "TRB":"3.6",
+        "AST":"3.9",
+        "FG%":"43.6",
+        "FT%":"73.3",
+        "PER":"14.4",
+        "WS":"25.4",
+        "FG3%":"34.4",
+        "eFG%":"50.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leaftj01.html",
+        "Nome":"T.J. Leaf",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"April 30 , 1997",
+        "College":[
+            "UCLA"
+        ],
+        "High School":"Foothills Christian",
+        "Draft Team":"Indiana Pacers",
+        "Draft Year":"2017",
+        "Debut":"2017",
+        "Experience":"4",
+        "Altezza":"208cm",
+        "Peso":"100kg",
+        "G":"146",
+        "PTS":"3.3",
+        "TRB":"1.9",
+        "AST":"0.3",
+        "FG%":"49.2",
+        "FT%":"58.5",
+        "PER":"13.7",
+        "WS":"2.7",
+        "FG3%":"34.1",
+        "eFG%":"52.9"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leaksma01.html",
+        "Nome":"Manny Leaks",
+        "Position":[
+            "Center"
+        ],
+        "Born":"November 27 , 1945",
+        "College":[
+            "Niagara University"
+        ],
+        "High School":"East",
+        "Draft Team":"Detroit Pistons",
+        "Draft Year":"1968",
+        "Debut":"1972",
+        "Experience":"6",
+        "Altezza":"203cm",
+        "Peso":"102kg",
+        "G":"446",
+        "PTS":"11.9",
+        "TRB":"9.0",
+        "AST":"1.1",
+        "FG%":"44.0",
+        "FT%":"70.7",
+        "PER":"15.0",
+        "WS":"14.4",
+        "FG3%":"0.0",
+        "eFG%":"44.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/learha01.html",
+        "Nome":"Hal Lear",
+        "Position":[
+            "Guard"
+        ],
+        "Born":"January 31 , 1935",
+        "College":[
+            "Temple"
+        ],
+        "High School":"Overbrook",
+        "Draft Team":"Philadelphia Warriors",
+        "Draft Year":"1956",
+        "Debut":"1956",
+        "Experience":"1",
+        "Altezza":"183cm",
+        "Peso":"73kg",
+        "G":"3",
+        "PTS":"1.3",
+        "TRB":"0.3",
+        "AST":"0.3",
+        "FG%":"33.3",
+        "FT%":"-",
+        "PER":"1.1",
+        "WS":"0.0",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leaveal01.html",
+        "Nome":"Allen Leavell",
+        "Position":[
+            "Point Guard",
+            "Shooting Guard"
+        ],
+        "Born":"May 27 , 1957",
+        "College":[
+            "Oklahoma City University"
+        ],
+        "High School":"Muncie Central",
+        "Draft Team":"Houston Rockets",
+        "Draft Year":"1979",
+        "Debut":"1979",
+        "Experience":"10",
+        "Altezza":"185cm",
+        "Peso":"77kg",
+        "G":"700",
+        "PTS":"9.5",
+        "TRB":"1.7",
+        "AST":"4.8",
+        "FG%":"45.0",
+        "FT%":"83.4",
+        "PER":"14.7",
+        "WS":"29.9",
+        "FG3%":"23.4",
+        "eFG%":"46.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leboje01.html",
+        "Nome":"Jeff Lebo",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"October 5 , 1966",
+        "College":[
+            "UNC"
+        ],
+        "High School":"Carlisle",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1989",
+        "Experience":"1",
+        "Altezza":"188cm",
+        "Peso":"81kg",
+        "G":"4",
+        "PTS":"1.5",
+        "TRB":"1.0",
+        "AST":"0.8",
+        "FG%":"28.6",
+        "FT%":"100.0",
+        "PER":"5.8",
+        "WS":"0.0",
+        "FG3%":"-",
+        "eFG%":"28.6"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leckner01.html",
+        "Nome":"Eric Leckner",
+        "Position":[
+            "Center"
+        ],
+        "Born":"May 27 , 1966",
+        "College":[
+            "Wyoming"
+        ],
+        "High School":"Mira Costa",
+        "Draft Team":"Utah Jazz",
+        "Draft Year":"1988",
+        "Debut":"1988",
+        "Experience":"8",
+        "Altezza":"211cm",
+        "Peso":"120kg",
+        "G":"449",
+        "PTS":"4.1",
+        "TRB":"3.2",
+        "AST":"0.5",
+        "FG%":"50.8",
+        "FT%":"66.9",
+        "PER":"9.8",
+        "WS":"6.2",
+        "FG3%":"0.0",
+        "eFG%":"50.8"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lecquja01.html",
+        "Nome":"Jalen Lecque",
+        "Position":[
+            "Point Guard",
+            "Shooting Guard"
+        ],
+        "Born":"June 13 , 2000",
+        "College":null,
+        "High School":"Brewster Academy",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2020",
+        "Experience":"2",
+        "Altezza":"193cm",
+        "Peso":"83kg",
+        "G":"9",
+        "PTS":"1.7",
+        "TRB":"0.8",
+        "AST":"0.4",
+        "FG%":"26.3",
+        "FT%":"100.0",
+        "PER":"3.2",
+        "WS":"-0.1",
+        "FG3%":"0.0",
+        "eFG%":"26.3"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/ledori01.html",
+        "Nome":"Ricky Ledo",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"September 10 , 1992",
+        "College":null,
+        "High School":"South Kent School",
+        "Draft Team":"Milwaukee Bucks",
+        "Draft Year":"2013",
+        "Debut":"2013",
+        "Experience":"2",
+        "Altezza":"201cm",
+        "Peso":"88kg",
+        "G":"28",
+        "PTS":"3.9",
+        "TRB":"1.4",
+        "AST":"0.8",
+        "FG%":"33.6",
+        "FT%":"76.9",
+        "PER":"7.0",
+        "WS":"-0.6",
+        "FG3%":"37.1",
+        "eFG%":"39.4"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leebu01.html",
+        "Nome":"Butch Lee",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"December 5 , 1956",
+        "College":[
+            "Marquette"
+        ],
+        "High School":"DeWitt Clinton",
+        "Draft Team":"Atlanta Hawks",
+        "Draft Year":"1978",
+        "Debut":"1978",
+        "Experience":"2",
+        "Altezza":"183cm",
+        "Peso":"83kg",
+        "G":"96",
+        "PTS":"8.1",
+        "TRB":"1.4",
+        "AST":"3.2",
+        "FG%":"45.0",
+        "FT%":"76.1",
+        "PER":"13.5",
+        "WS":"2.4",
+        "FG3%":"-",
+        "eFG%":"45.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leecl01.html",
+        "Nome":"Clyde Lee",
+        "Position":[
+            "Center",
+            "Power Forward"
+        ],
+        "Born":"March 14 , 1944",
+        "College":[
+            "Vanderbilt"
+        ],
+        "High School":"David Lipscomb",
+        "Draft Team":"San Francisco Warriors",
+        "Draft Year":"1966",
+        "Debut":"1966",
+        "Experience":"10",
+        "Altezza":"208cm",
+        "Peso":"92kg",
+        "G":"742",
+        "PTS":"7.7",
+        "TRB":"10.3",
+        "AST":"1.1",
+        "FG%":"43.2",
+        "FT%":"61.4",
+        "PER":"11.9",
+        "WS":"33.5",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leeco01.html",
+        "Nome":"Courtney Lee",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"October 3 , 1985",
+        "College":[
+            "Western Kentucky"
+        ],
+        "High School":"Pike",
+        "Draft Team":"Orlando Magic",
+        "Draft Year":"2008",
+        "Debut":"2008",
+        "Experience":"12",
+        "Altezza":"196cm",
+        "Peso":"97kg",
+        "G":"811",
+        "PTS":"9.6",
+        "TRB":"2.6",
+        "AST":"1.7",
+        "FG%":"45.1",
+        "FT%":"85.3",
+        "PER":"12.2",
+        "WS":"39.3",
+        "FG3%":"38.8",
+        "eFG%":"51.8"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leeda03.html",
+        "Nome":"Damion Lee",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"October 21 , 1992",
+        "College":[
+            "Drexel",
+            "Louisville"
+        ],
+        "High School":"St. Thomas More School",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2018",
+        "Experience":"7",
+        "Altezza":"198cm",
+        "Peso":"95kg",
+        "G":"315",
+        "PTS":"7.8",
+        "TRB":"3.2",
+        "AST":"1.3",
+        "FG%":"43.3",
+        "FT%":"88.1",
+        "PER":"11.6",
+        "WS":"10.6",
+        "FG3%":"37.4",
+        "eFG%":"53.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leeda01.html",
+        "Nome":"Dave Lee",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"March 31 , 1942",
+        "College":[
+            "San Francisco"
+        ],
+        "High School":"Modesto",
+        "Draft Team":"San Francisco Warriors",
+        "Draft Year":"1964",
+        "Debut":null,
+        "Experience":"2",
+        "Altezza":"201cm",
+        "Peso":"102kg",
+        "G":"58",
+        "PTS":"6.4",
+        "TRB":"3.2",
+        "AST":"0.3",
+        "FG%":"44.2",
+        "FT%":"85.7",
+        "PER":"17.3",
+        "WS":"1.9",
+        "FG3%":"33.3",
+        "eFG%":"44.6"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leeda02.html",
+        "Nome":"David Lee",
+        "Position":[
+            "Power Forward",
+            "Center",
+            "Small Forward"
+        ],
+        "Born":"April 29 , 1983",
+        "College":[
+            "Florida"
+        ],
+        "High School":"Chaminade College Prep",
+        "Draft Team":"New York Knicks",
+        "Draft Year":"2005",
+        "Debut":"2005",
+        "Experience":"12",
+        "Altezza":"206cm",
+        "Peso":"111kg",
+        "G":"829",
+        "PTS":"13.5",
+        "TRB":"8.8",
+        "AST":"2.2",
+        "FG%":"53.5",
+        "FT%":"77.2",
+        "PER":"19.1",
+        "WS":"76.0",
+        "FG3%":"3.4",
+        "eFG%":"53.6"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leedi01.html",
+        "Nome":"Dick Lee",
+        "Position":[
+            "Forward"
+        ],
+        "Born":null,
+        "College":[
+            "Washington"
+        ],
+        "High School":"Ballard",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":null,
+        "Peso":null,
+        "G":"2",
+        "PTS":"0.0",
+        "TRB":"0.5",
+        "AST":"0.5",
+        "FG%":"-",
+        "FT%":"-",
+        "PER":"30.7",
+        "WS":"0.0",
+        "FG3%":"-",
+        "eFG%":"-"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leedo01.html",
+        "Nome":"Doug Lee",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"October 24 , 1964",
+        "College":[
+            "Texas A&M",
+            "Purdue"
+        ],
+        "High School":"Washington",
+        "Draft Team":"Houston Rockets",
+        "Draft Year":"1987",
+        "Debut":"1991",
+        "Experience":"3",
+        "Altezza":"196cm",
+        "Peso":"90kg",
+        "G":"73",
+        "PTS":"2.3",
+        "TRB":"0.6",
+        "AST":"0.4",
+        "FG%":"41.2",
+        "FT%":"70.0",
+        "PER":"11.0",
+        "WS":"0.7",
+        "FG3%":"31.0",
+        "eFG%":"47.3"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leege01.html",
+        "Nome":"George Lee",
+        "Position":[
+            "Small Forward",
+            "Shooting Guard"
+        ],
+        "Born":"November 23 , 1936",
+        "College":[
+            "Michigan"
+        ],
+        "High School":"Highland Park",
+        "Draft Team":"Detroit Pistons",
+        "Draft Year":"1959",
+        "Debut":"1960",
+        "Experience":"7",
+        "Altezza":"193cm",
+        "Peso":"90kg",
+        "G":"297",
+        "PTS":"7.5",
+        "TRB":"4.2",
+        "AST":"0.9",
+        "FG%":"37.9",
+        "FT%":"73.4",
+        "PER":"12.1",
+        "WS":"6.6",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leegr01.html",
+        "Nome":"Greg Lee",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"December 12 , 1951",
+        "College":[
+            "UCLA"
+        ],
+        "High School":"Reseda",
+        "Draft Team":"Atlanta Hawks",
+        "Draft Year":"1974",
+        "Debut":"1975",
+        "Experience":"2",
+        "Altezza":"190cm",
+        "Peso":"86kg",
+        "G":"10",
+        "PTS":"2.4",
+        "TRB":"0.5",
+        "AST":"2.4",
+        "FG%":"52.6",
+        "FT%":"100.0",
+        "PER":"11.9",
+        "WS":"0.1",
+        "FG3%":"-",
+        "eFG%":"52.6"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leeke01.html",
+        "Nome":"Keith Lee",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"December 28 , 1962",
+        "College":[
+            "Memphis"
+        ],
+        "High School":"West Memphis",
+        "Draft Team":"Chicago Bulls",
+        "Draft Year":"1985",
+        "Debut":"1985",
+        "Experience":"3",
+        "Altezza":"208cm",
+        "Peso":"97kg",
+        "G":"182",
+        "PTS":"6.1",
+        "TRB":"4.7",
+        "AST":"1.0",
+        "FG%":"45.1",
+        "FT%":"74.6",
+        "PER":"12.2",
+        "WS":"3.7",
+        "FG3%":"16.7",
+        "eFG%":"45.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leeku01.html",
+        "Nome":"Kurk Lee",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"June 3 , 1967",
+        "College":[
+            "Western Kentucky",
+            "Towson University"
+        ],
+        "High School":"Paul Laurence Dunbar",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1990",
+        "Experience":"1",
+        "Altezza":"190cm",
+        "Peso":"86kg",
+        "G":"48",
+        "PTS":"1.4",
+        "TRB":"0.6",
+        "AST":"0.7",
+        "FG%":"26.8",
+        "FT%":"89.3",
+        "PER":"5.6",
+        "WS":"-0.1",
+        "FG3%":"20.0",
+        "eFG%":"28.9"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leema01.html",
+        "Nome":"Malcolm Lee",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"May 22 , 1990",
+        "College":[
+            "UCLA"
+        ],
+        "High School":"North",
+        "Draft Team":"Chicago Bulls",
+        "Draft Year":"2011",
+        "Debut":"2012",
+        "Experience":"3",
+        "Altezza":"196cm",
+        "Peso":"90kg",
+        "G":"36",
+        "PTS":"3.9",
+        "TRB":"1.8",
+        "AST":"1.4",
+        "FG%":"38.2",
+        "FT%":"70.3",
+        "PER":"9.5",
+        "WS":"0.4",
+        "FG3%":"29.4",
+        "eFG%":"41.9"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leero02.html",
+        "Nome":"Rock Lee",
+        "Position":[
+            "Center"
+        ],
+        "Born":"May 1 , 1955",
+        "College":[
+            "California",
+            "San Diego State"
+        ],
+        "High School":"Madison",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1982",
+        "Experience":"1",
+        "Altezza":"208cm",
+        "Peso":"99kg",
+        "G":"2",
+        "PTS":"1.0",
+        "TRB":"0.5",
+        "AST":"1.0",
+        "FG%":"50.0",
+        "FT%":"0.0",
+        "PER":"1.0",
+        "WS":"0.0",
+        "FG3%":"-",
+        "eFG%":"50.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leero01.html",
+        "Nome":"Ron Lee",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"November 2 , 1952",
+        "College":[
+            "Oregon"
+        ],
+        "High School":"Lexington",
+        "Draft Team":"Phoenix Suns",
+        "Draft Year":"1976",
+        "Debut":"1976",
+        "Experience":"6",
+        "Altezza":"193cm",
+        "Peso":"87kg",
+        "G":"448",
+        "PTS":"7.3",
+        "TRB":"2.7",
+        "AST":"3.8",
+        "FG%":"41.6",
+        "FT%":"70.5",
+        "PER":"12.4",
+        "WS":"10.7",
+        "FG3%":"32.1",
+        "eFG%":"42.3"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leeru01.html",
+        "Nome":"Russ Lee",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"January 27 , 1950",
+        "College":[
+            "Marshall"
+        ],
+        "High School":"Hyde Park",
+        "Draft Team":"Milwaukee Bucks",
+        "Draft Year":"1972",
+        "Debut":"1972",
+        "Experience":"3",
+        "Altezza":"196cm",
+        "Peso":"83kg",
+        "G":"97",
+        "PTS":"2.9",
+        "TRB":"1.2",
+        "AST":"0.7",
+        "FG%":"39.1",
+        "FT%":"68.5",
+        "PER":"14.0",
+        "WS":"0.5",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leesa01.html",
+        "Nome":"Saben Lee",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"June 23 , 1999",
+        "College":[
+            "Vanderbilt"
+        ],
+        "High School":"Corona del Sol",
+        "Draft Team":"Utah Jazz",
+        "Draft Year":"2020",
+        "Debut":"2021",
+        "Experience":"4",
+        "Altezza":"188cm",
+        "Peso":"83kg",
+        "G":"134",
+        "PTS":"5.2",
+        "TRB":"1.9",
+        "AST":"2.8",
+        "FG%":"42.1",
+        "FT%":"73.4",
+        "PER":"13.7",
+        "WS":"3.5",
+        "FG3%":"27.1",
+        "eFG%":"45.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leedeed01.html",
+        "Nome":"Ed Leede",
+        "Position":[
+            "Forward\/Guard"
+        ],
+        "Born":"July 17 , 1927",
+        "College":[
+            "Dartmouth College"
+        ],
+        "High School":"Bayside",
+        "Draft Team":"Providence Steamrollers",
+        "Draft Year":"1949",
+        "Debut":"1949",
+        "Experience":"2",
+        "Altezza":"190cm",
+        "Peso":"83kg",
+        "G":"121",
+        "PTS":"7.8",
+        "TRB":"2.1",
+        "AST":"1.9",
+        "FG%":"33.4",
+        "FT%":"71.9",
+        "PER":"-",
+        "WS":"5.8",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lefkoha01.html",
+        "Nome":"Hank Lefkowitz",
+        "Position":[
+            "Forward"
+        ],
+        "Born":"August 31 , 1923",
+        "College":[
+            "Case Western Reserve University"
+        ],
+        "High School":"Cleveland Heights",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":"188cm",
+        "Peso":"86kg",
+        "G":"24",
+        "PTS":"2.1",
+        "TRB":"-",
+        "AST":"0.2",
+        "FG%":"19.3",
+        "FT%":"53.8",
+        "PER":"-",
+        "WS":"-0.8",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/legleti01.html",
+        "Nome":"Tim Legler",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"December 26 , 1966",
+        "College":[
+            "La Salle"
+        ],
+        "High School":"John Randolph Tucker",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1990",
+        "Experience":"10",
+        "Altezza":"193cm",
+        "Peso":"90kg",
+        "G":"310",
+        "PTS":"7.0",
+        "TRB":"1.6",
+        "AST":"1.3",
+        "FG%":"44.7",
+        "FT%":"84.0",
+        "PER":"13.6",
+        "WS":"12.1",
+        "FG3%":"43.1",
+        "eFG%":"52.3"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lehmage01.html",
+        "Nome":"George Lehmann",
+        "Position":[
+            "Point Guard",
+            "Shooting Guard"
+        ],
+        "Born":"May 1 , 1941",
+        "College":[
+            "Campbell"
+        ],
+        "High School":null,
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1967",
+        "Experience":"7",
+        "Altezza":"183cm",
+        "Peso":"81kg",
+        "G":"376",
+        "PTS":"11.9",
+        "TRB":"1.6",
+        "AST":"4.5",
+        "FG%":"41.8",
+        "FT%":"84.1",
+        "PER":"12.8",
+        "WS":"18.6",
+        "FG3%":"36.5",
+        "eFG%":"47.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leiboba01.html",
+        "Nome":"Barry Leibowitz",
+        "Position":[
+            "Point Guard",
+            "Shooting Guard"
+        ],
+        "Born":"September 10 , 1945",
+        "College":[
+            "Long Island University"
+        ],
+        "High School":"DeWitt Clinton",
+        "Draft Team":"New York Knicks",
+        "Draft Year":"1967",
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":"188cm",
+        "Peso":"81kg",
+        "G":"82",
+        "PTS":"10.9",
+        "TRB":"2.1",
+        "AST":"3.7",
+        "FG%":"36.7",
+        "FT%":"80.5",
+        "PER":"9.5",
+        "WS":"1.5",
+        "FG3%":"15.4",
+        "eFG%":"37.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lemonwa01.html",
+        "Nome":"Walt Lemon Jr.",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"July 26 , 1992",
+        "College":[
+            "Bradley"
+        ],
+        "High School":"Julian",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2018",
+        "Experience":"2",
+        "Altezza":"190cm",
+        "Peso":"81kg",
+        "G":"11",
+        "PTS":"9.4",
+        "TRB":"2.6",
+        "AST":"3.2",
+        "FG%":"43.7",
+        "FT%":"71.4",
+        "PER":"14.7",
+        "WS":"0.0",
+        "FG3%":"50.0",
+        "eFG%":"45.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lenal01.html",
+        "Nome":"Alex Len",
+        "Position":[
+            "Center"
+        ],
+        "Born":"June 16 , 1993",
+        "College":[
+            "Maryland"
+        ],
+        "High School":null,
+        "Draft Team":"Phoenix Suns",
+        "Draft Year":"2013",
+        "Debut":"2013",
+        "Experience":"12",
+        "Altezza":"213cm",
+        "Peso":"113kg",
+        "G":"690",
+        "PTS":"6.7",
+        "TRB":"5.3",
+        "AST":"0.9",
+        "FG%":"51.0",
+        "FT%":"67.8",
+        "PER":"15.0",
+        "WS":"23.9",
+        "FG3%":"32.2",
+        "eFG%":"52.6"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lenarvo01.html",
+        "Nome":"Voshon Lenard",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"May 14 , 1973",
+        "College":[
+            "Minnesota"
+        ],
+        "High School":"Southwestern",
+        "Draft Team":"Milwaukee Bucks",
+        "Draft Year":"1994",
+        "Debut":"1996",
+        "Experience":"11",
+        "Altezza":"193cm",
+        "Peso":"92kg",
+        "G":"565",
+        "PTS":"11.9",
+        "TRB":"2.8",
+        "AST":"2.1",
+        "FG%":"41.5",
+        "FT%":"78.7",
+        "PER":"13.8",
+        "WS":"29.6",
+        "FG3%":"38.4",
+        "eFG%":"49.4"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lentzle01.html",
+        "Nome":"Leary Lentz",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"February 23 , 1945",
+        "College":[
+            "Houston"
+        ],
+        "High School":"Cahokia",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":null,
+        "Experience":"2",
+        "Altezza":"198cm",
+        "Peso":"90kg",
+        "G":"148",
+        "PTS":"8.0",
+        "TRB":"6.2",
+        "AST":"0.8",
+        "FG%":"40.5",
+        "FT%":"66.0",
+        "PER":"12.0",
+        "WS":"3.4",
+        "FG3%":"0.0",
+        "eFG%":"40.5"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leonaga01.html",
+        "Nome":"Gary Leonard",
+        "Position":[
+            "Center"
+        ],
+        "Born":"February 16 , 1967",
+        "College":[
+            "Missouri"
+        ],
+        "High School":"Belleville East",
+        "Draft Team":"Minnesota Timberwolves",
+        "Draft Year":"1989",
+        "Debut":"1989",
+        "Experience":"3",
+        "Altezza":"216cm",
+        "Peso":"113kg",
+        "G":"31",
+        "PTS":"1.4",
+        "TRB":"1.1",
+        "AST":"0.1",
+        "FG%":"45.9",
+        "FT%":"50.0",
+        "PER":"8.6",
+        "WS":"0.1",
+        "FG3%":"0.0",
+        "eFG%":"45.9"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leonaka01.html",
+        "Nome":"Kawhi Leonard",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"June 29 , 1991",
+        "College":[
+            "San Diego State"
+        ],
+        "High School":"King",
+        "Draft Team":"Indiana Pacers",
+        "Draft Year":"2011",
+        "Debut":"2011",
+        "Experience":"13",
+        "Altezza":"198cm",
+        "Peso":"102kg",
+        "G":"798",
+        "PTS":"20.7",
+        "TRB":"6.4",
+        "AST":"3.1",
+        "FG%":"49.9",
+        "FT%":"86.3",
+        "PER":"23.6",
+        "WS":"111.9",
+        "FG3%":"39.1",
+        "eFG%":"55.6"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leoname01.html",
+        "Nome":"Meyers Leonard",
+        "Position":[
+            "Center",
+            "Power Forward"
+        ],
+        "Born":"February 27 , 1992",
+        "College":[
+            "Illinois"
+        ],
+        "High School":"Robinson",
+        "Draft Team":"Portland Trail Blazers",
+        "Draft Year":"2012",
+        "Debut":"2012",
+        "Experience":"10",
+        "Altezza":"213cm",
+        "Peso":"117kg",
+        "G":"456",
+        "PTS":"5.6",
+        "TRB":"3.9",
+        "AST":"0.9",
+        "FG%":"48.2",
+        "FT%":"81.2",
+        "PER":"12.0",
+        "WS":"15.8",
+        "FG3%":"39.0",
+        "eFG%":"56.5"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leonasl01.html",
+        "Nome":"Slick Leonard",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"July 17 , 1932",
+        "College":[
+            "Indiana"
+        ],
+        "High School":"Gerstmeyer",
+        "Draft Team":"Baltimore Bullets",
+        "Draft Year":"1954",
+        "Debut":"1956",
+        "Experience":"7",
+        "Altezza":"190cm",
+        "Peso":"83kg",
+        "G":"426",
+        "PTS":"9.9",
+        "TRB":"2.9",
+        "AST":"3.3",
+        "FG%":"34.9",
+        "FT%":"74.5",
+        "PER":"10.3",
+        "WS":"3.8",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leonsma01.html",
+        "Nome":"Malevy Leons",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"September 23 , 1999",
+        "College":[
+            "Mineral Area College",
+            "Bradley"
+        ],
+        "High School":null,
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2024",
+        "Experience":"1",
+        "Altezza":"206cm",
+        "Peso":"95kg",
+        "G":"31",
+        "PTS":"2.7",
+        "TRB":"1.8",
+        "AST":"0.8",
+        "FG%":"43.2",
+        "FT%":"73.9",
+        "PER":"11.1",
+        "WS":"0.5",
+        "FG3%":"23.5",
+        "eFG%":"45.9"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lesji01.html",
+        "Nome":"Jim Les",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"August 18 , 1963",
+        "College":[
+            "Cleveland State University",
+            "Bradley"
+        ],
+        "High School":"Notre Dame Prep",
+        "Draft Team":"Atlanta Hawks",
+        "Draft Year":"1986",
+        "Debut":"1988",
+        "Experience":"7",
+        "Altezza":"180cm",
+        "Peso":"74kg",
+        "G":"321",
+        "PTS":"3.8",
+        "TRB":"1.2",
+        "AST":"2.9",
+        "FG%":"39.7",
+        "FT%":"81.8",
+        "PER":"12.4",
+        "WS":"8.1",
+        "FG3%":"39.6",
+        "eFG%":"50.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leslitr01.html",
+        "Nome":"Travis Leslie",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"March 29 , 1990",
+        "College":[
+            "Georgia"
+        ],
+        "High School":"Columbia",
+        "Draft Team":"Los Angeles Clippers",
+        "Draft Year":"2011",
+        "Debut":"2011",
+        "Experience":"1",
+        "Altezza":"193cm",
+        "Peso":"92kg",
+        "G":"10",
+        "PTS":"1.4",
+        "TRB":"0.9",
+        "AST":"0.5",
+        "FG%":"35.7",
+        "FT%":"44.4",
+        "PER":"14.6",
+        "WS":"0.1",
+        "FG3%":"-",
+        "eFG%":"35.7"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lestero01.html",
+        "Nome":"Ronnie Lester",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"January 1 , 1959",
+        "College":[
+            "Iowa"
+        ],
+        "High School":"Dunbar",
+        "Draft Team":"Portland Trail Blazers",
+        "Draft Year":"1980",
+        "Debut":"1980",
+        "Experience":"6",
+        "Altezza":"188cm",
+        "Peso":"79kg",
+        "G":"250",
+        "PTS":"7.3",
+        "TRB":"1.9",
+        "AST":"4.0",
+        "FG%":"46.9",
+        "FT%":"78.8",
+        "PER":"13.0",
+        "WS":"6.3",
+        "FG3%":"22.7",
+        "eFG%":"47.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lettcl01.html",
+        "Nome":"Clifford Lett",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"December 23 , 1965",
+        "College":[
+            "Florida"
+        ],
+        "High School":"Pensacola",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1990",
+        "Experience":"2",
+        "Altezza":"190cm",
+        "Peso":"77kg",
+        "G":"11",
+        "PTS":"3.5",
+        "TRB":"0.6",
+        "AST":"0.7",
+        "FG%":"43.2",
+        "FT%":"66.7",
+        "PER":"3.4",
+        "WS":"-0.1",
+        "FG3%":"0.0",
+        "eFG%":"43.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leuerjo01.html",
+        "Nome":"Jon Leuer",
+        "Position":[
+            "Power Forward",
+            "Center"
+        ],
+        "Born":"May 14 , 1989",
+        "College":[
+            "Wisconsin"
+        ],
+        "High School":"Orono",
+        "Draft Team":"Milwaukee Bucks",
+        "Draft Year":"2011",
+        "Debut":"2011",
+        "Experience":"8",
+        "Altezza":"208cm",
+        "Peso":"103kg",
+        "G":"377",
+        "PTS":"6.4",
+        "TRB":"3.8",
+        "AST":"0.8",
+        "FG%":"48.4",
+        "FT%":"76.7",
+        "PER":"14.5",
+        "WS":"13.2",
+        "FG3%":"32.8",
+        "eFG%":"51.5"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/levanan01.html",
+        "Nome":"Andrew Levane",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"April 11 , 1920",
+        "College":[
+            "St. John's"
+        ],
+        "High School":"James Madison",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":null,
+        "Experience":"3",
+        "Altezza":"188cm",
+        "Peso":"86kg",
+        "G":"103",
+        "PTS":"4.5",
+        "TRB":"1.3",
+        "AST":"2.0",
+        "FG%":"31.0",
+        "FT%":"63.3",
+        "PER":"-4.1",
+        "WS":"0.8",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/leverfa01.html",
+        "Nome":"Fat Lever",
+        "Position":[
+            "Point Guard",
+            "Shooting Guard"
+        ],
+        "Born":"August 18 , 1960",
+        "College":[
+            "Arizona State"
+        ],
+        "High School":"Pueblo",
+        "Draft Team":"Portland Trail Blazers",
+        "Draft Year":"1982",
+        "Debut":"1982",
+        "Experience":"11",
+        "Altezza":"190cm",
+        "Peso":"77kg",
+        "G":"752",
+        "PTS":"13.9",
+        "TRB":"6.0",
+        "AST":"6.2",
+        "FG%":"44.7",
+        "FT%":"77.1",
+        "PER":"17.8",
+        "WS":"61.2",
+        "FG3%":"31.0",
+        "eFG%":"45.5"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/levincl01.html",
+        "Nome":"Cliff Levingston",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"January 4 , 1961",
+        "College":[
+            "Wichita State"
+        ],
+        "High School":"Samuel F.B. Morse",
+        "Draft Team":"Detroit Pistons",
+        "Draft Year":"1982",
+        "Debut":"1982",
+        "Experience":"11",
+        "Altezza":"203cm",
+        "Peso":"95kg",
+        "G":"830",
+        "PTS":"7.1",
+        "TRB":"5.2",
+        "AST":"0.9",
+        "FG%":"51.6",
+        "FT%":"67.6",
+        "PER":"13.8",
+        "WS":"44.2",
+        "FG3%":"15.2",
+        "eFG%":"51.6"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lewisbo01.html",
+        "Nome":"Bobby Lewis",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"March 20 , 1945",
+        "College":[
+            "UNC"
+        ],
+        "High School":"St. John's College",
+        "Draft Team":"San Francisco Warriors",
+        "Draft Year":"1967",
+        "Debut":"1967",
+        "Experience":"4",
+        "Altezza":"190cm",
+        "Peso":"79kg",
+        "G":"255",
+        "PTS":"5.8",
+        "TRB":"2.1",
+        "AST":"2.2",
+        "FG%":"38.1",
+        "FT%":"71.2",
+        "PER":"9.7",
+        "WS":"1.1",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lewisce01.html",
+        "Nome":"Cedric Lewis",
+        "Position":[
+            "Center"
+        ],
+        "Born":"September 24 , 1969",
+        "College":[
+            "Maryland"
+        ],
+        "High School":"Archbishop Carroll",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1996",
+        "Experience":"1",
+        "Altezza":"208cm",
+        "Peso":"106kg",
+        "G":"3",
+        "PTS":"1.3",
+        "TRB":"0.7",
+        "AST":"0.0",
+        "FG%":"66.7",
+        "FT%":"-",
+        "PER":"62.7",
+        "WS":"0.1",
+        "FG3%":"-",
+        "eFG%":"66.7"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lewisfr01.html",
+        "Nome":"Freddie Lewis",
+        "Position":[
+            "Forward\/Guard"
+        ],
+        "Born":"January 6 , 1921",
+        "College":[
+            "Eastern Kentucky University"
+        ],
+        "High School":null,
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1948",
+        "Experience":"2",
+        "Altezza":"188cm",
+        "Peso":"88kg",
+        "G":"95",
+        "PTS":"8.4",
+        "TRB":"-",
+        "AST":"1.4",
+        "FG%":"31.2",
+        "FT%":"76.5",
+        "PER":"-",
+        "WS":"0.7",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lewisfr02.html",
+        "Nome":"Freddie Lewis",
+        "Position":[
+            "Point Guard",
+            "Shooting Guard"
+        ],
+        "Born":"July 1 , 1943",
+        "College":[
+            "Eastern Arizona College",
+            "Arizona State"
+        ],
+        "High School":"McKeesport",
+        "Draft Team":"Cincinnati Royals",
+        "Draft Year":"1966",
+        "Debut":"1966",
+        "Experience":"11",
+        "Altezza":"183cm",
+        "Peso":"79kg",
+        "G":"750",
+        "PTS":"16.0",
+        "TRB":"3.7",
+        "AST":"4.0",
+        "FG%":"43.2",
+        "FT%":"81.7",
+        "PER":"15.1",
+        "WS":"53.8",
+        "FG3%":"28.0",
+        "eFG%":"44.6"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lewisgr01.html",
+        "Nome":"Grady Lewis",
+        "Position":[
+            "Forward\/Center"
+        ],
+        "Born":"March 25 , 1917",
+        "College":[
+            "Oklahoma"
+        ],
+        "High School":"Eastview",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1946",
+        "Experience":"3",
+        "Altezza":"201cm",
+        "Peso":"97kg",
+        "G":"139",
+        "PTS":"5.4",
+        "TRB":"-",
+        "AST":"0.9",
+        "FG%":"25.2",
+        "FT%":"59.5",
+        "PER":"-",
+        "WS":"4.3",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lewiski01.html",
+        "Nome":"Kira Lewis Jr.",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"April 6 , 2001",
+        "College":[
+            "Alabama"
+        ],
+        "High School":"Hazel Green",
+        "Draft Team":"New Orleans Pelicans",
+        "Draft Year":"2020",
+        "Debut":"2020",
+        "Experience":"4",
+        "Altezza":"185cm",
+        "Peso":"77kg",
+        "G":"131",
+        "PTS":"5.2",
+        "TRB":"1.3",
+        "AST":"1.8",
+        "FG%":"39.7",
+        "FT%":"84.8",
+        "PER":"10.5",
+        "WS":"1.3",
+        "FG3%":"29.4",
+        "eFG%":"45.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lewisma01.html",
+        "Nome":"Martin Lewis",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"April 28 , 1975",
+        "College":[
+            "Butler County Community College",
+            "Seward County Community College"
+        ],
+        "High School":"Liberal",
+        "Draft Team":"Golden State Warriors",
+        "Draft Year":"1995",
+        "Debut":"1996",
+        "Experience":"2",
+        "Altezza":"196cm",
+        "Peso":"95kg",
+        "G":"25",
+        "PTS":"3.6",
+        "TRB":"1.4",
+        "AST":"0.3",
+        "FG%":"47.3",
+        "FT%":"59.3",
+        "PER":"11.2",
+        "WS":"0.1",
+        "FG3%":"30.0",
+        "eFG%":"49.3"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lewisma05.html",
+        "Nome":"Maxwell Lewis",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"July 27 , 2002",
+        "College":[
+            "Pepperdine"
+        ],
+        "High School":null,
+        "Draft Team":"Denver Nuggets",
+        "Draft Year":"2023",
+        "Debut":"2023",
+        "Experience":"2",
+        "Altezza":"201cm",
+        "Peso":"97kg",
+        "G":"62",
+        "PTS":"2.0",
+        "TRB":"1.0",
+        "AST":"0.4",
+        "FG%":"38.0",
+        "FT%":"69.2",
+        "PER":"6.6",
+        "WS":"-0.2",
+        "FG3%":"33.9",
+        "eFG%":"45.7"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lewismi01.html",
+        "Nome":"Mike Lewis",
+        "Position":[
+            "Center"
+        ],
+        "Born":"March 18 , 1946",
+        "College":[
+            "Duke"
+        ],
+        "High School":"Missoula",
+        "Draft Team":"Boston Celtics",
+        "Draft Year":"1968",
+        "Debut":null,
+        "Experience":"6",
+        "Altezza":"203cm",
+        "Peso":"102kg",
+        "G":"337",
+        "PTS":"12.1",
+        "TRB":"11.9",
+        "AST":"3.0",
+        "FG%":"49.8",
+        "FT%":"73.5",
+        "PER":"17.6",
+        "WS":"24.4",
+        "FG3%":"0.0",
+        "eFG%":"49.8"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lewisqu01.html",
+        "Nome":"Quincy Lewis",
+        "Position":[
+            "Small Forward",
+            "Shooting Guard"
+        ],
+        "Born":"June 26 , 1977",
+        "College":[
+            "Minnesota"
+        ],
+        "High School":"Parkview",
+        "Draft Team":"Utah Jazz",
+        "Draft Year":"1999",
+        "Debut":"1999",
+        "Experience":"4",
+        "Altezza":"201cm",
+        "Peso":"97kg",
+        "G":"159",
+        "PTS":"3.6",
+        "TRB":"1.3",
+        "AST":"0.6",
+        "FG%":"39.7",
+        "FT%":"71.0",
+        "PER":"6.7",
+        "WS":"0.8",
+        "FG3%":"33.3",
+        "eFG%":"42.9"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lewisra01.html",
+        "Nome":"Ralph Lewis",
+        "Position":[
+            "Small Forward",
+            "Shooting Guard"
+        ],
+        "Born":"March 28 , 1963",
+        "College":[
+            "La Salle"
+        ],
+        "High School":"Frankford",
+        "Draft Team":"Boston Celtics",
+        "Draft Year":"1985",
+        "Debut":"1987",
+        "Experience":"3",
+        "Altezza":"198cm",
+        "Peso":"90kg",
+        "G":"99",
+        "PTS":"2.3",
+        "TRB":"1.2",
+        "AST":"0.3",
+        "FG%":"41.4",
+        "FT%":"56.2",
+        "PER":"8.5",
+        "WS":"0.0",
+        "FG3%":"25.0",
+        "eFG%":"41.6"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lewisra02.html",
+        "Nome":"Rashard Lewis",
+        "Position":[
+            "Small Forward",
+            "Power Forward"
+        ],
+        "Born":"August 8 , 1979",
+        "College":null,
+        "High School":"Alief Elsik",
+        "Draft Team":"Seattle SuperSonics",
+        "Draft Year":"1998",
+        "Debut":"1999",
+        "Experience":"16",
+        "Altezza":"208cm",
+        "Peso":"97kg",
+        "G":"1049",
+        "PTS":"14.9",
+        "TRB":"5.2",
+        "AST":"1.7",
+        "FG%":"45.2",
+        "FT%":"80.5",
+        "PER":"16.8",
+        "WS":"90.9",
+        "FG3%":"38.6",
+        "eFG%":"52.4"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lewisre01.html",
+        "Nome":"Reggie Lewis",
+        "Position":[
+            "Shooting Guard",
+            "Small Forward"
+        ],
+        "Born":"November 21 , 1965",
+        "College":[
+            "Northeastern University"
+        ],
+        "High School":"Paul Laurence Dunbar",
+        "Draft Team":"Boston Celtics",
+        "Draft Year":"1987",
+        "Debut":"1987",
+        "Experience":"6",
+        "Altezza":"201cm",
+        "Peso":"88kg",
+        "G":"450",
+        "PTS":"17.6",
+        "TRB":"4.3",
+        "AST":"2.6",
+        "FG%":"48.8",
+        "FT%":"82.4",
+        "PER":"17.1",
+        "WS":"38.9",
+        "FG3%":"20.0",
+        "eFG%":"49.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lewissc01.html",
+        "Nome":"Scottie Lewis",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"March 12 , 2000",
+        "College":[
+            "Florida"
+        ],
+        "High School":"Ranney School",
+        "Draft Team":"Charlotte Hornets",
+        "Draft Year":"2021",
+        "Debut":"2021",
+        "Experience":"1",
+        "Altezza":"193cm",
+        "Peso":"85kg",
+        "G":"2",
+        "PTS":"0.5",
+        "TRB":"0.0",
+        "AST":"0.5",
+        "FG%":"-",
+        "FT%":"50.0",
+        "PER":"14.6",
+        "WS":"0.0",
+        "FG3%":"-",
+        "eFG%":"-"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/liberma01.html",
+        "Nome":"Marcus Liberty",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"October 27 , 1968",
+        "College":[
+            "Illinois"
+        ],
+        "High School":"Martin Luther King",
+        "Draft Team":"Denver Nuggets",
+        "Draft Year":"1990",
+        "Debut":"1990",
+        "Experience":"4",
+        "Altezza":"203cm",
+        "Peso":"92kg",
+        "G":"267",
+        "PTS":"7.3",
+        "TRB":"3.5",
+        "AST":"0.9",
+        "FG%":"41.7",
+        "FT%":"66.4",
+        "PER":"12.2",
+        "WS":"4.0",
+        "FG3%":"34.0",
+        "eFG%":"43.5"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lichtto01.html",
+        "Nome":"Todd Lichti",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"January 8 , 1967",
+        "College":[
+            "Stanford"
+        ],
+        "High School":"Mount Diablo",
+        "Draft Team":"Denver Nuggets",
+        "Draft Year":"1989",
+        "Debut":"1989",
+        "Experience":"5",
+        "Altezza":"193cm",
+        "Peso":"92kg",
+        "G":"237",
+        "PTS":"7.9",
+        "TRB":"2.1",
+        "AST":"1.4",
+        "FG%":"46.0",
+        "FT%":"78.9",
+        "PER":"12.2",
+        "WS":"5.6",
+        "FG3%":"24.4",
+        "eFG%":"46.6"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/liddeej01.html",
+        "Nome":"E.J. Liddell",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"December 18 , 2000",
+        "College":[
+            "Ohio State"
+        ],
+        "High School":"Belleville Township HS West",
+        "Draft Team":"New Orleans Pelicans",
+        "Draft Year":"2022",
+        "Debut":"2023",
+        "Experience":"2",
+        "Altezza":"198cm",
+        "Peso":"108kg",
+        "G":"46",
+        "PTS":"3.7",
+        "TRB":"1.8",
+        "AST":"0.6",
+        "FG%":"47.7",
+        "FT%":"83.3",
+        "PER":"12.0",
+        "WS":"0.6",
+        "FG3%":"31.3",
+        "eFG%":"55.7"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/liggide01.html",
+        "Nome":"DeAndre Liggins",
+        "Position":[
+            "Shooting Guard",
+            "Small Forward"
+        ],
+        "Born":"March 31 , 1988",
+        "College":[
+            "Kentucky"
+        ],
+        "High School":"Findlay Prep",
+        "Draft Team":"Orlando Magic",
+        "Draft Year":"2011",
+        "Debut":"2012",
+        "Experience":"5",
+        "Altezza":"198cm",
+        "Peso":"94kg",
+        "G":"177",
+        "PTS":"2.0",
+        "TRB":"1.4",
+        "AST":"0.7",
+        "FG%":"40.2",
+        "FT%":"54.9",
+        "PER":"7.3",
+        "WS":"1.6",
+        "FG3%":"35.2",
+        "eFG%":"46.9"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/ligonbi01.html",
+        "Nome":"Bill Ligon",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"May 29 , 1952",
+        "College":[
+            "Vanderbilt"
+        ],
+        "High School":"Gallatin Union",
+        "Draft Team":"Detroit Pistons",
+        "Draft Year":"1974",
+        "Debut":"1974",
+        "Experience":"1",
+        "Altezza":"193cm",
+        "Peso":"81kg",
+        "G":"38",
+        "PTS":"3.3",
+        "TRB":"0.7",
+        "AST":"0.7",
+        "FG%":"38.5",
+        "FT%":"64.0",
+        "PER":"11.8",
+        "WS":"-0.2",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/ligongo01.html",
+        "Nome":"Goose Ligon",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"February 22 , 1944",
+        "College":null,
+        "High School":"Kokomo",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":null,
+        "Experience":"7",
+        "Altezza":"201cm",
+        "Peso":"95kg",
+        "G":"434",
+        "PTS":"12.8",
+        "TRB":"10.9",
+        "AST":"2.1",
+        "FG%":"48.7",
+        "FT%":"64.3",
+        "PER":"15.9",
+        "WS":"36.1",
+        "FG3%":"12.5",
+        "eFG%":"48.8"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lillada01.html",
+        "Nome":"Damian Lillard",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"July 15 , 1990",
+        "College":[
+            "Weber State"
+        ],
+        "High School":"Oakland",
+        "Draft Team":"Portland Trail Blazers",
+        "Draft Year":"2012",
+        "Debut":"2012",
+        "Experience":"13",
+        "Altezza":"188cm",
+        "Peso":"90kg",
+        "G":"900",
+        "PTS":"25.1",
+        "TRB":"4.3",
+        "AST":"6.7",
+        "FG%":"43.9",
+        "FT%":"89.9",
+        "PER":"22.2",
+        "WS":"118.4",
+        "FG3%":"37.1",
+        "eFG%":"52.3"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/linje01.html",
+        "Nome":"Jeremy Lin",
+        "Position":[
+            "Point Guard",
+            "Shooting Guard"
+        ],
+        "Born":"August 23 , 1988",
+        "College":[
+            "Harvard University"
+        ],
+        "High School":"Palo Alto",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2010",
+        "Experience":"9",
+        "Altezza":"190cm",
+        "Peso":"90kg",
+        "G":"480",
+        "PTS":"11.6",
+        "TRB":"2.8",
+        "AST":"4.3",
+        "FG%":"43.3",
+        "FT%":"80.9",
+        "PER":"15.3",
+        "WS":"23.5",
+        "FG3%":"34.2",
+        "eFG%":"48.5"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lingest01.html",
+        "Nome":"Steve Lingenfelter",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"June 10 , 1958",
+        "College":[
+            "Minnesota",
+            "South Dakota State"
+        ],
+        "High School":"Thomas Jefferson",
+        "Draft Team":"Washington Bullets",
+        "Draft Year":"1981",
+        "Debut":"1982",
+        "Experience":"2",
+        "Altezza":"206cm",
+        "Peso":"102kg",
+        "G":"10",
+        "PTS":"1.0",
+        "TRB":"1.6",
+        "AST":"0.5",
+        "FG%":"71.4",
+        "FT%":"0.0",
+        "PER":"3.1",
+        "WS":"0.0",
+        "FG3%":"-",
+        "eFG%":"71.4"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/listeal01.html",
+        "Nome":"Alton Lister",
+        "Position":[
+            "Center",
+            "Power Forward"
+        ],
+        "Born":"October 1 , 1958",
+        "College":[
+            "Arizona State"
+        ],
+        "High School":"Woodrow Wilson",
+        "Draft Team":"Milwaukee Bucks",
+        "Draft Year":"1981",
+        "Debut":"1981",
+        "Experience":"16",
+        "Altezza":"213cm",
+        "Peso":"108kg",
+        "G":"953",
+        "PTS":"6.6",
+        "TRB":"6.3",
+        "AST":"1.0",
+        "FG%":"51.2",
+        "FT%":"59.7",
+        "PER":"12.9",
+        "WS":"36.6",
+        "FG3%":"11.1",
+        "eFG%":"51.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/littlna01.html",
+        "Nome":"Nassir Little",
+        "Position":[
+            "Small Forward",
+            "Power Forward"
+        ],
+        "Born":"February 11 , 2000",
+        "College":[
+            "UNC"
+        ],
+        "High School":"Orlando Christian Prep",
+        "Draft Team":"Portland Trail Blazers",
+        "Draft Year":"2019",
+        "Debut":"2019",
+        "Experience":"5",
+        "Altezza":"198cm",
+        "Peso":"99kg",
+        "G":"237",
+        "PTS":"5.5",
+        "TRB":"2.9",
+        "AST":"0.7",
+        "FG%":"45.2",
+        "FT%":"73.5",
+        "PER":"11.3",
+        "WS":"4.7",
+        "FG3%":"33.0",
+        "eFG%":"53.3"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/littlsa01.html",
+        "Nome":"Sammy Little",
+        "Position":[
+            "Guard"
+        ],
+        "Born":"March 29 , 1946",
+        "College":[
+            "Delta State University"
+        ],
+        "High School":"Montgomery County",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":"183cm",
+        "Peso":"81kg",
+        "G":"3",
+        "PTS":"1.7",
+        "TRB":"0.3",
+        "AST":"0.7",
+        "FG%":"50.0",
+        "FT%":"100.0",
+        "PER":"10.3",
+        "WS":"0.0",
+        "FG3%":"0.0",
+        "eFG%":"50.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/littlge01.html",
+        "Nome":"Gene Littles",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"June 29 , 1943",
+        "College":[
+            "High Point University"
+        ],
+        "High School":"McKinley",
+        "Draft Team":"New York Knicks",
+        "Draft Year":"1969",
+        "Debut":null,
+        "Experience":"6",
+        "Altezza":"183cm",
+        "Peso":"72kg",
+        "G":"450",
+        "PTS":"9.0",
+        "TRB":"3.3",
+        "AST":"3.0",
+        "FG%":"47.6",
+        "FT%":"73.8",
+        "PER":"13.4",
+        "WS":"23.4",
+        "FG3%":"24.0",
+        "eFG%":"48.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/livelde01.html",
+        "Nome":"Dereck Lively II",
+        "Position":[
+            "Center"
+        ],
+        "Born":"February 12 , 2004",
+        "College":[
+            "Duke"
+        ],
+        "High School":"Westtown School",
+        "Draft Team":"Oklahoma City Thunder",
+        "Draft Year":"2023",
+        "Debut":"2023",
+        "Experience":"2",
+        "Altezza":"216cm",
+        "Peso":"104kg",
+        "G":"98",
+        "PTS":"8.4",
+        "TRB":"7.0",
+        "AST":"1.6",
+        "FG%":"72.5",
+        "FT%":"57.9",
+        "PER":"18.7",
+        "WS":"8.7",
+        "FG3%":"0.0",
+        "eFG%":"72.5"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/liveris01.html",
+        "Nome":"Isaiah Livers",
+        "Position":[
+            "Power Forward",
+            "Small Forward"
+        ],
+        "Born":"July 28 , 1998",
+        "College":[
+            "Michigan"
+        ],
+        "High School":"Kalamazoo Central",
+        "Draft Team":"Detroit Pistons",
+        "Draft Year":"2021",
+        "Debut":"2021",
+        "Experience":"3",
+        "Altezza":"198cm",
+        "Peso":"105kg",
+        "G":"130",
+        "PTS":"5.0",
+        "TRB":"2.4",
+        "AST":"0.8",
+        "FG%":"40.0",
+        "FT%":"78.3",
+        "PER":"8.1",
+        "WS":"2.0",
+        "FG3%":"35.2",
+        "eFG%":"52.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/livinch01.html",
+        "Nome":"Chris Livingston",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"October 15 , 2003",
+        "College":[
+            "Kentucky"
+        ],
+        "High School":null,
+        "Draft Team":"Milwaukee Bucks",
+        "Draft Year":"2023",
+        "Debut":"2023",
+        "Experience":"2",
+        "Altezza":"198cm",
+        "Peso":"99kg",
+        "G":"45",
+        "PTS":"1.4",
+        "TRB":"1.3",
+        "AST":"0.2",
+        "FG%":"42.9",
+        "FT%":"76.2",
+        "PER":"9.0",
+        "WS":"0.2",
+        "FG3%":"6.3",
+        "eFG%":"43.8"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/livinra01.html",
+        "Nome":"Randy Livingston",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"April 2 , 1975",
+        "College":[
+            "LSU"
+        ],
+        "High School":"Isidore Newman School",
+        "Draft Team":"Houston Rockets",
+        "Draft Year":"1996",
+        "Debut":"1996",
+        "Experience":"11",
+        "Altezza":"193cm",
+        "Peso":"94kg",
+        "G":"203",
+        "PTS":"3.8",
+        "TRB":"1.4",
+        "AST":"2.0",
+        "FG%":"40.6",
+        "FT%":"77.1",
+        "PER":"10.0",
+        "WS":"2.3",
+        "FG3%":"35.1",
+        "eFG%":"42.9"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/livinsh01.html",
+        "Nome":"Shaun Livingston",
+        "Position":[
+            "Point Guard",
+            "Shooting Guard"
+        ],
+        "Born":"September 11 , 1985",
+        "College":null,
+        "High School":"Peoria Central",
+        "Draft Team":"Los Angeles Clippers",
+        "Draft Year":"2004",
+        "Debut":"2004",
+        "Experience":"14",
+        "Altezza":"201cm",
+        "Peso":"87kg",
+        "G":"833",
+        "PTS":"6.3",
+        "TRB":"2.4",
+        "AST":"3.0",
+        "FG%":"48.6",
+        "FT%":"79.4",
+        "PER":"12.5",
+        "WS":"29.9",
+        "FG3%":"17.8",
+        "eFG%":"48.8"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/livinro01.html",
+        "Nome":"Ron Livingstone",
+        "Position":[
+            "Center"
+        ],
+        "Born":"October 9 , 1925",
+        "College":[
+            "Saint Mary's",
+            "Wyoming"
+        ],
+        "High School":null,
+        "Draft Team":"New York Knicks",
+        "Draft Year":"1949",
+        "Debut":"1949",
+        "Experience":"2",
+        "Altezza":"208cm",
+        "Peso":"99kg",
+        "G":"117",
+        "PTS":"6.3",
+        "TRB":"4.7",
+        "AST":"1.9",
+        "FG%":"28.6",
+        "FT%":"69.2",
+        "PER":"-",
+        "WS":"2.4",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/llamaho01.html",
+        "Nome":"Horacio Llamas",
+        "Position":[
+            "Center"
+        ],
+        "Born":"July 17 , 1973",
+        "College":[
+            "Grand Canyon University"
+        ],
+        "High School":null,
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1997",
+        "Experience":"2",
+        "Altezza":"211cm",
+        "Peso":"129kg",
+        "G":"28",
+        "PTS":"2.1",
+        "TRB":"1.3",
+        "AST":"0.2",
+        "FG%":"46.9",
+        "FT%":"61.1",
+        "PER":"10.0",
+        "WS":"0.0",
+        "FG3%":"33.3",
+        "eFG%":"48.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lloydbo01.html",
+        "Nome":"Bobby Lloyd",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"January 3 , 1946",
+        "College":[
+            "Rutgers University"
+        ],
+        "High School":"Upper Darby",
+        "Draft Team":"Detroit Pistons",
+        "Draft Year":"1967",
+        "Debut":null,
+        "Experience":"2",
+        "Altezza":"188cm",
+        "Peso":"83kg",
+        "G":"125",
+        "PTS":"9.0",
+        "TRB":"1.8",
+        "AST":"1.8",
+        "FG%":"40.7",
+        "FT%":"87.2",
+        "PER":"13.9",
+        "WS":"5.3",
+        "FG3%":"38.5",
+        "eFG%":"41.5"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lloydch01.html",
+        "Nome":"Chuck Lloyd",
+        "Position":[
+            "Center\/Forward"
+        ],
+        "Born":"May 22 , 1947",
+        "College":[
+            "Yankton College"
+        ],
+        "High School":"Arlington",
+        "Draft Team":"Seattle SuperSonics",
+        "Draft Year":"1970",
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":"203cm",
+        "Peso":"99kg",
+        "G":"14",
+        "PTS":"4.7",
+        "TRB":"1.8",
+        "AST":"0.4",
+        "FG%":"45.1",
+        "FT%":"66.7",
+        "PER":"17.4",
+        "WS":"0.2",
+        "FG3%":"-",
+        "eFG%":"45.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lloydea01.html",
+        "Nome":"Earl Lloyd",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"April 3 , 1928",
+        "College":[
+            "West Virginia State University"
+        ],
+        "High School":"Parker-Gray",
+        "Draft Team":"Washington Capitols",
+        "Draft Year":"1950",
+        "Debut":"1950",
+        "Experience":"9",
+        "Altezza":"196cm",
+        "Peso":"90kg",
+        "G":"560",
+        "PTS":"8.4",
+        "TRB":"6.4",
+        "AST":"1.4",
+        "FG%":"35.6",
+        "FT%":"75.0",
+        "PER":"10.7",
+        "WS":"19.1",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lloydle01.html",
+        "Nome":"Lewis Lloyd",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"February 22 , 1959",
+        "College":[
+            "Drake University"
+        ],
+        "High School":"Overbrook",
+        "Draft Team":"Golden State Warriors",
+        "Draft Year":"1981",
+        "Debut":"1981",
+        "Experience":"7",
+        "Altezza":"198cm",
+        "Peso":"92kg",
+        "G":"388",
+        "PTS":"13.2",
+        "TRB":"3.1",
+        "AST":"2.9",
+        "FG%":"52.4",
+        "FT%":"77.1",
+        "PER":"16.4",
+        "WS":"19.8",
+        "FG3%":"21.3",
+        "eFG%":"52.5"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lloydsc01.html",
+        "Nome":"Scott Lloyd",
+        "Position":[
+            "Center",
+            "Power Forward"
+        ],
+        "Born":"December 19 , 1952",
+        "College":[
+            "Arizona State"
+        ],
+        "High School":"East",
+        "Draft Team":"Milwaukee Bucks",
+        "Draft Year":"1976",
+        "Debut":"1976",
+        "Experience":"6",
+        "Altezza":"208cm",
+        "Peso":"104kg",
+        "G":"372",
+        "PTS":"4.6",
+        "TRB":"3.0",
+        "AST":"1.0",
+        "FG%":"42.5",
+        "FT%":"71.8",
+        "PER":"8.5",
+        "WS":"2.5",
+        "FG3%":"28.6",
+        "eFG%":"42.6"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lochmri01.html",
+        "Nome":"Riney Lochmann",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"May 26 , 1944",
+        "College":[
+            "Kansas"
+        ],
+        "High School":"Wichita North",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":null,
+        "Experience":"3",
+        "Altezza":"198cm",
+        "Peso":"97kg",
+        "G":"170",
+        "PTS":"4.3",
+        "TRB":"2.7",
+        "AST":"0.8",
+        "FG%":"40.5",
+        "FT%":"60.6",
+        "PER":"9.5",
+        "WS":"0.6",
+        "FG3%":"31.3",
+        "eFG%":"40.9"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lochmbo01.html",
+        "Nome":"Bob Lochmueller",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"June 5 , 1927",
+        "College":[
+            "Louisville"
+        ],
+        "High School":"Elberfeld",
+        "Draft Team":"Syracuse Nationals",
+        "Draft Year":"1952",
+        "Debut":"1952",
+        "Experience":"1",
+        "Altezza":"196cm",
+        "Peso":"83kg",
+        "G":"62",
+        "PTS":"3.7",
+        "TRB":"2.6",
+        "AST":"0.8",
+        "FG%":"32.2",
+        "FT%":"60.7",
+        "PER":"9.0",
+        "WS":"0.5",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lockro01.html",
+        "Nome":"Rob Lock",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"May 22 , 1966",
+        "College":[
+            "Kentucky"
+        ],
+        "High School":"Reedley",
+        "Draft Team":"Los Angeles Clippers",
+        "Draft Year":"1988",
+        "Debut":"1989",
+        "Experience":"1",
+        "Altezza":"206cm",
+        "Peso":"102kg",
+        "G":"20",
+        "PTS":"1.5",
+        "TRB":"1.6",
+        "AST":"0.2",
+        "FG%":"28.1",
+        "FT%":"80.0",
+        "PER":"5.3",
+        "WS":"-0.2",
+        "FG3%":"-",
+        "eFG%":"28.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lockhda01.html",
+        "Nome":"Darrell Lockhart",
+        "Position":[
+            "Center"
+        ],
+        "Born":"September 14 , 1960",
+        "College":[
+            "Auburn"
+        ],
+        "High School":"Robert E. Lee",
+        "Draft Team":"San Antonio Spurs",
+        "Draft Year":"1983",
+        "Debut":"1983",
+        "Experience":"1",
+        "Altezza":"206cm",
+        "Peso":"111kg",
+        "G":"2",
+        "PTS":"2.0",
+        "TRB":"1.5",
+        "AST":"0.0",
+        "FG%":"100.0",
+        "FT%":"-",
+        "PER":"1.6",
+        "WS":"0.0",
+        "FG3%":"-",
+        "eFG%":"100.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lockhia01.html",
+        "Nome":"Ian Lockhart",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"June 25 , 1967",
+        "College":[
+            "Tennessee"
+        ],
+        "High School":"Christian Academy",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1990",
+        "Experience":"1",
+        "Altezza":"203cm",
+        "Peso":"108kg",
+        "G":"1",
+        "PTS":"4.0",
+        "TRB":"0.0",
+        "AST":"0.0",
+        "FG%":"100.0",
+        "FT%":"100.0",
+        "PER":"76.3",
+        "WS":"0.0",
+        "FG3%":"-",
+        "eFG%":"100.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/loderke01.html",
+        "Nome":"Kevin Loder",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"March 15 , 1959",
+        "College":[
+            "Kentucky State University",
+            "Alabama State University"
+        ],
+        "High School":"Ross Beatty",
+        "Draft Team":"Kansas City Kings",
+        "Draft Year":"1981",
+        "Debut":"1981",
+        "Experience":"3",
+        "Altezza":"198cm",
+        "Peso":"92kg",
+        "G":"148",
+        "PTS":"5.9",
+        "TRB":"2.3",
+        "AST":"1.2",
+        "FG%":"46.1",
+        "FT%":"69.5",
+        "PER":"11.9",
+        "WS":"2.4",
+        "FG3%":"26.1",
+        "eFG%":"46.5"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lofgrdo01.html",
+        "Nome":"Don Lofgran",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"November 8 , 1929",
+        "College":[
+            "San Francisco"
+        ],
+        "High School":"Oakland",
+        "Draft Team":"Syracuse Nationals",
+        "Draft Year":"1950",
+        "Debut":"1950",
+        "Experience":"4",
+        "Altezza":"196cm",
+        "Peso":"90kg",
+        "G":"209",
+        "PTS":"6.1",
+        "TRB":"3.9",
+        "AST":"1.0",
+        "FG%":"32.9",
+        "FT%":"69.2",
+        "PER":"11.7",
+        "WS":"3.0",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/loftoke01.html",
+        "Nome":"Kenneth Lofton Jr.",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"August 14 , 2002",
+        "College":[
+            "Louisiana Tech"
+        ],
+        "High School":"Memorial",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2022",
+        "Experience":"2",
+        "Altezza":"198cm",
+        "Peso":"124kg",
+        "G":"45",
+        "PTS":"4.8",
+        "TRB":"2.0",
+        "AST":"1.2",
+        "FG%":"49.7",
+        "FT%":"62.3",
+        "PER":"17.3",
+        "WS":"0.8",
+        "FG3%":"31.7",
+        "eFG%":"53.5"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/loftoza01.html",
+        "Nome":"Zach Lofton",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"November 18 , 1992",
+        "College":[
+            "Illinois State",
+            "Texas Southern",
+            "New Mexico State"
+        ],
+        "High School":"Columbia Heights",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2018",
+        "Experience":"1",
+        "Altezza":"193cm",
+        "Peso":"81kg",
+        "G":"1",
+        "PTS":"0.0",
+        "TRB":"0.0",
+        "AST":"0.0",
+        "FG%":"0.0",
+        "FT%":"-",
+        "PER":"-10.0",
+        "WS":"0.0",
+        "FG3%":"0.0",
+        "eFG%":"0.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/loganhe01.html",
+        "Nome":"Henry Logan",
+        "Position":[
+            "Shooting Guard",
+            "Point Guard"
+        ],
+        "Born":"March 14 , 1946",
+        "College":[
+            "Western Carolina University"
+        ],
+        "High School":"Stephens-Lee",
+        "Draft Team":"Seattle SuperSonics",
+        "Draft Year":"1968",
+        "Debut":null,
+        "Experience":"3",
+        "Altezza":"183cm",
+        "Peso":"81kg",
+        "G":"108",
+        "PTS":"11.6",
+        "TRB":"3.5",
+        "AST":"2.3",
+        "FG%":"46.6",
+        "FT%":"70.5",
+        "PER":"13.7",
+        "WS":"5.6",
+        "FG3%":"14.3",
+        "eFG%":"46.7"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/loganjo01.html",
+        "Nome":"John Logan",
+        "Position":[
+            "Guard"
+        ],
+        "Born":"January 1 , 1921",
+        "College":[
+            "Indiana"
+        ],
+        "High School":"Richmond",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1946",
+        "Experience":"5",
+        "Altezza":"188cm",
+        "Peso":"79kg",
+        "G":"258",
+        "PTS":"12.4",
+        "TRB":"4.5",
+        "AST":"3.0",
+        "FG%":"31.2",
+        "FT%":"76.7",
+        "PER":"-",
+        "WS":"27.8",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lohaubr01.html",
+        "Nome":"Brad Lohaus",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"September 29 , 1964",
+        "College":[
+            "Iowa"
+        ],
+        "High School":"Greenway",
+        "Draft Team":"Boston Celtics",
+        "Draft Year":"1987",
+        "Debut":"1987",
+        "Experience":"11",
+        "Altezza":"211cm",
+        "Peso":"104kg",
+        "G":"656",
+        "PTS":"5.9",
+        "TRB":"2.8",
+        "AST":"1.1",
+        "FG%":"44.0",
+        "FT%":"73.3",
+        "PER":"12.3",
+        "WS":"15.2",
+        "FG3%":"36.1",
+        "eFG%":"49.6"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/longar01.html",
+        "Nome":"Art Long",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"October 1 , 1972",
+        "College":[
+            "Cincinnati"
+        ],
+        "High School":"East",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2001",
+        "Experience":"3",
+        "Altezza":"206cm",
+        "Peso":"113kg",
+        "G":"98",
+        "PTS":"3.5",
+        "TRB":"3.3",
+        "AST":"0.5",
+        "FG%":"45.8",
+        "FT%":"48.5",
+        "PER":"9.7",
+        "WS":"0.9",
+        "FG3%":"66.7",
+        "eFG%":"46.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/longgr01.html",
+        "Nome":"Grant Long",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"March 12 , 1966",
+        "College":[
+            "Eastern Michigan"
+        ],
+        "High School":"Romulus",
+        "Draft Team":"Miami Heat",
+        "Draft Year":"1988",
+        "Debut":"1988",
+        "Experience":"15",
+        "Altezza":"203cm",
+        "Peso":"102kg",
+        "G":"1003",
+        "PTS":"9.5",
+        "TRB":"6.1",
+        "AST":"1.7",
+        "FG%":"46.7",
+        "FT%":"76.1",
+        "PER":"13.3",
+        "WS":"60.1",
+        "FG3%":"28.3",
+        "eFG%":"47.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/longjo01.html",
+        "Nome":"John Long",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"August 28 , 1956",
+        "College":[
+            "Detroit Mercy"
+        ],
+        "High School":"Romulus",
+        "Draft Team":"Detroit Pistons",
+        "Draft Year":"1978",
+        "Debut":"1978",
+        "Experience":"14",
+        "Altezza":"196cm",
+        "Peso":"88kg",
+        "G":"893",
+        "PTS":"13.6",
+        "TRB":"2.8",
+        "AST":"1.9",
+        "FG%":"46.7",
+        "FT%":"86.2",
+        "PER":"14.2",
+        "WS":"32.0",
+        "FG3%":"32.2",
+        "eFG%":"47.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/longpa01.html",
+        "Nome":"Paul Long",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"February 8 , 1944",
+        "College":[
+            "Virginia Tech",
+            "Wake Forest"
+        ],
+        "High School":"Waggener",
+        "Draft Team":"St. Louis Hawks",
+        "Draft Year":"1967",
+        "Debut":"1967",
+        "Experience":"4",
+        "Altezza":"188cm",
+        "Peso":"81kg",
+        "G":"80",
+        "PTS":"3.9",
+        "TRB":"0.8",
+        "AST":"0.8",
+        "FG%":"42.9",
+        "FT%":"76.5",
+        "PER":"14.7",
+        "WS":"0.8",
+        "FG3%":"-",
+        "eFG%":"42.9"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/longsh01.html",
+        "Nome":"Shawn Long",
+        "Position":[
+            "Center"
+        ],
+        "Born":"January 29 , 1993",
+        "College":[
+            "Louisiana"
+        ],
+        "High School":"Morgan City",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2017",
+        "Experience":"1",
+        "Altezza":"206cm",
+        "Peso":"115kg",
+        "G":"18",
+        "PTS":"8.2",
+        "TRB":"4.7",
+        "AST":"0.7",
+        "FG%":"56.0",
+        "FT%":"54.3",
+        "PER":"24.1",
+        "WS":"0.9",
+        "FG3%":"36.8",
+        "eFG%":"59.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/longwi01.html",
+        "Nome":"Willie Long",
+        "Position":[
+            "Power Forward",
+            "Small Forward"
+        ],
+        "Born":"March 1 , 1950",
+        "College":[
+            "New Mexico"
+        ],
+        "High School":"South Side",
+        "Draft Team":"Cleveland Cavaliers",
+        "Draft Year":"1971",
+        "Debut":null,
+        "Experience":"3",
+        "Altezza":"203cm",
+        "Peso":"102kg",
+        "G":"213",
+        "PTS":"11.4",
+        "TRB":"6.0",
+        "AST":"1.0",
+        "FG%":"42.1",
+        "FT%":"77.4",
+        "PER":"13.1",
+        "WS":"6.9",
+        "FG3%":"0.0",
+        "eFG%":"42.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/longllu01.html",
+        "Nome":"Luc Longley",
+        "Position":[
+            "Center"
+        ],
+        "Born":"January 19 , 1969",
+        "College":[
+            "New Mexico"
+        ],
+        "High School":"Scotch College",
+        "Draft Team":"Minnesota Timberwolves",
+        "Draft Year":"1991",
+        "Debut":"1991",
+        "Experience":"10",
+        "Altezza":"218cm",
+        "Peso":"120kg",
+        "G":"567",
+        "PTS":"7.2",
+        "TRB":"4.9",
+        "AST":"1.5",
+        "FG%":"46.2",
+        "FT%":"76.0",
+        "PER":"11.8",
+        "WS":"17.5",
+        "FG3%":"0.0",
+        "eFG%":"46.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/looneke01.html",
+        "Nome":"Kevon Looney",
+        "Position":[
+            "Center",
+            "Power Forward"
+        ],
+        "Born":"February 6 , 1996",
+        "College":[
+            "UCLA"
+        ],
+        "High School":"Hamilton",
+        "Draft Team":"Golden State Warriors",
+        "Draft Year":"2015",
+        "Debut":"2016",
+        "Experience":"10",
+        "Altezza":"206cm",
+        "Peso":"100kg",
+        "G":"620",
+        "PTS":"4.9",
+        "TRB":"5.7",
+        "AST":"1.6",
+        "FG%":"57.0",
+        "FT%":"61.0",
+        "PER":"15.6",
+        "WS":"38.1",
+        "FG3%":"17.9",
+        "eFG%":"57.4"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lopezbr01.html",
+        "Nome":"Brook Lopez",
+        "Position":[
+            "Center"
+        ],
+        "Born":"April 1 , 1988",
+        "College":[
+            "Stanford"
+        ],
+        "High School":"San Joaquin Memorial",
+        "Draft Team":"New Jersey Nets",
+        "Draft Year":"2008",
+        "Debut":"2008",
+        "Experience":"17",
+        "Altezza":"216cm",
+        "Peso":"127kg",
+        "G":"1180",
+        "PTS":"15.4",
+        "TRB":"5.9",
+        "AST":"1.5",
+        "FG%":"49.4",
+        "FT%":"79.7",
+        "PER":"18.2",
+        "WS":"94.2",
+        "FG3%":"35.3",
+        "eFG%":"53.7"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lopezfe01.html",
+        "Nome":"Felipe López",
+        "Position":[
+            "Shooting Guard",
+            "Point Guard"
+        ],
+        "Born":"December 19 , 1974",
+        "College":[
+            "St. John's"
+        ],
+        "High School":"Rice",
+        "Draft Team":"San Antonio Spurs",
+        "Draft Year":"1998",
+        "Debut":"1999",
+        "Experience":"4",
+        "Altezza":"196cm",
+        "Peso":"90kg",
+        "G":"249",
+        "PTS":"5.8",
+        "TRB":"2.4",
+        "AST":"1.0",
+        "FG%":"43.2",
+        "FT%":"65.9",
+        "PER":"11.5",
+        "WS":"3.1",
+        "FG3%":"32.7",
+        "eFG%":"45.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lopezra01.html",
+        "Nome":"Raül López",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"April 15 , 1980",
+        "College":null,
+        "High School":null,
+        "Draft Team":"Utah Jazz",
+        "Draft Year":"2001",
+        "Debut":"2003",
+        "Experience":"2",
+        "Altezza":"185cm",
+        "Peso":"77kg",
+        "G":"113",
+        "PTS":"6.5",
+        "TRB":"1.7",
+        "AST":"3.8",
+        "FG%":"42.9",
+        "FT%":"85.3",
+        "PER":"12.2",
+        "WS":"2.1",
+        "FG3%":"34.6",
+        "eFG%":"46.4"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lopezro01.html",
+        "Nome":"Robin Lopez",
+        "Position":[
+            "Center"
+        ],
+        "Born":"April 1 , 1988",
+        "College":[
+            "Stanford"
+        ],
+        "High School":"San Joaquin Memorial",
+        "Draft Team":"Phoenix Suns",
+        "Draft Year":"2008",
+        "Debut":"2008",
+        "Experience":"16",
+        "Altezza":"216cm",
+        "Peso":"127kg",
+        "G":"992",
+        "PTS":"8.4",
+        "TRB":"4.7",
+        "AST":"0.8",
+        "FG%":"53.7",
+        "FT%":"74.3",
+        "PER":"15.8",
+        "WS":"49.6",
+        "FG3%":"29.7",
+        "eFG%":"54.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lorthry01.html",
+        "Nome":"Ryan Lorthridge",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"July 27 , 1972",
+        "College":[
+            "Jackson State University"
+        ],
+        "High School":"Murrah",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"1995",
+        "Experience":"1",
+        "Altezza":"193cm",
+        "Peso":"86kg",
+        "G":"37",
+        "PTS":"7.4",
+        "TRB":"1.9",
+        "AST":"2.7",
+        "FG%":"47.5",
+        "FT%":"64.8",
+        "PER":"12.9",
+        "WS":"0.4",
+        "FG3%":"21.4",
+        "eFG%":"48.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/loscuji01.html",
+        "Nome":"Jim Loscutoff",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"February 4 , 1930",
+        "College":[
+            "Oregon"
+        ],
+        "High School":"Palo Alto",
+        "Draft Team":"Boston Celtics",
+        "Draft Year":"1955",
+        "Debut":"1955",
+        "Experience":"9",
+        "Altezza":"196cm",
+        "Peso":"99kg",
+        "G":"511",
+        "PTS":"6.2",
+        "TRB":"5.6",
+        "AST":"0.7",
+        "FG%":"34.5",
+        "FT%":"65.3",
+        "PER":"8.3",
+        "WS":"3.4",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lottpl01.html",
+        "Nome":"Plummer Lott",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"December 11 , 1945",
+        "College":[
+            "Seattle University"
+        ],
+        "High School":"Jim Hill",
+        "Draft Team":"Seattle SuperSonics",
+        "Draft Year":"1967",
+        "Debut":"1967",
+        "Experience":"2",
+        "Altezza":"196cm",
+        "Peso":"95kg",
+        "G":"67",
+        "PTS":"2.2",
+        "TRB":"1.8",
+        "AST":"0.6",
+        "FG%":"29.4",
+        "FT%":"58.3",
+        "PER":"4.1",
+        "WS":"-1.3",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/loughke01.html",
+        "Nome":"Kevin Loughery",
+        "Position":[
+            "Shooting Guard",
+            "Point Guard"
+        ],
+        "Born":"March 28 , 1940",
+        "College":[
+            "Boston College",
+            "St. John's"
+        ],
+        "High School":"Cardinal Hayes",
+        "Draft Team":"New York Knicks",
+        "Draft Year":"1962",
+        "Debut":"1962",
+        "Experience":"11",
+        "Altezza":"190cm",
+        "Peso":"86kg",
+        "G":"755",
+        "PTS":"15.3",
+        "TRB":"3.0",
+        "AST":"3.7",
+        "FG%":"41.3",
+        "FT%":"80.3",
+        "PER":"13.7",
+        "WS":"29.8",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/louzama01.html",
+        "Nome":"Didi Louzada",
+        "Position":[
+            "Small Forward",
+            "Shooting Guard"
+        ],
+        "Born":"February 7 , 1999",
+        "College":null,
+        "High School":null,
+        "Draft Team":"Atlanta Hawks",
+        "Draft Year":"2019",
+        "Debut":"2021",
+        "Experience":"2",
+        "Altezza":"196cm",
+        "Peso":"85kg",
+        "G":"12",
+        "PTS":"3.6",
+        "TRB":"1.7",
+        "AST":"0.7",
+        "FG%":"32.6",
+        "FT%":"100.0",
+        "PER":"4.2",
+        "WS":"-0.1",
+        "FG3%":"35.5",
+        "eFG%":"44.6"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lovebo01.html",
+        "Nome":"Bob Love",
+        "Position":[
+            "Power Forward",
+            "Small Forward"
+        ],
+        "Born":"December 8 , 1942",
+        "College":[
+            "Southern University and A&M College"
+        ],
+        "High School":"Morehouse",
+        "Draft Team":"Cincinnati Royals",
+        "Draft Year":"1965",
+        "Debut":"1966",
+        "Experience":"11",
+        "Altezza":"203cm",
+        "Peso":"97kg",
+        "G":"789",
+        "PTS":"17.6",
+        "TRB":"5.9",
+        "AST":"1.4",
+        "FG%":"42.9",
+        "FT%":"80.5",
+        "PER":"14.9",
+        "WS":"50.4",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/loveca01.html",
+        "Nome":"Caleb Love",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"September 27 , 2001",
+        "College":[
+            "UNC",
+            "Arizona"
+        ],
+        "High School":"Christian Brothers College",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2025",
+        "Experience":"0",
+        "Altezza":"190cm",
+        "Peso":"96kg",
+        "G":"49",
+        "PTS":"10.4",
+        "TRB":"2.3",
+        "AST":"2.5",
+        "FG%":"38.8",
+        "FT%":"73.5",
+        "PER":"10.7",
+        "WS":"0.6",
+        "FG3%":"31.8",
+        "eFG%":"48.3"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/loveke01.html",
+        "Nome":"Kevin Love",
+        "Position":[
+            "Power Forward",
+            "Center"
+        ],
+        "Born":"September 7 , 1988",
+        "College":[
+            "UCLA"
+        ],
+        "High School":"Lake Oswego",
+        "Draft Team":"Memphis Grizzlies",
+        "Draft Year":"2008",
+        "Debut":"2008",
+        "Experience":"17",
+        "Altezza":"208cm",
+        "Peso":"113kg",
+        "G":"989",
+        "PTS":"15.8",
+        "TRB":"9.8",
+        "AST":"2.3",
+        "FG%":"43.7",
+        "FT%":"82.8",
+        "PER":"20.6",
+        "WS":"96.0",
+        "FG3%":"36.9",
+        "eFG%":"51.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lovest01.html",
+        "Nome":"Stan Love",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"April 9 , 1949",
+        "College":[
+            "Oregon"
+        ],
+        "High School":"Morningside",
+        "Draft Team":"Baltimore Bullets",
+        "Draft Year":"1971",
+        "Debut":"1971",
+        "Experience":"4",
+        "Altezza":"206cm",
+        "Peso":"97kg",
+        "G":"239",
+        "PTS":"6.6",
+        "TRB":"3.9",
+        "AST":"0.8",
+        "FG%":"44.0",
+        "FT%":"75.1",
+        "PER":"13.2",
+        "WS":"5.6",
+        "FG3%":"-",
+        "eFG%":"44.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lovelcl01.html",
+        "Nome":"Clyde Lovellette",
+        "Position":[
+            "Center"
+        ],
+        "Born":"September 7 , 1929",
+        "College":[
+            "Kansas"
+        ],
+        "High School":"Garfield",
+        "Draft Team":"Minneapolis Lakers",
+        "Draft Year":"1952",
+        "Debut":"1953",
+        "Experience":"11",
+        "Altezza":"206cm",
+        "Peso":"106kg",
+        "G":"704",
+        "PTS":"17.0",
+        "TRB":"9.5",
+        "AST":"1.6",
+        "FG%":"44.3",
+        "FT%":"75.7",
+        "PER":"21.7",
+        "WS":"70.6",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/loverla01.html",
+        "Nome":"Lawson Lovering",
+        "Position":[
+            "Center"
+        ],
+        "Born":"May 9 , 2003",
+        "College":[
+            "Colorado",
+            "Utah"
+        ],
+        "High School":"Central",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2026",
+        "Experience":"0",
+        "Altezza":"213cm",
+        "Peso":"111kg",
+        "G":"2",
+        "PTS":"7.0",
+        "TRB":"7.5",
+        "AST":"1.5",
+        "FG%":"60.0",
+        "FT%":"40.0",
+        "PER":"13.7",
+        "WS":"0.1",
+        "FG3%":"-",
+        "eFG%":"60.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lowesi01.html",
+        "Nome":"Sidney Lowe",
+        "Position":[
+            "Point Guard",
+            "Shooting Guard"
+        ],
+        "Born":"January 21 , 1960",
+        "College":[
+            "NC State"
+        ],
+        "High School":"DeMatha Catholic",
+        "Draft Team":"Chicago Bulls",
+        "Draft Year":"1983",
+        "Debut":"1983",
+        "Experience":"4",
+        "Altezza":"183cm",
+        "Peso":"88kg",
+        "G":"193",
+        "PTS":"2.9",
+        "TRB":"1.7",
+        "AST":"3.9",
+        "FG%":"36.7",
+        "FT%":"76.4",
+        "PER":"10.4",
+        "WS":"3.9",
+        "FG3%":"13.3",
+        "eFG%":"37.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lowerch01.html",
+        "Nome":"Charlie Lowery",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"November 12 , 1949",
+        "College":[
+            "University of Puget Sound"
+        ],
+        "High School":null,
+        "Draft Team":"Seattle SuperSonics",
+        "Draft Year":"1971",
+        "Debut":"1971",
+        "Experience":"1",
+        "Altezza":"190cm",
+        "Peso":"83kg",
+        "G":"20",
+        "PTS":"2.3",
+        "TRB":"1.0",
+        "AST":"0.7",
+        "FG%":"44.7",
+        "FT%":"61.1",
+        "PER":"10.5",
+        "WS":"0.2",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lowryky01.html",
+        "Nome":"Kyle Lowry",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"March 25 , 1986",
+        "College":[
+            "Villanova"
+        ],
+        "High School":null,
+        "Draft Team":"Memphis Grizzlies",
+        "Draft Year":"2006",
+        "Debut":"2006",
+        "Experience":"19",
+        "Altezza":"183cm",
+        "Peso":"88kg",
+        "G":"1187",
+        "PTS":"13.8",
+        "TRB":"4.2",
+        "AST":"6.0",
+        "FG%":"42.3",
+        "FT%":"81.5",
+        "PER":"17.3",
+        "WS":"112.4",
+        "FG3%":"36.7",
+        "eFG%":"51.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/loydjo01.html",
+        "Nome":"Jordan Loyd",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"July 27 , 1993",
+        "College":[
+            "Furman University",
+            "University of Indianapolis"
+        ],
+        "High School":"Milton",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2018",
+        "Experience":"1",
+        "Altezza":"193cm",
+        "Peso":"95kg",
+        "G":"12",
+        "PTS":"2.4",
+        "TRB":"0.8",
+        "AST":"0.5",
+        "FG%":"44.4",
+        "FT%":"81.8",
+        "PER":"16.3",
+        "WS":"0.2",
+        "FG3%":"50.0",
+        "eFG%":"55.6"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lucasal01.html",
+        "Nome":"Al Lucas",
+        "Position":[
+            "Forward\/Guard"
+        ],
+        "Born":"July 4 , 1922",
+        "College":[
+            "Fordham"
+        ],
+        "High School":null,
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":"190cm",
+        "Peso":"88kg",
+        "G":"2",
+        "PTS":"1.0",
+        "TRB":"-",
+        "AST":"1.0",
+        "FG%":"33.3",
+        "FT%":"-",
+        "PER":"-",
+        "WS":"0.0",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lucasje01.html",
+        "Nome":"Jerry Lucas",
+        "Position":[
+            "Power Forward",
+            "Center"
+        ],
+        "Born":"March 30 , 1940",
+        "College":[
+            "Ohio State"
+        ],
+        "High School":"Middletown",
+        "Draft Team":"Cincinnati Royals",
+        "Draft Year":"1962",
+        "Debut":"1963",
+        "Experience":"11",
+        "Altezza":"203cm",
+        "Peso":"104kg",
+        "G":"829",
+        "PTS":"17.0",
+        "TRB":"15.6",
+        "AST":"3.3",
+        "FG%":"49.9",
+        "FT%":"78.3",
+        "PER":"18.9",
+        "WS":"98.4",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lucasjo01.html",
+        "Nome":"John Lucas",
+        "Position":[
+            "Point Guard",
+            "Shooting Guard"
+        ],
+        "Born":"October 31 , 1953",
+        "College":[
+            "Maryland"
+        ],
+        "High School":"Hillside",
+        "Draft Team":"Houston Rockets",
+        "Draft Year":"1976",
+        "Debut":"1976",
+        "Experience":"14",
+        "Altezza":"190cm",
+        "Peso":"79kg",
+        "G":"928",
+        "PTS":"10.7",
+        "TRB":"2.3",
+        "AST":"7.0",
+        "FG%":"44.9",
+        "FT%":"77.6",
+        "PER":"15.9",
+        "WS":"53.7",
+        "FG3%":"30.3",
+        "eFG%":"46.3"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lucaska01.html",
+        "Nome":"Kalin Lucas",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"May 24 , 1989",
+        "College":[
+            "Michigan State"
+        ],
+        "High School":"St. Mary's Preparatory",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2014",
+        "Experience":"2",
+        "Altezza":"185cm",
+        "Peso":"88kg",
+        "G":"2",
+        "PTS":"1.0",
+        "TRB":"1.5",
+        "AST":"0.5",
+        "FG%":"0.0",
+        "FT%":"100.0",
+        "PER":"8.0",
+        "WS":"0.0",
+        "FG3%":"0.0",
+        "eFG%":"0.0"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lucasma01.html",
+        "Nome":"Maurice Lucas",
+        "Position":[
+            "Power Forward",
+            "Center"
+        ],
+        "Born":"February 18 , 1952",
+        "College":[
+            "Marquette"
+        ],
+        "High School":"Schenley",
+        "Draft Team":"Chicago Bulls",
+        "Draft Year":"1974",
+        "Debut":"1976",
+        "Experience":"14",
+        "Altezza":"206cm",
+        "Peso":"97kg",
+        "G":"1021",
+        "PTS":"14.6",
+        "TRB":"9.1",
+        "AST":"2.4",
+        "FG%":"47.1",
+        "FT%":"76.5",
+        "PER":"16.2",
+        "WS":"69.0",
+        "FG3%":"14.3",
+        "eFG%":"47.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lucasjo02.html",
+        "Nome":"John Lucas III",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"November 21 , 1982",
+        "College":[
+            "Baylor",
+            "Oklahoma State"
+        ],
+        "High School":"Bellaire",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2005",
+        "Experience":"8",
+        "Altezza":"180cm",
+        "Peso":"75kg",
+        "G":"242",
+        "PTS":"4.7",
+        "TRB":"1.0",
+        "AST":"1.5",
+        "FG%":"38.3",
+        "FT%":"76.8",
+        "PER":"11.8",
+        "WS":"3.4",
+        "FG3%":"34.4",
+        "eFG%":"45.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/luckete01.html",
+        "Nome":"Ted Luckenbill",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"July 27 , 1939",
+        "College":[
+            "Houston"
+        ],
+        "High School":"Elkhart",
+        "Draft Team":"Philadelphia Warriors",
+        "Draft Year":"1961",
+        "Debut":"1961",
+        "Experience":"2",
+        "Altezza":"198cm",
+        "Peso":"92kg",
+        "G":"87",
+        "PTS":"2.3",
+        "TRB":"1.9",
+        "AST":"0.4",
+        "FG%":"36.7",
+        "FT%":"60.4",
+        "PER":"8.4",
+        "WS":"0.4",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/luety01.html",
+        "Nome":"Tyronn Lue",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"May 3 , 1977",
+        "College":[
+            "Nebraska"
+        ],
+        "High School":"Raytown",
+        "Draft Team":"Denver Nuggets",
+        "Draft Year":"1998",
+        "Debut":"1999",
+        "Experience":"11",
+        "Altezza":"183cm",
+        "Peso":"79kg",
+        "G":"554",
+        "PTS":"8.5",
+        "TRB":"1.7",
+        "AST":"3.1",
+        "FG%":"43.7",
+        "FT%":"82.9",
+        "PER":"13.2",
+        "WS":"19.7",
+        "FG3%":"39.1",
+        "eFG%":"49.4"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/luisiji01.html",
+        "Nome":"Jim Luisi",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"November 2 , 1928",
+        "College":[
+            "St. Francis College"
+        ],
+        "High School":"Benjamin Franklin",
+        "Draft Team":"Boston Celtics",
+        "Draft Year":"1951",
+        "Debut":"1954",
+        "Experience":"1",
+        "Altezza":"188cm",
+        "Peso":"81kg",
+        "G":"31",
+        "PTS":"2.9",
+        "TRB":"0.8",
+        "AST":"1.1",
+        "FG%":"32.6",
+        "FT%":"65.9",
+        "PER":"7.7",
+        "WS":"0.0",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lujacal01.html",
+        "Nome":"Al Lujack",
+        "Position":[
+            "Forward"
+        ],
+        "Born":"October 5 , 1920",
+        "College":[
+            "Georgetown"
+        ],
+        "High School":"Connellsville",
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":"190cm",
+        "Peso":"99kg",
+        "G":"5",
+        "PTS":"0.8",
+        "TRB":"-",
+        "AST":"0.0",
+        "FG%":"12.5",
+        "FT%":"40.0",
+        "PER":"-",
+        "WS":"0.0",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lumpkph01.html",
+        "Nome":"Phil Lumpkin",
+        "Position":[
+            "Point Guard"
+        ],
+        "Born":"December 20 , 1951",
+        "College":[
+            "Miami University"
+        ],
+        "High School":"Roth",
+        "Draft Team":"Portland Trail Blazers",
+        "Draft Year":"1974",
+        "Debut":"1974",
+        "Experience":"2",
+        "Altezza":"183cm",
+        "Peso":"74kg",
+        "G":"82",
+        "PTS":"3.3",
+        "TRB":"1.0",
+        "AST":"2.7",
+        "FG%":"42.4",
+        "FT%":"81.2",
+        "PER":"10.5",
+        "WS":"0.7",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lumppra01.html",
+        "Nome":"Ray Lumpp",
+        "Position":[
+            "Point Guard",
+            "Shooting Guard"
+        ],
+        "Born":"July 11 , 1923",
+        "College":[
+            "NYU"
+        ],
+        "High School":"Newtown",
+        "Draft Team":"Indianapolis Jets",
+        "Draft Year":"1948",
+        "Debut":"1948",
+        "Experience":"5",
+        "Altezza":"185cm",
+        "Peso":"80kg",
+        "G":"300",
+        "PTS":"8.2",
+        "TRB":"2.2",
+        "AST":"2.2",
+        "FG%":"36.6",
+        "FT%":"76.7",
+        "PER":"12.7",
+        "WS":"15.5",
+        "FG3%":null,
+        "eFG%":null
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lundbga01.html",
+        "Nome":"Gabriel Lundberg",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"December 4 , 1994",
+        "College":null,
+        "High School":null,
+        "Draft Team":null,
+        "Draft Year":null,
+        "Debut":"2022",
+        "Experience":"1",
+        "Altezza":"193cm",
+        "Peso":"92kg",
+        "G":"4",
+        "PTS":"3.3",
+        "TRB":"1.8",
+        "AST":"2.8",
+        "FG%":"26.3",
+        "FT%":"-",
+        "PER":"7.7",
+        "WS":"0.0",
+        "FG3%":"37.5",
+        "eFG%":"34.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lundyse01.html",
+        "Nome":"Seth Lundy",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"April 2 , 2000",
+        "College":[
+            "Penn State"
+        ],
+        "High School":"Roman Catholic",
+        "Draft Team":"Atlanta Hawks",
+        "Draft Year":"2023",
+        "Debut":"2023",
+        "Experience":"1",
+        "Altezza":"193cm",
+        "Peso":"99kg",
+        "G":"9",
+        "PTS":"1.6",
+        "TRB":"0.8",
+        "AST":"0.0",
+        "FG%":"23.5",
+        "FT%":"75.0",
+        "PER":"0.0",
+        "WS":"-0.1",
+        "FG3%":"23.1",
+        "eFG%":"32.4"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/luwawti01.html",
+        "Nome":"Timothé Luwawu-Cabarrot",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"May 9 , 1995",
+        "College":null,
+        "High School":null,
+        "Draft Team":"Philadelphia 76ers",
+        "Draft Year":"2016",
+        "Debut":"2016",
+        "Experience":"6",
+        "Altezza":"201cm",
+        "Peso":"95kg",
+        "G":"328",
+        "PTS":"5.9",
+        "TRB":"2.0",
+        "AST":"0.9",
+        "FG%":"39.1",
+        "FT%":"82.9",
+        "PER":"8.6",
+        "WS":"4.7",
+        "FG3%":"33.5",
+        "eFG%":"48.8"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lydonty01.html",
+        "Nome":"Tyler Lydon",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"April 9 , 1996",
+        "College":[
+            "Syracuse"
+        ],
+        "High School":"New Hampton School",
+        "Draft Team":"Utah Jazz",
+        "Draft Year":"2017",
+        "Debut":"2017",
+        "Experience":"2",
+        "Altezza":"208cm",
+        "Peso":"102kg",
+        "G":"26",
+        "PTS":"0.9",
+        "TRB":"0.7",
+        "AST":"0.2",
+        "FG%":"50.0",
+        "FT%":"33.3",
+        "PER":"9.1",
+        "WS":"0.2",
+        "FG3%":"40.0",
+        "eFG%":"61.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lylestr01.html",
+        "Nome":"Trey Lyles",
+        "Position":[
+            "Power Forward"
+        ],
+        "Born":"November 5 , 1995",
+        "College":[
+            "Kentucky"
+        ],
+        "High School":"Arsenal Tech",
+        "Draft Team":"Utah Jazz",
+        "Draft Year":"2015",
+        "Debut":"2015",
+        "Experience":"10",
+        "Altezza":"206cm",
+        "Peso":"106kg",
+        "G":"650",
+        "PTS":"7.6",
+        "TRB":"4.3",
+        "AST":"1.1",
+        "FG%":"44.1",
+        "FT%":"74.1",
+        "PER":"13.4",
+        "WS":"22.0",
+        "FG3%":"34.7",
+        "eFG%":"52.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lynamrb01.html",
+        "Nome":"R.B. Lynam",
+        "Position":[
+            "Guard"
+        ],
+        "Born":"December 22 , 1944",
+        "College":[
+            "Oklahoma Baptist University"
+        ],
+        "High School":"Shawnee",
+        "Draft Team":"Cincinnati Royals",
+        "Draft Year":"1966",
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":"185cm",
+        "Peso":"86kg",
+        "G":"7",
+        "PTS":"2.4",
+        "TRB":"0.7",
+        "AST":"0.0",
+        "FG%":"29.4",
+        "FT%":"87.5",
+        "PER":"-0.2",
+        "WS":"0.0",
+        "FG3%":"0.0",
+        "eFG%":"29.4"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lynchge01.html",
+        "Nome":"George Lynch",
+        "Position":[
+            "Small Forward",
+            "Shooting Guard"
+        ],
+        "Born":"September 3 , 1970",
+        "College":[
+            "UNC"
+        ],
+        "High School":null,
+        "Draft Team":"Los Angeles Lakers",
+        "Draft Year":"1993",
+        "Debut":"1993",
+        "Experience":"12",
+        "Altezza":"203cm",
+        "Peso":"98kg",
+        "G":"774",
+        "PTS":"6.6",
+        "TRB":"5.0",
+        "AST":"1.4",
+        "FG%":"44.6",
+        "FT%":"65.2",
+        "PER":"12.8",
+        "WS":"32.3",
+        "FG3%":"30.6",
+        "eFG%":"46.2"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lynchke01.html",
+        "Nome":"Kevin Lynch",
+        "Position":[
+            "Shooting Guard"
+        ],
+        "Born":"December 24 , 1968",
+        "College":[
+            "Minnesota"
+        ],
+        "High School":"Thomas Jefferson",
+        "Draft Team":"Charlotte Hornets",
+        "Draft Year":"1991",
+        "Debut":"1991",
+        "Experience":"2",
+        "Altezza":"196cm",
+        "Peso":"88kg",
+        "G":"95",
+        "PTS":"3.3",
+        "TRB":"1.3",
+        "AST":"1.1",
+        "FG%":"43.6",
+        "FT%":"72.6",
+        "PER":"7.7",
+        "WS":"0.4",
+        "FG3%":"33.3",
+        "eFG%":"44.1"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lynnlo01.html",
+        "Nome":"Lonnie Lynn",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"May 24 , 1943",
+        "College":[
+            "Upper Iowa University",
+            "Wilberforce University"
+        ],
+        "High School":"DuSable",
+        "Draft Team":"St. Louis Hawks",
+        "Draft Year":"1966",
+        "Debut":null,
+        "Experience":"1",
+        "Altezza":"201cm",
+        "Peso":"97kg",
+        "G":"52",
+        "PTS":"5.0",
+        "TRB":"5.0",
+        "AST":"0.8",
+        "FG%":"40.7",
+        "FT%":"48.6",
+        "PER":"9.1",
+        "WS":"0.1",
+        "FG3%":"0.0",
+        "eFG%":"40.7"
+    },
+    {
+        "URL":"https:\/\/www.basketball-reference.com\/players\/l\/lynnmi01.html",
+        "Nome":"Mike Lynn",
+        "Position":[
+            "Small Forward"
+        ],
+        "Born":"November 25 , 1945",
+        "College":[
+            "UCLA"
+        ],
+        "High School":"Covina",
+        "Draft Team":"San Francisco Warriors",
+        "Draft Year":"1968",
+        "Debut":"1969",
+        "Experience":"2",
+        "Altezza":"201cm",
+        "Peso":"97kg",
+        "G":"49",
+        "PTS":"2.6",
+        "TRB":"1.4",
+        "AST":"0.6",
+        "FG%":"32.9",
+        "FT%":"66.7",
+        "PER":"4.5",
+        "WS":"-0.3",
+        "FG3%":null,
+        "eFG%":null
+    }
+]
