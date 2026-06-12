@@ -138,6 +138,9 @@ with collezione.batch.dynamic() as batch:
                 "born": safe_int(riga.get('Born')),
                 "debut": safe_int(riga.get('Debut')),
                 "draft_team": str(riga.get('Draft Team', 'Undrafted')),
+
+                "altezza": str(riga.get('Altezza', 'N/D')),
+                "experience": str(riga.get('Experience', riga.get('Exp', 'N/D'))),
                 
                 # STATISTICHE CHIAVE
                 "pts": float(riga.get('PTS', 0.0)),

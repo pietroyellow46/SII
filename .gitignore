@@ -1,13 +1,10 @@
-# ==========================================
-# .gitignore per Progetto NBA - Knowledge Graph
-# ==========================================
-
 # AMBIENTI VIRTUALI
 .venv/
 venv/
 env/
 SII/
 .conda/
+.env
 
 # CACHE E FILE COMPILATI DI PYTHON
 __pycache__/
