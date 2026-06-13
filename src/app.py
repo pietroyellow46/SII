@@ -3,6 +3,9 @@ import weaviate
 from weaviate.classes.query import Filter
 import json
 from sentence_transformers import SentenceTransformer
+import os
+import sys
+import subprocess
 
 # "motore" del progetto
 from query_LLM import (
@@ -10,6 +13,10 @@ from query_LLM import (
     cerca_giocatori_fuzzy, 
     cerca_simili_combinato
 )
+
+# Forza il terminale a usare UTF-8 per supportare i nomi internazionali
+if sys.stdout.encoding.lower() != 'utf-8':
+    sys.stdout.reconfigure(encoding='utf-8')
 
 # Configurazione pagina e cache
 st.set_page_config(page_title="NBA Search Engine", page_icon="🏀", layout="wide")
@@ -51,7 +58,7 @@ st.sidebar.title("🏀 Menu NBA")
 st.sidebar.markdown("Scegli la modalità di esplorazione:")
 scelta_menu = st.sidebar.radio(
     "Menu di navigazione", 
-    ["🔍 Ricerca Intelligente", "👥 Giocatori Simili"], 
+    ["🔍 Ricerca Intelligente", "👥 Giocatori Simili", "⚙️ Gestione Database"], 
     label_visibility="collapsed"
 )
 
@@ -143,3 +150,49 @@ elif scelta_menu == "👥 Giocatori Simili":
                     st.subheader(f"I giocatori più simili a {giocatore_scelto['nome']}")
                     for item in simili_misti:
                         draw_player_card(item["oggetto"].properties, etichetta=item["etichetta"])
+elif scelta_menu == "⚙️ Gestione Database":
+    st.title("⚙️ Gestione del Database")
+    st.markdown("Da questa pagina puoi ricalcolare il grafo di Louvain e ripopolare il database vettoriale Weaviate.")
+    
+    st.warning("⚠️ **Attenzione:** Assicurati che il container Docker di Weaviate sia in esecuzione (`docker-compose up -d`) prima di avviare questa procedura.")
+    
+    if st.button("🚀 Avvia Popolamento Database", type="primary"):
+        with st.status("Inizializzazione in corso... Potrebbe volerci qualche minuto.", expanded=True) as status:
+            st.write("Preparazione script `sii.py`...")
+            
+            cartella_corrente = os.path.dirname(os.path.abspath(__file__))
+            script_sii = os.path.join(cartella_corrente, "sii.py")
+            
+            if not os.path.exists(script_sii):
+                status.update(label="Errore: File mancante", state="error")
+                st.error(f"Impossibile trovare il file: {script_sii}")
+            else:
+                try:
+                    st.write("Esecuzione Modello SentenceTransformers e Algoritmo Louvain...")
+                    
+                    env_vars = os.environ.copy()
+                    env_vars["PYTHONIOENCODING"] = "utf-8"
+
+                    # forza lettura in UTF-8
+                    risultato = subprocess.run(
+                        [sys.executable, script_sii], 
+                        capture_output=True, 
+                        text=True, 
+                        check=True,
+                        encoding="utf-8",
+                        env=env_vars
+                    )
+                    
+                    st.write("Caricamento su Weaviate completato!")
+                    status.update(label="Database popolato con successo!", state="complete", expanded=False)
+                    st.balloons()
+                    st.success("Tutti i giocatori sono stati caricati e vettorizzati. Ora puoi usare le funzioni di ricerca!")
+                    
+                    # mostra i log completi in un menu a tendina
+                    with st.expander("📄 Visualizza i log di sistema"):
+                        st.code(risultato.stdout)
+                        
+                except subprocess.CalledProcessError as e:
+                    status.update(label="Errore critico durante il popolamento", state="error", expanded=True)
+                    st.error("L'operazione si è interrotta. Controlla i log qui sotto:")
+                    st.code(e.stderr)
