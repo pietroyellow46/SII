@@ -231,7 +231,6 @@ def cerca_simili_combinato(uuid_target, nome_target, target_community, limite=5)
     finally:
         client_db.close()
 
-# TESTIAMO IL BOT
 if __name__ == "__main__":
     query_utente = "Trovami un'ala forte dominante a rimbalzo che pesa più di 100kg e ha debuttato dopo il 2020"
     print(f" Utente: '{query_utente}'\n" + "-"*50)

@@ -1,27 +1,30 @@
-# 1. Gestione Dati e Matematica
+# Gestione Dati e Matematica
 python-dotenv==1.2.1
 pandas==3.0.3
 numpy==2.4.6
 
-# 2. Machine Learning e Vettorizzazione
+# Machine Learning e Vettorizzazione
 scikit-learn==1.9.0
 sentence-transformers==5.5.1
 
-# 3. Analisi di Rete (Grafo)
+# Analisi di Rete (Grafo)
 networkx==3.6.1
 python-louvain==0.16 
 pyvis==0.3.2          
 
-# 4. Database Vettoriale
+# Database Vettoriale
 weaviate-client==4.21.3
 
-# 5. Scraping (Notebook 01 e Patch)
+# Scraping (Notebook 01 e Patch)
 cloudscraper==1.2.71
 beautifulsoup4==4.14.3
 
-# 6. Exploratory Data Analysis (EDA - Notebook 02)
+# Exploratory Data Analysis (EDA - Notebook 02)
 matplotlib==3.10.9
 seaborn==0.13.2
 
-# 7. LLM
+# LLM
 groq==1.4.0
+
+# Web
+streamlit==1.58.0

@@ -56,13 +56,11 @@ def menu_simili():
             
             print(f"\n Analisi Ibrida (Vettori + Grafo) per {gioc['nome']}...")
             
-            # Richiamiamo la nuova funzione ibrida!
             simili_misti = cerca_simili_combinato(gioc['uuid'], gioc['nome'], gioc['community_id'])
             
             print("\n RISULTATI DELL'ANALISI:")
             for item in simili_misti:
                 obj = item["oggetto"]
-                # Ora stampiamo direttamente il giocatore senza l'etichetta
                 print(f"  -> {formatta_risultato(obj)}")
                 
             input("\nPremi Invio per fare una nuova ricerca...")

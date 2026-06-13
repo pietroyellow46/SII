@@ -68,7 +68,7 @@ df['FG%'] = pd.to_numeric(df['FG%'], errors='coerce').fillna(0.0)
 df['FG3%'] = pd.to_numeric(df['FG3%'], errors='coerce').fillna(0.0)
 
 # Correzione eFG% (Effective Field Goal Percentage)
-# Se l'eFG% manca, significa che non c'erano tiri da 3. 
+# Se l'eFG% manca, significa che non c'erano tiri da 3 
 # In questo caso, l'eFG% equivale matematicamente al normale FG%.
 df['eFG%'] = pd.to_numeric(df['eFG%'], errors='coerce').fillna(df['FG%'])
 
