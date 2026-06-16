@@ -32,25 +32,50 @@ modello_vettori = load_encoder()
 def draw_player_card(props, etichetta=None):
     with st.container():
         
-        # Estrai dati
-        nome = props.get("player", "N/D")
+        # Estrazione di tutti i dati
+        nome = props.get("player", "Sconosciuto")
         ruolo = props.get("ruolo_specifico", "N/D")
-        altezza = props.get('altezza', 'N/D')
-        peso = props.get('peso', 'N/D')
+        altezza_val = props.get("altezza", 0)
+        altezza = f"{altezza_val} cm" if altezza_val > 0 else "N/D"
+        peso = props.get("peso", "N/D")
+        
+        nato = props.get("born", "N/D")
         debutto = props.get("debut", "N/D")
         exp = props.get("experience", "N/D")
+        draft = props.get("draft_team", "N/D")
         
-        col1, col2, col3, col4 = st.columns([2.5, 2, 2, 2.5])
+        pts = props.get("pts", 0.0)
+        trb = props.get("trb", 0.0)
+        ast = props.get("ast", 0.0)
+        fg3 = props.get("fg3_pct", 0.0)
+        efg = props.get("efg_pct", 0.0)
         
+        community = props.get("community_id", "N/D")
+        
+        # Costruzione Grafica della Dashboard
+        st.markdown(f"### 👤 {nome}")
+        
+        # Dividi i dati anagrafici e di carriera in 3 colonne
+        col1, col2, col3 = st.columns(3)
         with col1:
-            st.markdown(f"👤 **{nome}**")
+            st.markdown(f"**🏀 Ruolo:** {ruolo}")
+            st.markdown(f"**⚖️ Fisico:** {altezza} | {peso} kg")
         with col2:
-            st.markdown(f"🏀 {ruolo}")
+            st.markdown(f"**📅 Nato:** {nato}")
+            st.markdown(f"**⏳ Debutto:** {debutto} (Exp: {exp} anni)")
         with col3:
-            st.markdown(f"⚖️ {altezza} cm | {peso} kg")
-        with col4:
-            st.markdown(f"📅 Deb: {debutto} | Exp: {exp}")
+            st.markdown(f"**🏢 Draft:** {draft}")
+            st.markdown(f"**🏘️ Community:** {community}")
             
+        # Metriche in un blocco dedicato sotto
+        st.markdown("**📊 Statistiche Principali:**")
+        s1, s2, s3, s4, s5 = st.columns(5)
+        s1.metric("Punti (PTS)", pts)
+        s2.metric("Rimbalzi (REB)", trb)
+        s3.metric("Assist (AST)", ast)
+        s4.metric("Tiro da 3 (3P%)", f"{fg3}%")
+        s5.metric("Efficienza (eFG%)", f"{efg}%")
+        
         st.divider()
 
 # Interfaccia web
@@ -185,7 +210,6 @@ elif scelta_menu == "⚙️ Gestione Database":
                     
                     st.write("Caricamento su Weaviate completato!")
                     status.update(label="Database popolato con successo!", state="complete", expanded=False)
-                    st.balloons()
                     st.success("Tutti i giocatori sono stati caricati e vettorizzati. Ora puoi usare le funzioni di ricerca!")
                     
                     # mostra i log completi in un menu a tendina

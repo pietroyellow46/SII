@@ -9,15 +9,12 @@ from groq import Groq
 import json
 from dotenv import load_dotenv
 
-# Spegne i warning di Python
+# Silenziamento
 warnings.filterwarnings("ignore")
-
-# Spegne le variabili d'ambiente
 os.environ["HF_HUB_DISABLE_PROGRESS_BARS"] = "1" 
 os.environ["TRANSFORMERS_VERBOSITY"] = "error"
 os.environ["HF_HUB_OFFLINE"] = "1"
 
-# Spegne barra animata (tqdm)
 try:
     from tqdm import tqdm
     from functools import partialmethod
@@ -25,50 +22,62 @@ try:
 except ImportError:
     pass
 
-# Spegne log rimanenti
 logging.getLogger("sentence_transformers").setLevel(logging.ERROR)
 logging.getLogger("huggingface_hub").setLevel(logging.ERROR)
-
-# silenziatore ufficiale
 transformers.logging.set_verbosity_error()
 
-
-# Configurazione GROQ
+# Configurazione Groq
 load_dotenv()
 CHIAVE_GROQ = os.getenv("GROQ_API_KEY")
 
 if not CHIAVE_GROQ:
-    raise ValueError(" Chiave API non trovata! Assicurati di avere il file .env configurato correttamente.")
+    raise ValueError("❌ Chiave API non trovata! Assicurati di avere il file .env configurato correttamente.")
 
 client_ai = Groq(api_key=CHIAVE_GROQ)
 
-
-# LLM PARSER
+# LLM parser
 def analizza_query_con_llm(domanda_utente, verbose=False):
     if verbose:
-        print(" Llama-3 sta analizzando la richiesta...")
+        print("🧠 Llama-3 sta analizzando la richiesta...")
     
     prompt_di_sistema = """
     Sei un assistente per un database NBA vettoriale. 
     Estrai i parametri dalla richiesta dell'utente e rispondi SOLO con un oggetto JSON, senza markdown e senza spiegazioni.
     
     REGOLA FONDAMENTALE (CONSERVATIVE FILTERING):
-    Se l'utente NON menziona in modo esplicito un parametro (peso, anno di debutto o un ruolo esatto), NON provare a indovinarlo o a dedurlo. Nel dubbio, usa sempre 'null'.
+    Se l'utente NON menziona in modo esplicito un parametro, NON provare a indovinarlo. Nel dubbio, usa sempre 'null'.
+    Fai molta attenzione se l'utente chiede un valore "maggiore di" (usa i campi _min) o "minore di" (usa i campi _max).
     
     GLOSSARIO DEI RUOLI (ITALIANO -> INGLESE):
-    Se l'utente specifica un ruolo in italiano, DEVI tradurlo usando ESATTAMENTE questa mappatura:
     - Playmaker / Play -> "Point Guard"
     - Guardia / Guardia Tiratrice -> "Shooting Guard"
     - Ala Piccola -> "Small Forward"
     - Ala Forte / Ala Grande -> "Power Forward"
     - Centro / Pivot / Lungo -> "Center"
     
-    Struttura JSON obbligatoria:
+    Struttura JSON obbligatoria (se non specificato metti null):
     {
-        "semantic_query": "Testo descrittivo (es. dominante a rimbalzo). Escludi da qui il nome del ruolo se lo hai già mappato sotto.",
-        "ruolo_specifico": "Point Guard|Shooting Guard|Small Forward|Power Forward|Center|Combo Guard|Wing (SG/SF)|Combo Forward|Big (PF/C) oppure null se incerto",
-        "peso_minimo": numero intero o null se non specificato,
-        "anno_debutto_minimo": numero intero o null se non specificato
+        "semantic_query": "Testo descrittivo per la ricerca vettoriale (escludi ruoli e numeri).",
+        "ruolo_specifico": "Point Guard|Shooting Guard|Small Forward|Power Forward|Center|Combo Guard|Wing (SG/SF)|Combo Forward|Big (PF/C) oppure null",
+        "squadra_draft": "Nome della squadra che lo ha draftato (es. Lakers) oppure null",
+        "peso_min": numero intero o null,
+        "peso_max": numero intero o null,
+        "altezza_min": numero intero o null,
+        "altezza_max": numero intero o null,
+        "anno_nascita_min": numero intero o null,
+        "anno_nascita_max": numero intero o null,
+        "anno_debutto_min": numero intero o null,
+        "anno_debutto_max": numero intero o null,
+        "pts_min": numero decimale o null,
+        "pts_max": numero decimale o null,
+        "trb_min": numero decimale o null,
+        "trb_max": numero decimale o null,
+        "ast_min": numero decimale o null,
+        "ast_max": numero decimale o null,
+        "fg3_pct_min": numero decimale o null,
+        "fg3_pct_max": numero decimale o null,
+        "efg_pct_min": numero decimale o null,
+        "efg_pct_max": numero decimale o null
     }
     """
     
@@ -86,41 +95,85 @@ def analizza_query_con_llm(domanda_utente, verbose=False):
     return json.loads(contenuto)
 
 
-# MOTORE DI RICERCA IBRIDO
+
+# Funzione formattazione terminale
 def formatta_risultato(oggetto):
     props = oggetto.properties
     
+    # Dati Anagrafici
     nome = props.get('player', 'Sconosciuto')
     ruolo = props.get('ruolo_specifico', 'N/D')
+    altezza_val = props.get('altezza', 0)
+    altezza_str = f"{altezza_val}cm" if altezza_val > 0 else "N/D"
     peso = props.get('peso', 'N/D')
-    altezza = props.get('altezza', 'N/D')
+    
+    # Dati di Carriera
+    nato = props.get('born', 'N/D')
     debutto = props.get('debut', 'N/D')
     exp = props.get('experience', 'N/D')
+    draft = props.get('draft_team', 'N/D')
     
-    return f"{nome:<22} | Ruolo: {ruolo:<15} | Peso: {peso}kg | Altezza: {altezza} | Debutto: {debutto} | Exp: {exp}"
+    # Statistiche Avanzate
+    pts = props.get('pts', 0.0)
+    trb = props.get('trb', 0.0)
+    ast = props.get('ast', 0.0)
+    fg3 = props.get('fg3_pct', 0.0)
+    efg = props.get('efg_pct', 0.0)
+    
+    # Grafo
+    community = props.get('community_id', 'N/D')
+    
+    # Composizione della scheda testuale su più righe
+    riga1 = f"👤 {nome:<22} | 🏀 {ruolo:<15} | ⚖️ {altezza_str} {peso}kg"
+    riga2 = f"   📅 Nato: {nato} | Deb: {debutto} | Exp: {exp} | Draft: {draft}"
+    riga3 = f"   📊 STATS: {pts} PTS | {trb} REB | {ast} AST | 3P%: {fg3}% | eFG%: {efg}%"
+    riga4 = f"   🏘️ Community Louvain: {community}"
+    
+    return f"{riga1}\n{riga2}\n{riga3}\n{riga4}\n"
 
 def esegui_ricerca(domanda_utente, verbose=False):
     try:
         parametri = analizza_query_con_llm(domanda_utente, verbose)
         if verbose:
-            print(f" JSON Estratto:\n{json.dumps(parametri, indent=2)}\n")
+            print(f"📄 JSON Estratto:\n{json.dumps(parametri, indent=2)}\n")
     except Exception as e:
-        print(f" Errore nell'analisi LLM: {e}")
+        print(f"❌ Errore nell'analisi LLM: {e}")
         return
 
     modello_vettori = SentenceTransformer('all-MiniLM-L6-v2')
     testo_semantico = parametri.get("semantic_query", "")
     vettore_query = modello_vettori.encode(testo_semantico, show_progress_bar=False).tolist() if testo_semantico else None
 
-    # Costruzione filtri Weaviate
+    # filtri weaviate
     filtri_weaviate = []
-    if parametri.get("peso_minimo"):
-        filtri_weaviate.append(Filter.by_property("peso").greater_or_equal(parametri["peso_minimo"]))
-    if parametri.get("anno_debutto_minimo"):
-        filtri_weaviate.append(Filter.by_property("debut").greater_or_equal(parametri["anno_debutto_minimo"]))
+
+    def aggiungi_filtro_numerico(chiave_min, chiave_max, colonna_weaviate):
+        val_min = parametri.get(chiave_min)
+        val_max = parametri.get(chiave_max)
+        if val_min is not None:
+            filtri_weaviate.append(Filter.by_property(colonna_weaviate).greater_or_equal(val_min))
+        if val_max is not None:
+            filtri_weaviate.append(Filter.by_property(colonna_weaviate).less_or_equal(val_max))
+
+    # Filtri matematici (Min e Max)
+    aggiungi_filtro_numerico("peso_min", "peso_max", "peso")
+    aggiungi_filtro_numerico("altezza_min", "altezza_max", "altezza")
+    aggiungi_filtro_numerico("anno_nascita_min", "anno_nascita_max", "born")
+    aggiungi_filtro_numerico("anno_debutto_min", "anno_debutto_max", "debut")
+    aggiungi_filtro_numerico("pts_min", "pts_max", "pts")
+    aggiungi_filtro_numerico("trb_min", "trb_max", "trb")
+    aggiungi_filtro_numerico("ast_min", "ast_max", "ast")
+    aggiungi_filtro_numerico("fg3_pct_min", "fg3_pct_max", "fg3_pct")
+    aggiungi_filtro_numerico("efg_pct_min", "efg_pct_max", "efg_pct")
+
+    # Filtri di Testo (Ruolo e Squadra)
     if parametri.get("ruolo_specifico"):
         filtri_weaviate.append(Filter.by_property("ruolo_specifico").equal(parametri["ruolo_specifico"]))
+        
+    if parametri.get("squadra_draft"):
+        filtri_weaviate.append(Filter.by_property("draft_team").like(f"*{parametri['squadra_draft']}*"))
 
+    # Filtri insieme con la logica AND (&)
     filtro_finale = None
     if filtri_weaviate:
         filtro_finale = filtri_weaviate[0]
@@ -128,10 +181,9 @@ def esegui_ricerca(domanda_utente, verbose=False):
             filtro_finale = filtro_finale & f
 
     if verbose:
-        print(" Ricerca in Weaviate in corso...\n")
+        print("🔍 Ricerca in Weaviate in corso...\n")
         
     client_db = weaviate.connect_to_local()
-    
     try:
         collezione = client_db.collections.get("GiocatoriNBA")
         
@@ -158,16 +210,12 @@ def esegui_ricerca(domanda_utente, verbose=False):
         client_db.close()
 
 
-# RICERCA GIOCATORI SIMILI
+# Ricerca giocatori simili
 def cerca_giocatori_fuzzy(testo_nome, limite=5):
     client_db = weaviate.connect_to_local()
     try:
         collezione = client_db.collections.get("GiocatoriNBA")
-
-        # Inizializzia il modello
         modello_vettori = SentenceTransformer('all-MiniLM-L6-v2')
-
-        # Vettorizzia
         vettore = modello_vettori.encode(testo_nome, show_progress_bar=False).tolist()
         
         risultati = collezione.query.near_vector(
@@ -192,23 +240,18 @@ def cerca_simili_combinato(uuid_target, nome_target, target_community, limite=5)
     try:
         collezione = client_db.collections.get("GiocatoriNBA")
         
-        # Ricerca GLOBALE (Pura somiglianza vettoriale)
         res_globale = collezione.query.near_object(
             near_object=uuid_target,
             limit=limite + 1
         )
         
-        # Ricerca COMMUNITY (Vincolata al grafo di Louvain)
         res_community = collezione.query.near_object(
             near_object=uuid_target,
             limit=limite + 1,
             filters=Filter.by_property("community_id").equal(target_community)
         )
         
-        # Dizionario per unire i risultati e trovare le sovrapposizioni (Match Perfetti)
         giocatori_uniti = {}
-        
-        # Inserisci risultati globali
         count_glob = 0
         for obj in res_globale.objects:
             if obj.properties.get("player") != nome_target:
@@ -216,12 +259,11 @@ def cerca_simili_combinato(uuid_target, nome_target, target_community, limite=5)
                 count_glob += 1
                 if count_glob == limite: break
                 
-        # Inserisci risultati della community
         count_comm = 0
         for obj in res_community.objects:
             if obj.properties.get("player") != nome_target:
                 if obj.uuid in giocatori_uniti:
-                    giocatori_uniti[obj.uuid]["etichetta"] = " PERFETTO (Globale + Grafo)"
+                    giocatori_uniti[obj.uuid]["etichetta"] = "⭐ PERFETTO (Globale + Grafo)"
                 else:
                     giocatori_uniti[obj.uuid] = {"oggetto": obj, "etichetta": f"🏘️ COMMUNITY {target_community}"}
                 count_comm += 1
@@ -232,6 +274,6 @@ def cerca_simili_combinato(uuid_target, nome_target, target_community, limite=5)
         client_db.close()
 
 if __name__ == "__main__":
-    query_utente = "Trovami un'ala forte dominante a rimbalzo che pesa più di 100kg e ha debuttato dopo il 2020"
-    print(f" Utente: '{query_utente}'\n" + "-"*50)
+    query_utente = "Trovami un play super esplosivo e leader emotivo nato dopo il 1995, che sia più basso di 195cm e segni più di 20 punti smazzando almeno 7 assist"
+    print(f"👤 Utente: '{query_utente}'\n" + "-"*50)
     esegui_ricerca(query_utente, verbose=True)

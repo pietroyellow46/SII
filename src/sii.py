@@ -18,6 +18,13 @@ def safe_int(val, default=0):
     except (ValueError, TypeError):
         return default
 
+# Funzione intelligente per estrarre solo i numeri (es. "188 cm" -> 188)
+def estrai_altezza(val):
+    if not val or pd.isna(val): 
+        return 0
+    numeri = re.findall(r'\d+', str(val))
+    return int(numeri[0]) if numeri else 0
+
 logging.basicConfig(level=logging.INFO)
 
 
@@ -139,7 +146,7 @@ with collezione.batch.dynamic() as batch:
                 "debut": safe_int(riga.get('Debut')),
                 "draft_team": str(riga.get('Draft Team', 'Undrafted')),
 
-                "altezza": str(riga.get('Altezza', 'N/D')),
+                "altezza": estrai_altezza(riga.get('Altezza')),
                 "experience": str(riga.get('Experience', riga.get('Exp', 'N/D'))),
                 
                 # STATISTICHE CHIAVE
