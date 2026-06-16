@@ -147,8 +147,7 @@ with collezione.batch.dynamic() as batch:
                 "draft_team": str(riga.get('Draft Team', 'Undrafted')),
 
                 "altezza": estrai_altezza(riga.get('Altezza')),
-                "experience": str(riga.get('Experience', riga.get('Exp', 'N/D'))),
-                
+                "experience": safe_int(riga.get('Experience', riga.get('Exp', 0))),                
                 # STATISTICHE CHIAVE
                 "pts": float(riga.get('PTS', 0.0)),
                 "trb": float(riga.get('TRB', 0.0)),

@@ -22,7 +22,20 @@ def menu_ricerca():
         if not query.strip():
             continue
             
-        esegui_ricerca(query)
+        risultati, parametri = esegui_ricerca(query, return_params=True)
+
+        print("\n🏀 RISULTATI TROVATI:\n")
+
+        # Gestione del ritorno
+        if risultati is None:
+            print(" ❌ Errore nella ricerca.")
+            
+        elif hasattr(risultati, 'objects') and risultati.objects:
+           
+            for obj in risultati.objects:
+                print("  ->", formatta_risultato(obj))
+        else:
+            print("  Nessun giocatore trovato.")
 
 def menu_simili():
     while True:

@@ -11,7 +11,8 @@ import subprocess
 from query_LLM import (
     analizza_query_con_llm, 
     cerca_giocatori_fuzzy, 
-    cerca_simili_combinato
+    cerca_simili_combinato,
+    esegui_ricerca
 )
 
 # Forza il terminale a usare UTF-8 per supportare i nomi internazionali
@@ -98,51 +99,20 @@ if scelta_menu == "🔍 Ricerca Intelligente":
         
         with st.spinner("Llama-3 sta ragionando sui filtri..."):
             try:
-                parametri = analizza_query_con_llm(query, verbose=False)
+                risultati_obj, parametri_estratti = esegui_ricerca(query, return_params=True)
                 
-                # JSON estratto box a tendina
                 with st.expander("📄 Visualizza il JSON estratto dall'LLM"):
-                    st.json(parametri)
+                    st.json(parametri_estratti)
                     
-                # logica di ricerca
-                testo_semantico = parametri.get("semantic_query", "")
-                vettore_query = modello_vettori.encode(testo_semantico, show_progress_bar=False).tolist() if testo_semantico else None
+                st.success("Ricerca completata!")
                 
-                filtri_weaviate = []
-                if parametri.get("peso_minimo"):
-                    filtri_weaviate.append(Filter.by_property("peso").greater_or_equal(parametri["peso_minimo"]))
-                if parametri.get("anno_debutto_minimo"):
-                    filtri_weaviate.append(Filter.by_property("debut").greater_or_equal(parametri["anno_debutto_minimo"]))
-                if parametri.get("ruolo_specifico"):
-                    filtri_weaviate.append(Filter.by_property("ruolo_specifico").equal(parametri["ruolo_specifico"]))
-
-                filtro_finale = None
-                if filtri_weaviate:
-                    filtro_finale = filtri_weaviate[0]
-                    for f in filtri_weaviate[1:]:
-                        filtro_finale = filtro_finale & f
-
-                # Query a Weaviate
-                client_db = weaviate.connect_to_local()
-                try:
-                    collezione = client_db.collections.get("GiocatoriNBA")
-                    if vettore_query:
-                        risultati = collezione.query.near_vector(near_vector=vettore_query, limit=5, filters=filtro_finale)
-                    else:
-                        risultati = collezione.query.fetch_objects(limit=5, filters=filtro_finale)
-                    
-                    st.success("Ricerca completata!")
-                    
-                    if not risultati.objects:
-                        st.warning("Nessun giocatore trovato con questi parametri rigidi.")
-                    else:
-                        for obj in risultati.objects:
-                            draw_player_card(obj.properties)
-                            
-                finally:
-                    client_db.close()
+                if risultati_obj is None or not hasattr(risultati_obj, 'objects') or not risultati_obj.objects:
+                    st.warning("Nessun giocatore trovato o criteri troppo stringenti.")
+                else:
+                    for obj in risultati_obj.objects:
+                        draw_player_card(obj.properties)
             except Exception as e:
-                st.error(f"Errore durante l'elaborazione: {e}")
+                st.error(f"Errore: {e}")
 
 elif scelta_menu == "👥 Giocatori Simili":
     st.title("Raccomandazione Ibrida")

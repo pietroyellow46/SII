@@ -42,11 +42,13 @@ def analizza_query_con_llm(domanda_utente, verbose=False):
     
     prompt_di_sistema = """
     Sei un assistente per un database NBA vettoriale. 
-    Estrai i parametri dalla richiesta dell'utente e rispondi SOLO con un oggetto JSON, senza markdown e senza spiegazioni.
+    Estrai i parametri dalla richiesta dell'utente e rispondi SOLO con un oggetto JSON valido, senza markdown (es. niente ```json) e senza spiegazioni.
     
     REGOLA FONDAMENTALE (CONSERVATIVE FILTERING):
     Se l'utente NON menziona in modo esplicito un parametro, NON provare a indovinarlo. Nel dubbio, usa sempre 'null'.
-    Fai molta attenzione se l'utente chiede un valore "maggiore di" (usa i campi _min) o "minore di" (usa i campi _max).
+    Fai attenzione alla logica temporale e numerica: 
+    - "maggiore di", "dopo il", "almeno" -> usa i campi _min.
+    - "minore di", "prima del", "massimo" -> usa i campi _max.
     
     GLOSSARIO DEI RUOLI (ITALIANO -> INGLESE):
     - Playmaker / Play -> "Point Guard"
@@ -54,32 +56,45 @@ def analizza_query_con_llm(domanda_utente, verbose=False):
     - Ala Piccola -> "Small Forward"
     - Ala Forte / Ala Grande -> "Power Forward"
     - Centro / Pivot / Lungo -> "Center"
+
+    [VINCOLO OBBLIGATORIO SUL RUOLO]
+    Il database contiene SOLO i seguenti 6 valori normalizzati per la proprietà 'ruolo_specifico'. NON inventare mai nomi di ruoli che non sono in questo elenco:
+    1. "Point Guard"
+    2. "Shooting Guard"
+    3. "Small Forward"
+    4. "Power Forward"
+    5. "Center"
+    6. "Big (PF/C)"
+    Se l'utente usa sinonimi, mappali correttamente. Se è ambiguo tra due ruoli simili, preferisci categorie ampie come "Big (PF/C)".
     
-    Struttura JSON obbligatoria (se non specificato metti null):
+    Struttura JSON obbligatoria (se un dato non è richiesto, imposta il valore su null):
     {
-        "semantic_query": "Testo descrittivo per la ricerca vettoriale (escludi ruoli e numeri).",
-        "ruolo_specifico": "Point Guard|Shooting Guard|Small Forward|Power Forward|Center|Combo Guard|Wing (SG/SF)|Combo Forward|Big (PF/C) oppure null",
-        "squadra_draft": "Nome della squadra che lo ha draftato (es. Lakers) oppure null",
-        "peso_min": numero intero o null,
-        "peso_max": numero intero o null,
-        "altezza_min": numero intero o null,
-        "altezza_max": numero intero o null,
-        "anno_nascita_min": numero intero o null,
-        "anno_nascita_max": numero intero o null,
-        "anno_debutto_min": numero intero o null,
-        "anno_debutto_max": numero intero o null,
-        "pts_min": numero decimale o null,
-        "pts_max": numero decimale o null,
-        "trb_min": numero decimale o null,
-        "trb_max": numero decimale o null,
-        "ast_min": numero decimale o null,
-        "ast_max": numero decimale o null,
-        "fg3_pct_min": numero decimale o null,
-        "fg3_pct_max": numero decimale o null,
-        "efg_pct_min": numero decimale o null,
-        "efg_pct_max": numero decimale o null
+        "semantic_query": "Testo descrittivo per la ricerca vettoriale (escludi ruoli e numeri stringenti).",
+        "ruolo_specifico": "Point Guard|Shooting Guard|Small Forward|Power Forward|Center|Big (PF/C) oppure null",
+        "squadra_draft": "Solo la keyword della squadra che lo ha draftato (es. 'Lakers' invece di 'Los Angeles Lakers') oppure null",
+        "peso_min": "numero intero (PESO in kg) o null",
+        "peso_max": "numero intero (PESO in kg) o null",
+        "altezza_min": "numero intero (ALTEZZA in cm) o null",
+        "altezza_max": "numero intero (ALTEZZA in cm) o null",
+        "anno_nascita_min": "anno in formato intero (es. 1990) o null",
+        "anno_nascita_max": "anno in formato intero o null",
+        "anno_debutto_min": "anno in formato intero (DEBUTTO/DRAFT) o null",
+        "anno_debutto_max": "anno in formato intero o null",
+        "experience_min": "numero intero (ANNI DI ESPERIENZA/CARRIERA) o null",
+        "experience_max": "numero intero o null",
+        "pts_min": "numero decimale (PUNTI SEGNATI) o null",
+        "pts_max": "numero decimale o null",
+        "trb_min": "numero decimale (RIMBALZI TOTALI) o null",
+        "trb_max": "numero decimale o null",
+        "ast_min": "numero decimale (ASSIST) o null",
+        "ast_max": "numero decimale o null",
+        "fg3_pct_min": "numero decimale tra 0 e 1 (PERCENTUALE DA 3 PUNTI, es. 0.38 per 38%) o null",
+        "fg3_pct_max": "numero decimale tra 0 e 1 o null",
+        "efg_pct_min": "numero decimale tra 0 e 1 (EFFICIENZA AL TIRO / eFG%) o null",
+        "efg_pct_max": "numero decimale tra 0 e 1 o null"
     }
     """
+    
     
     risposta = client_ai.chat.completions.create(
         messages=[
@@ -131,14 +146,14 @@ def formatta_risultato(oggetto):
     
     return f"{riga1}\n{riga2}\n{riga3}\n{riga4}\n"
 
-def esegui_ricerca(domanda_utente, verbose=False):
+def esegui_ricerca(domanda_utente, verbose=False, return_params=False):
     try:
         parametri = analizza_query_con_llm(domanda_utente, verbose)
         if verbose:
             print(f"📄 JSON Estratto:\n{json.dumps(parametri, indent=2)}\n")
     except Exception as e:
         print(f"❌ Errore nell'analisi LLM: {e}")
-        return
+        return (None, None) if return_params else None
 
     modello_vettori = SentenceTransformer('all-MiniLM-L6-v2')
     testo_semantico = parametri.get("semantic_query", "")
@@ -150,10 +165,20 @@ def esegui_ricerca(domanda_utente, verbose=False):
     def aggiungi_filtro_numerico(chiave_min, chiave_max, colonna_weaviate):
         val_min = parametri.get(chiave_min)
         val_max = parametri.get(chiave_max)
+        
+        # Lista delle colonne che nel DB sono 0-100 ma l'LLM estrae 0-1
+        colonne_percentuali = ["fg3_pct", "efg_pct"]
+        
+        # Moltiplichi per 100 solo se la colonna è una percentuale
+        moltiplicatore = 100 if colonna_weaviate in colonne_percentuali else 1
+        
         if val_min is not None:
-            filtri_weaviate.append(Filter.by_property(colonna_weaviate).greater_or_equal(val_min))
+            val_min_finale = val_min * moltiplicatore
+            filtri_weaviate.append(Filter.by_property(colonna_weaviate).greater_or_equal(val_min_finale))
+            
         if val_max is not None:
-            filtri_weaviate.append(Filter.by_property(colonna_weaviate).less_or_equal(val_max))
+            val_max_finale = val_max * moltiplicatore
+            filtri_weaviate.append(Filter.by_property(colonna_weaviate).less_or_equal(val_max_finale))
 
     # Filtri matematici (Min e Max)
     aggiungi_filtro_numerico("peso_min", "peso_max", "peso")
@@ -165,6 +190,7 @@ def esegui_ricerca(domanda_utente, verbose=False):
     aggiungi_filtro_numerico("ast_min", "ast_max", "ast")
     aggiungi_filtro_numerico("fg3_pct_min", "fg3_pct_max", "fg3_pct")
     aggiungi_filtro_numerico("efg_pct_min", "efg_pct_max", "efg_pct")
+    aggiungi_filtro_numerico("experience_min", "experience_max", "experience")
 
     # Filtri di Testo (Ruolo e Squadra)
     if parametri.get("ruolo_specifico"):
@@ -174,11 +200,7 @@ def esegui_ricerca(domanda_utente, verbose=False):
         filtri_weaviate.append(Filter.by_property("draft_team").like(f"*{parametri['squadra_draft']}*"))
 
     # Filtri insieme con la logica AND (&)
-    filtro_finale = None
-    if filtri_weaviate:
-        filtro_finale = filtri_weaviate[0]
-        for f in filtri_weaviate[1:]:
-            filtro_finale = filtro_finale & f
+    filtro_finale = Filter.all_of(filtri_weaviate) if filtri_weaviate else None
 
     if verbose:
         print("🔍 Ricerca in Weaviate in corso...\n")
@@ -199,13 +221,13 @@ def esegui_ricerca(domanda_utente, verbose=False):
                 filters=filtro_finale
             )
             
-        print("\n🏀 RISULTATI TROVATI:")
-        if not risultati.objects:
-            print("  Nessun giocatore trovato con questi parametri rigidi.")
-        else:
-            for o in risultati.objects:
-                print("  ->", formatta_risultato(o))
-                
+        if return_params:
+            return risultati, parametri
+        return risultati
+        
+    except Exception as e:
+        print(f"❌ Errore DB Weaviate: {e}")
+        return (None, parametri) if return_params else None
     finally:
         client_db.close()
 
@@ -274,6 +296,26 @@ def cerca_simili_combinato(uuid_target, nome_target, target_community, limite=5)
         client_db.close()
 
 if __name__ == "__main__":
-    query_utente = "Trovami un play super esplosivo e leader emotivo nato dopo il 1995, che sia più basso di 195cm e segni più di 20 punti smazzando almeno 7 assist"
-    print(f"👤 Utente: '{query_utente}'\n" + "-"*50)
-    esegui_ricerca(query_utente, verbose=True)
+    query_utente = "Cerco una guardia tiratrice (Shooting Guard) alta tra i 190cm e i 195cm, che tira con più del 40% da tre punti e che è stata scelta dopo il 2020 scelto dai lakers"
+    print(f"\n👤 Utente: '{query_utente}'\n")
+
+    risultati, parametri = esegui_ricerca(query_utente, return_params=True)
+
+    # stampa JSON estratto
+    print("📄 Parametri estratti dall'LLM:")
+    if parametri:
+        print(json.dumps(parametri, indent=4))
+    else:
+        print("Nessun parametro estratto (errore LLM).")
+    print("\n🏀 RISULTATI TROVATI:")
+
+    # se risultati è None o non ha la proprietà 'objects', diventa una lista vuota []
+    giocatori = getattr(risultati, 'objects', []) if risultati else []
+
+    # ciclo for parte solo se ci sono giocatori. Se la lista è vuota, viene ignorato.
+    for obj in giocatori:
+        print("  ->", formatta_risultato(obj))
+
+    # unico controllo per avvisare se la lista è vuota
+    if not giocatori:
+        print("  Nessun giocatore trovato o errore nella ricerca.")
