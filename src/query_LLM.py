@@ -237,11 +237,11 @@ def cerca_giocatori_fuzzy(testo_nome, limite=5):
     client_db = weaviate.connect_to_local()
     try:
         collezione = client_db.collections.get("GiocatoriNBA")
-        modello_vettori = SentenceTransformer('all-MiniLM-L6-v2')
-        vettore = modello_vettori.encode(testo_nome, show_progress_bar=False).tolist()
         
-        risultati = collezione.query.near_vector(
-            near_vector=vettore,
+        # Usiamo BM25 (Keyword Search) per cercare esattamente nel campo 'player'
+        risultati = collezione.query.bm25(
+            query=testo_nome,
+            query_properties=["player"], # Cerca solo nella colonna dei nomi
             limit=limite
         )
         
